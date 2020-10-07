@@ -28,3 +28,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 b-api.facebook.com
 0.0.0.0 fbcdn.net
 0.0.0.0 fbsbx.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 web.facebook.com
