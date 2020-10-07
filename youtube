@@ -37,6 +37,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 216.239.38.119
 0.0.0.0 youtu.be
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 https://www.youtube.com
 
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
