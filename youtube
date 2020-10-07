@@ -35,6 +35,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 216.58.192.142
 0.0.0.0 216.239.38.119
-0.0.0.0 spoc-pool-gtm.norton.com
 0.0.0.0 youtu.be
 0.0.0.0 safebrowsing.googleapis.com
+
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 connectivitycheck.gstatic.com
+
+0.0.0.0 spoc-pool-gtm.norton.com
