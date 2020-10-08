@@ -114,7 +114,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 se.reddit.com
 0.0.0.0 security.reddit.com
 0.0.0.0 sendbird.reddit.com
-0.0.0.0 sendbird.reddit.com
 0.0.0.0 sendbirdproxy-003d8d1fb8653f6f8.chat.redditmedia.com
 0.0.0.0 sendbirdproxy-04ea6c3f71aac3e3f.chat.redditmedia.com
 0.0.0.0 sendbirdproxy-06490ff42851cbcc5.chat.redditmedia.com
@@ -143,7 +142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.reddit.com
 0.0.0.0 www.reddithelp.com
 0.0.0.0 www.redditmedia.com
-0.0.0.0 www.redditstatic.com
 0.0.0.0 www.redditstatic.com
 0.0.0.0 xa.reddit.com
 0.0.0.0 xr.reddit.com
