@@ -1,2 +1,2 @@
-# hosts
-Sites to block in hosts
+# stuff
+collection of hosts, keywords, filters
