@@ -13,16 +13,16 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 apidocs.imgur.com
 0.0.0.0 api.imgur.com
-0.0.0.0 help.imgur.com
+0.0.0.0 apidocs.imgur.com
 0.0.0.0 blog.imgur.com
 0.0.0.0 browserevents.imgur.com
+0.0.0.0 help.imgur.com
+0.0.0.0 i.imgur.com
+0.0.0.0 i.stack.imgur.com
+0.0.0.0 imgur.com
+0.0.0.0 m.imgur.com
 0.0.0.0 p.imgur.com
 0.0.0.0 s.imgur.com
 0.0.0.0 store.imgur.com
-0.0.0.0 i.imgur.com
-0.0.0.0 imgur.com
 0.0.0.0 www.imgur.com
-0.0.0.0 m.imgur.com
-0.0.0.0 i.stack.imgur.com
