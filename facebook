@@ -46,7 +46,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 m.facebook.com
-0.0.0.0 www.facebook.com
 0.0.0.0 blog.facebook.com
 0.0.0.0 apps.facebook.com
 0.0.0.0 login.facebook.com
@@ -60,3 +59,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 facebook.net
 0.0.0.0 mqtt.vvv.facebook.com
 0.0.0.0 c10r.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 m.fb.com
+0.0.0.0 0.fb.com
