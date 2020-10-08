@@ -1,2 +1,2 @@
-# stuff
+# lists
 collection of hosts, keywords, filters
