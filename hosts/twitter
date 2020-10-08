@@ -1,0 +1,36 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 twimg.com
+0.0.0.0 api.twitter.com
+0.0.0.0 pic.twitter.com
+0.0.0.0 dev.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 search.twitter.com
+0.0.0.0 userstream.twitter.com
+0.0.0.0 twimg0-a.akamaihd.net
+0.0.0.0 upload.twitter.com
+0.0.0.0 api.twitter.com
+
+0.0.0.0 www.twimg.com
+0.0.0.0 www.api.twitter.com
+0.0.0.0 www.pic.twitter.com
+0.0.0.0 www.dev.twitter.com
+0.0.0.0 www.platform.twitter.com
+0.0.0.0 www.search.twitter.com
+0.0.0.0 www.userstream.twitter.com
+0.0.0.0 www.twimg0-a.akamaihd.net
+0.0.0.0 www.upload.twitter.com
+0.0.0.0 www.api.twitter.com
