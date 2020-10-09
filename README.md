@@ -16,6 +16,7 @@ hosts
 * https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/
 * https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/
 * https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+* https://www.dephormation.org.uk/?page=2
 
 hosts todo:
 [ ] https://github.com/HDVinnie/Private-Trackers-Spreadsheet
@@ -71,21 +72,26 @@ find negative keyword list: <br />
 # subscriptions
 
 hosts:
-* [Anti Porn Hosts File](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt)
-* [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) or [GoodByeAds-Ultra](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt)
-* [Lightswitch05's amp-hosts-extended.txt](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
-* [Lightswitch05's ads-and-tracking-extended.txt](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
-* [Lightswitch05's tracking-aggressive-extended.txt](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt)
-* [Lightswitch05's facebook-extended.txt](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt)
+* [4skinSkywalker's Anti Porn Hosts File](https://github.com/4skinSkywalker/anti-porn-hosts-file) ([Raw](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt))
+* [Clefspeare13's pornhosts](https://github.com/Clefspeare13/pornhosts) ([Raw](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/strict/0.0.0.0/hosts))
+* [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds/) ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt))
+* [GoodbyeAds YouTube Adblock Extension] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
+* [GoodbyeAds LeEco Adblock Extension] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt))
+* [GoodbyeAds-Spotify-AdBlock] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt))
+* [GoodbyeAds Youtube Adblock Extension] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
+* [Lightswitch05's amp-hosts-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt))
+* [Lightswitch05's ads-and-tracking-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt))
+* [Lightswitch05's tracking-aggressive-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt))
+* [Lightswitch05's facebook-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt))
 
 AdBlock-style filters:
-* [Web Annoyances Ultralist](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)
+* [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) ([Raw](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt))
 
 AdGuard Home:
-* [Perflyst and Dandelion Sprout's Smart-TV Blocklist for AdGuard Home](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt)
-* [hl2guide's Filterlist for AdGuard](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt)
+* [Perflyst and Dandelion Sprout's Smart-TV Blocklist for AdGuard Home](https://github.com/Perflyst/PiHoleBlocklist) ([Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt))
+* [hl2guide's Filterlist for AdGuard](https://github.com/hl2guide/Filterlist-for-AdGuard) ([Raw]((https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt))
 
-RegExp filters:
+RegEx filters:
 * none yet
 
 # tools
@@ -112,4 +118,6 @@ Windows
 
 Chrome Extensions:
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
+* Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
 * [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
+* [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi)]
