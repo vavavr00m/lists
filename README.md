@@ -2,8 +2,6 @@
 
 A collection of hosts, keywords, filters
 
-# SOURCES
-
 # hosts
 
 * https://support.umbrella.com/hc/en-us/articles/115007472907-Block-Page-Bypass-or-Allow-Only-mode-Domains-to-Allow
@@ -35,26 +33,26 @@ mania/obsession
 
 none yet
 
-# TO DO
+# to do
 
 find:
-[ ] profanities
-[ ] kinks
-[ ] social media sites
-[ ] chat services
-[ ] dating sites
+[ ] profanities <br />
+[ ] kinks <br />
+[ ] social media sites <br />
+[ ] chat services <br />
+[ ] dating sites <br />
 
 find negative keyword list
-[ ] Google
-[ ] Twitter
-[ ] Tik Tok
-[ ] Facebook
-[ ] YouTube
-[ ] Instagram
-[ ] Tumblr
-[ ] LinkedIN
+[ ] Google <br />
+[ ] Twitter <br />
+[ ] Tik Tok <br />
+[ ] Facebook <br />
+[ ] YouTube <br />
+[ ] Instagram <br />
+[ ] Tumblr <br />
+[ ] LinkedIN <br />
 
-# TO EXPLORE
+# to do
 
 * https://buffer.com/library/social-media-sites/
 * https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true
