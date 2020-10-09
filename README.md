@@ -1,7 +1,3 @@
-# lists
-
-A collection of hosts, keywords, filters, regexp
-
 # resources
 
 hosts
