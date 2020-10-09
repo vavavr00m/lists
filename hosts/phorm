@@ -1,0 +1,169 @@
+# https://www.dephormation.org.uk/?page=2
+# As of 2016-12-10
+
+# Known & Suspected OIX Domains
+
+0.0.0.0 adobur.com
+0.0.0.0 adoburcrv.com
+0.0.0.0 adobur.net
+0.0.0.0 discoverdemo.com
+0.0.0.0 fengfengtie.com.cn
+0.0.0.0 fengfengtiecrv.com.cn
+0.0.0.0 fengfengtiessp.com.cn
+0.0.0.0 fideo.com
+0.0.0.0 fideocrv.com
+0.0.0.0 genni.com.cn
+0.0.0.0 gennicrv.com.cn
+0.0.0.0 imrk.net
+0.0.0.0 imrk2.net
+0.0.0.0 imrksvr2.net
+0.0.0.0 imrkcrv.net
+0.0.0.0 imarker.com
+0.0.0.0 imarker.ru
+0.0.0.0 moodoo.com.cn
+0.0.0.0 moodoocrv.com.cn
+0.0.0.0 moodoocn.com
+0.0.0.0 moodoocncrv.com
+0.0.0.0 nyiax.com
+0.0.0.0 oidiscover.com
+0.0.0.0 oix.com
+0.0.0.0 oix.net
+0.0.0.0 oix[0-9].net
+0.0.0.0 oix0.net
+0.0.0.0 oix1.net
+0.0.0.0 oix2.net
+0.0.0.0 oix3.net
+0.0.0.0 oix4.net
+0.0.0.0 oix5.net
+0.0.0.0 oix6.net
+0.0.0.0 oix7.net
+0.0.0.0 oix8.net
+0.0.0.0 oix9.net
+0.0.0.0 oixcrv.net
+0.0.0.0 oixcrv-lab.net
+0.0.0.0 oixcrv-stage.net
+0.0.0.0 oixpre.net
+0.0.0.0 oixpre-stage.net
+0.0.0.0 oixssp.net
+0.0.0.0 oixssp-lab.net
+0.0.0.0 oixssp-stage.net
+0.0.0.0 oix-stage.net
+0.0.0.0 oixchina.com
+0.0.0.0 phluidmedia.com
+0.0.0.0 phluidmedia.net
+0.0.0.0 phluidmediacrv.com
+0.0.0.0 phluidmediacrv.net
+0.0.0.0 phorm.kr
+0.0.0.0 phormdev.com
+0.0.0.0 phormlabs.com
+0.0.0.0 phormchina.com
+0.0.0.0 phormkorea.com
+0.0.0.0 phormservice.com
+0.0.0.0 phormprivacy.com
+0.0.0.0 phormsolution.com
+0.0.0.0 phormstandards.com
+0.0.0.0 phorm.ch
+0.0.0.0 phorm.com.br
+0.0.0.0 phorm.com.es
+0.0.0.0 phorm.com.mx
+0.0.0.0 phorm.com.tr
+0.0.0.0 phorm.es
+0.0.0.0 phorm.in
+0.0.0.0 phorm.ro
+0.0.0.0 phorm.jp
+0.0.0.0 phorm.dk
+0.0.0.0 phorm.biz.tr
+0.0.0.0 phorm.co.in
+0.0.0.0 phorm.co.uk
+0.0.0.0 phorm.hk
+0.0.0.0 phorm.info.tr
+0.0.0.0 phorm.org.es
+0.0.0.0 phorm.nom.es
+0.0.0.0 phorm.tv.tr
+0.0.0.0 phorm.web.tr
+0.0.0.0 phorm.cl
+0.0.0.0 phormdiscover.com
+0.0.0.0 webwise.com
+0.0.0.0 webwise.net
+0.0.0.0 webwise.org
+0.0.0.0 webnavegador.com.br
+0.0.0.0 webnavegador.com
+0.0.0.0 ptreklam.com.tr
+0.0.0.0 ptreklamcrv.com.tr
+0.0.0.0 ptreklam.com
+0.0.0.0 ptreklamcrv.com.tr
+0.0.0.0 ptreklamssp.com.tr
+0.0.0.0 ptreklamssp.com
+0.0.0.0 ptreklamssp.net
+0.0.0.0 ptreklamcrv.com
+0.0.0.0 ptreklamcrv.net
+0.0.0.0 ptreklam.net
+0.0.0.0 openinternetexchange.org
+0.0.0.0 openinternetexchange.com
+0.0.0.0 openinternetexchange.net
+0.0.0.0 gezinti.com
+0.0.0.0 sysip.net
+0.0.0.0 reklam-1.com
+0.0.0.0 reklam-one.com
+0.0.0.0 pagesense.com
+0.0.0.0 wovven.net
+0.0.0.0 wovvencrv.net
+0.0.0.0 wovven.com
+0.0.0.0 wovvencrv.com
+
+# Phorm Owned/Controlled Non-OIX Domains
+
+0.0.0.0 121media.com
+0.0.0.0 icanoptout.com
+0.0.0.0 youcanoptin.com
+0.0.0.0 youcanoptin.net
+0.0.0.0 youcanoptin.org
+0.0.0.0 youcanoptout.com
+0.0.0.0 youcanoptout.net
+0.0.0.0 youcanoptout.org
+0.0.0.0 kidargyle.com
+0.0.0.0 maxbonding.com
+0.0.0.0 server821.com
+
+# Phorm Hosted Third Party/Operator Owned Domains
+
+0.0.0.0 gozatar.com
+0.0.0.0 myclicknet.ro
+0.0.0.0 romdiscover.com
+0.0.0.0 bt.webwise.com
+0.0.0.0 myclicknet.romtelecom.ro
+0.0.0.0 navegador.oi.com.br
+0.0.0.0 navegador.telefonica.com.br
+0.0.0.0 webwise.bt.com
+0.0.0.0 www.bt.com\/webwise
+
+# OCSLab (Phorm Moscow) Owned Domains
+
+0.0.0.0 ocslab.com
+0.0.0.0 oixcrv-rubyem.net
+0.0.0.0 oixcrv-rubytest.net
+0.0.0.0 oix-rubyem.net
+0.0.0.0 oix-rubytest.net
+0.0.0.0 oixssp-rubyem.net
+0.0.0.0 rubylan.net
+0.0.0.0 rubytag.net
+
+# Phorm Ad Industry Partner Domains
+
+0.0.0.0 adhood.com
+0.0.0.0 adex.pro
+0.0.0.0 ad-x.ru
+0.0.0.0 adcash.com
+0.0.0.0 youradexchange.com
+0.0.0.0 adnxs.com
+0.0.0.0 eyereturn.com
+0.0.0.0 eyereturnmarketing.com
+0.0.0.0 openx.net
+0.0.0.0 insomnis-media.com
+0.0.0.0 grunderful.com
+0.0.0.0 dedicatedmedia.com
+0.0.0.0 cpadna.com
+0.0.0.0 cpadna1.com
+0.0.0.0 trkall.com
+0.0.0.0 trkthru.com
+0.0.0.0 moohww.com
