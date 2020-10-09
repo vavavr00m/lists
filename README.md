@@ -3,23 +3,27 @@
 ## hosts
 
 - [x] https://support.umbrella.com/hc/en-us/articles/115007472907-Block-Page-Bypass-or-Allow-Only-mode-Domains-to-Allow
-- [x] https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites
+- [x] https://gist.github.com/mul14/eb05e88fcec5bb195cbb
+- [x] https://github.com/bebasid/bebasid/blob/master/releases/hosts
+- [ ] https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true
+
+facebook
+- [x] https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger
+
+youtube
 - [x] https://support.google.com/youtube/thread/14607026?hl=en
 - [x] https://www.d7xtech.com/blocking-youtube-for-the-kids-on-all-devices-as-well-as-other-undesirable-content/
 - [x] https://www.lifewire.com/ip-address-of-youtube-818157
-- [x] https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger
-- [x] https://gist.github.com/mul14/eb05e88fcec5bb195cbb
-- [x] https://github.com/bebasid/bebasid/blob/master/releases/hosts
-- [x] https://www.digitbin.com/block-tiktok-app-router/
-- [x] https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/
-- [x] https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/
-- [] https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true
+- [x] https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites
 
 smarttv
 - [x] https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 
 tiktok
 - [x] https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/
+- [x] https://www.digitbin.com/block-tiktok-app-router/
+- [x] https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/
+- [x] https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/
 
 tornodes
 - [x] https://www.dan.me.uk/torlist/
@@ -28,19 +32,19 @@ phorm
 - [x] https://www.dephormation.org.uk/?page=2
 
 privatetrackers
-- [] https://github.com/HDVinnie/Private-Trackers-Spreadsheet <br />
+- [ ] https://github.com/HDVinnie/Private-Trackers-Spreadsheet
 
 publictrackers
-- [] https://github.com/ngosang/trackerslist <br />
+- [ ] https://github.com/ngosang/trackerslist
 
 social media networking services
-- [] https://buffer.com/library/social-media-sites/
+- [ ] https://buffer.com/library/social-media-sites/
 
 chat services
-- []
+- [ ]
 
 dating sites
-- []
+- [ ]
 
 ## keywords
 
@@ -54,17 +58,17 @@ mania/obsession
 - [x] http://phrontistery.info/mania.html
 
 kinks
-- []
+- [ ] https://github.com/clemclemmm/TheMegaSexList
 
 profanities
-- [] Facebook
-- [] Instagram
-- [] Google https://github.com/RobertJGabriel/Google-profanity-words
-- [] YouTube
-- [] Twitter
-- [] Tik Tok
-- [] Tumblr
-- [] LinkedIN
+- [ ] Facebook
+- [ ] Instagram
+- [ ] Google https://github.com/RobertJGabriel/Google-profanity-words
+- [ ] YouTube
+- [ ] Twitter
+- [ ] Tik Tok
+- [ ] Tumblr
+- [ ] LinkedIN
 
 filters
 
