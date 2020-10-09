@@ -21,6 +21,10 @@ hosts
 * https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/
 * https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 
+hosts todo:
+[ ] https://github.com/HDVinnie/Private-Trackers-Spreadsheet
+[ ] https://github.com/ngosang/trackerslist
+
 keywords
 
 gender
@@ -90,23 +94,25 @@ RegExp filters:
 # tools
 
 Chrome Extensions
-* [CookiesBlock](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg) [Source](https://github.com/noiszy/noiszy)
-* [ClearURLS](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) [Source](https://gitlab.com/KevinRoebert/ClearUrls)
-* [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) [Source](https://github.com/mlgualtieri/CSS-Exfil-Protection)
-* [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) [Source](https://git.synz.io/Synzvato/decentraleyes)
-* [Hello, Goodbye](https://chrome.google.com/webstore/detail/hello-goodbye/nihpfpbibfgpgnfpbfedkdokihggapoi) [Source](https://github.com/bcye/Hello-Goodbye)
-* [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
-* [Nano Adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) [Source](https://github.com/NanoAdblocker/NanoCore2)
-* [Nano Defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlbn)
-* [TrackMeNot](https://chrome.google.com/webstore/detail/trackmenot/cgllkjmdafllcidaehjejjhpfkmanmka) [Source](https://github.com/vtoubiana/TrackMeNot) or [Noiszy](https://chrome.google.com/webstore/detail/noiszy/immakaidhkcddagdjmedphlnamlcdcbg) [Source](https://github.com/noiszy/noiszy)
-* [Popup Blocker (strict)](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg) [Source](https://github.com/schomery/popup-blocker)
-* [Privacy Settings](https://chrome.google.com/webstore/detail/privacy-settings/ijadljdlbkfhdoblhaedfgepliodmomj) [Source](https://github.com/schomery/privacy-settings/)
-* [Trace](https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb)
-* [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) [Source](https://github.com/iorate/uBlacklist)
+* [CookiesBlock](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg) (Free but will be Commercial)
+* [ClearURLS](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) ([Source](https://gitlab.com/KevinRoebert/ClearUrls))
+* [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) ([Source](https://github.com/mlgualtieri/CSS-Exfil-Protection))
+* [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) ([Source](https://git.synz.io/Synzvato/decentraleyes))
+* [Hello, Goodbye](https://chrome.google.com/webstore/detail/hello-goodbye/nihpfpbibfgpgnfpbfedkdokihggapoi) ([Source](https://github.com/bcye/Hello-Goodbye))
+* [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) (Free)
+* [Nano Adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) ([Source](https://github.com/NanoAdblocker/NanoCore2))
+* [Nano Defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlbn) (Free)
+* [TrackMeNot](https://chrome.google.com/webstore/detail/trackmenot/cgllkjmdafllcidaehjejjhpfkmanmka) ([Source](https://github.com/vtoubiana/TrackMeNot)) or [Noiszy](https://chrome.google.com/webstore/detail/noiszy/immakaidhkcddagdjmedphlnamlcdcbg) ([Source](https://github.com/noiszy/noiszy))
+* [Popup Blocker (strict)](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg) ([Source](https://github.com/schomery/popup-blocker))
+* [Privacy Settings](https://chrome.google.com/webstore/detail/privacy-settings/ijadljdlbkfhdoblhaedfgepliodmomj) ([Source](https://github.com/schomery/privacy-settings/))
+* [Trace](https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb) (Freemium)
+* [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) ([Source](https://github.com/iorate/uBlacklist))
 
 Windows
 * [AdGuard Family](https://adguard.com/en/license.html)
-* [Technitium DNS Server](https://technitium.com/dns/) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
+* [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
+* FOSS alternative to [Folder Guard](https://www.winability.com/folderguard/) ?
 
-Some useful Chrome Extensions:
-* [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)
+Chrome Extensions:
+* [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
+* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
