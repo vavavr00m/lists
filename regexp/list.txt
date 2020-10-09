@@ -144,3 +144,30 @@ lgtvonline.lge.com
 (^|\.)treasuredata\.com$
 (^|\.)unity(|3d)\.com$
 (^|\.)unityads(|\.co)\.com$
+
+# https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
+
+# LG
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)smartshare\.lgtvsdp\.com
+(^|\.)rdx2\.lgtvsdp\.com
+^[a-z]{7,15}$
+
+# Samsung
+(^|\.)giraffic\.com$
+(^|\.)internetat\.tv$
+(^|\.)pavv\.co\.kr$
+(^|\.)samsungcloudcdn\.com$
+(^|\.)samsungcloudsolution\.com$
+(^|\.)samsungcloudsolution\.net$
+(^|\.)samsungelectronics\.com$
+(^|\.)samsungotn\.net$
+(^|\.)samsungrm\.net$
+
+# Vizio
+(\.|^)tvinteractive\.tv$
+
+# Other
+# (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
+^api\..*\.hismarttv\.com$
