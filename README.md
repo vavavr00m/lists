@@ -35,14 +35,14 @@ none yet
 
 # to do
 
-find:
+find: <br />
 [ ] profanities <br />
 [ ] kinks <br />
 [ ] social media sites <br />
 [ ] chat services <br />
 [ ] dating sites <br />
 
-find negative keyword list
+find negative keyword list: <br />
 [ ] Google <br />
 [ ] Twitter <br />
 [ ] Tik Tok <br />
