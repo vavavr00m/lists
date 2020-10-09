@@ -87,6 +87,7 @@ AdBlock-style filters:
 
 AdGuard Home:
 * [Perflyst and Dandelion Sprout's Smart-TV Blocklist for AdGuard Home](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt)
+* [hl2guide's Filterlist for AdGuard](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt)
 
 RegExp filters:
 * none yet
