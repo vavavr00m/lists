@@ -47,11 +47,11 @@ dating
 - [ ] https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/
 - [ ] https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/
 
-proxy servers
+proxy/anonymizers
 - [ ] http://proxydb.net/
 - [ ] https://github.com/clarketm/proxy-list
 
-vpn servers
+vpn
 - [ ] [VPNGate](https://www.vpngate.net/en/) & [mirrors](https://www.vpngate.net/en/sites.aspx)
 
 ## keywords
