@@ -37,14 +37,16 @@ privatetrackers
 publictrackers
 - [ ] https://github.com/ngosang/trackerslist
 
-social media networking services
+sns
 - [ ] https://buffer.com/library/social-media-sites/
 
-chat services
-- [ ]
+chat
+- [ ] https://en.wikipedia.org/wiki/List_of_chat_websites 
 
-dating sites
-- [ ]
+dating
+- [ ] https://streamshub.org/mega-hookup-sites/
+- [ ] https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/
+- [ ] https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/
 
 ## keywords
 
