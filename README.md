@@ -44,7 +44,6 @@ chat
 - [ ] https://en.wikipedia.org/wiki/List_of_chat_websites 
 
 dating
-- [ ] https://streamshub.org/mega-hookup-sites/
 - [ ] https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/
 - [ ] https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/
 
