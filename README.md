@@ -135,6 +135,7 @@ hosts:
 * [Lightswitch05's ads-and-tracking-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt))
 * [Lightswitch05's tracking-aggressive-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt))
 * [Lightswitch05's facebook-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt))
+* [Shubam's Mobile Ads Block](https://gitlab.com/Shub_/mobile-ads-block/) ([Raw]()
 
 AdBlock-style filters:
 * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) ([Raw](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt))
@@ -145,3 +146,6 @@ AdGuard Home:
 
 RegEx filters:
 * none yet
+
+Others:
+[carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
