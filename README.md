@@ -111,12 +111,13 @@ Windows
 * [AdGuard Family](https://adguard.com/en/license.html)
 * [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
 * FOSS alternative to [Folder Guard](https://www.winability.com/folderguard/) ?
+* [ProxySU](https://github.com/proxysu/windows)
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
 * Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
 * [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
-* [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi)]
+* [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi))
 
 Others
 * [CHEF-KOCH's NSABlocklist](https://github.com/Atavic/NSABlocklist)
@@ -142,7 +143,7 @@ AdBlock-style filters:
 
 AdGuard Home:
 * [Perflyst and Dandelion Sprout's Smart-TV Blocklist for AdGuard Home](https://github.com/Perflyst/PiHoleBlocklist) ([Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt))
-* [hl2guide's Filterlist for AdGuard](https://github.com/hl2guide/Filterlist-for-AdGuard) ([Raw]((https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt))
+* [hl2guide's Filterlist for AdGuard](https://github.com/hl2guide/Filterlist-for-AdGuard) ([Raw](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt))
 
 RegEx filters:
 * none yet
