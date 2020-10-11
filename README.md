@@ -135,7 +135,7 @@ hosts:
 * [Lightswitch05's ads-and-tracking-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt))
 * [Lightswitch05's tracking-aggressive-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt))
 * [Lightswitch05's facebook-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt))
-* [Shubam's Mobile Ads Block](https://gitlab.com/Shub_/mobile-ads-block/) ([Raw]()
+* [Shubam's Mobile Ads Block](https://gitlab.com/Shub_/mobile-ads-block/) ([Raw](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list)
 
 AdBlock-style filters:
 * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) ([Raw](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt))
