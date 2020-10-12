@@ -67,6 +67,10 @@ mania/obsession
 
 kinks
 - [ ] https://github.com/clemclemmm/TheMegaSexList
+- [ ] https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/
+- [ ] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
+- [ ] https://badgirlsbible.com/list-of-kinks-and-fetishes
+- [ ] https://mattcgerman.wordpress.com/2019/01/28/the-complete-list-of-239-sexual-fetishes-and-kinks/
 
 profanities
 - [ ] Facebook
