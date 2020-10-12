@@ -111,16 +111,18 @@ Windows
 * [AdGuard Family](https://adguard.com/en/license.html)
 * [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
 * FOSS alternative to [Folder Guard](https://www.winability.com/folderguard/) ?
-* [ProxySU](https://github.com/proxysu/windows)
+* ProxySU ([Source](https://github.com/proxysu/windows))
+* SecureDNS ([Source](https://github.com/Texnomic/SecureDNS))
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
 * Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
-* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
+* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/)))
 * [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi))
 
 Others
-* [CHEF-KOCH's NSABlocklist](https://github.com/Atavic/NSABlocklist)
+* arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
+* CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
 
 ### subscriptions
 
@@ -128,10 +130,10 @@ hosts:
 * [4skinSkywalker's Anti Porn Hosts File](https://github.com/4skinSkywalker/anti-porn-hosts-file) ([Raw](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt))
 * [Clefspeare13's pornhosts](https://github.com/Clefspeare13/pornhosts) ([Raw](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/strict/0.0.0.0/hosts))
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds/) ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt))
-* [GoodbyeAds YouTube Adblock Extension] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
-* [GoodbyeAds LeEco Adblock Extension] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt))
-* [GoodbyeAds-Spotify-AdBlock] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt))
-* [GoodbyeAds Youtube Adblock Extension] ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
+  * GoodbyeAds YouTube Adblock Extension ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
+  * GoodbyeAds LeEco Adblock Extension ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt))
+  * GoodbyeAds-Spotify-AdBlock ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt))
+  * GoodbyeAds Youtube Adblock Extension ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
 * [Lightswitch05's amp-hosts-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt))
 * [Lightswitch05's ads-and-tracking-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt))
 * [Lightswitch05's tracking-aggressive-extended.txt](https://github.com/lightswitch05/hosts) ([Raw](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt))
@@ -149,4 +151,4 @@ RegEx filters:
 * none yet
 
 Others:
-[carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
+* [carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
