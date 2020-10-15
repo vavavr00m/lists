@@ -147,7 +147,7 @@ Windows
 * [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) ([Source](https://github.com/Klocman/Bulk-Crap-Uninstaller))
 * [WSUS Offline Update](https://www.wsusoffline.net/) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
-* [TronScript](https://www.reddit.com/r/TronScript/) [Script is FOSS but is composed of closed & open source](https://github.com/bmrf/tron)
+* [TronScript](https://www.reddit.com/r/TronScript/) ([Script is FOSS but is composed of closed & open source](https://github.com/bmrf/tron))
 * [Kodi](https://kodi.tv/) ([Source](https://github.com/xbmc/xbmc))
 * [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Source](https://github.com/ytdl-org/youtube-dl))
 * Persepolis ([Source](https://github.com/persepolisdm/persepolis))
@@ -165,11 +165,11 @@ Windows
 * [DS4Windows](http://ds4windows.com/) ([Source](https://github.com/Jays2Kings/DS4Windows))
 * [Rainmeter](https://www.rainmeter.net/) ([Source](https://github.com/rainmeter/rainmeter))
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
-* [BleachBit](https://www.bleachbit.org/) ([Source]((https://github.com/bleachbit/bleachbit)) or [Eraser](https://eraser.heidi.ie/) ([Source](https://sourceforge.net/projects/eraser/))
+* [BleachBit](https://www.bleachbit.org/) ([Source](https://github.com/bleachbit/bleachbit)) or [Eraser](https://eraser.heidi.ie/) ([Source](https://sourceforge.net/projects/eraser/))
 * [xLights](https://xlights.org/) ([Source](https://github.com/smeighan/xLights)) or [Vixen Lights](http://www.vixenlights.com/) ([Source](https://github.com/VixenLights/Vixen))
 * [G'MIC](https://gmic.eu/) ([Source](https://github.com/dtschump/gmic))
 * [Path Copy Copy](https://pathcopycopy.github.io/) ([Source](https://github.com/clechasseur/pathcopycopy))
-* [QuodLibet](https://quodlibet.readthedocs.io/en/latest/) ([Source](https://github.com/quodlibet/quodlibet))
+* [Quod Libet](https://quodlibet.readthedocs.io/en/latest/) ([Source](https://github.com/quodlibet/quodlibet))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -179,7 +179,7 @@ Self-hosted
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
-- [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html)
+- [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
 - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
 - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
 - [ ] [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
@@ -192,7 +192,7 @@ LF good FOSS alternative:
 - [ ] [MusicBee](https://www.getmusicbee.com/) (Free Personal)
 - [ ] [KbdEdit](http://www.kbdedit.com/) (Commercial)
 - [ ] [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
-- [ ] [QiPress][http://www.aalapshah.in/qipress] (Freemium)
+- [ ] [QiPress](http://www.aalapshah.in/qipress) (Freemium)
 - [ ] [RegEx Buddy](https://www.regexbuddy.com/) (Commercial)
 - [ ] [PowerGREP](https://www.powergrep.com/) (Commercial)
 - [ ] [ClickUp](https://clickup.com/) (Freemium SaaS)
@@ -238,7 +238,7 @@ LF good Windows alternative:
 
 Games:
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
-- [ ] [Solsuite](http://www.solsuite.com) (Commercial)
+- [ ] [Solsuite](http://www.solsuite.com) (Commercial) / [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
