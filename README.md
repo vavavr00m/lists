@@ -228,8 +228,8 @@ LF good FOSS alternative:
 - [x] [Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial) / [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
 - [ ] [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
 - [ ] [Advanced Renamer](https://www.advancedrenamer.com/) (Free for Personal) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) (Free Personal)
-- [Toon Boom's Storyboard Pro](https://www.toonboom.com/products/storyboardpro) (Commercial)
-- [Toom Boom's Harmony](https://www.toonboom.com/harmony-animation-software) (Commercial)
+- [ ] [Toon Boom's Storyboard Pro](https://www.toonboom.com/products/storyboardpro) (Commercial)
+- [x] [Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial) / [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
 
 LF good Windows alternative:
 - [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
@@ -238,7 +238,7 @@ LF good Windows alternative:
 
 Games:
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
-- [ ] Solsuite
+- [ ] [Solsuite](http://www.solsuite.com) (Commercial)
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
