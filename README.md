@@ -179,7 +179,6 @@ Self-hosted
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
-- [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
 - [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html)
 - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
 - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
@@ -229,11 +228,17 @@ LF good FOSS alternative:
 - [x] [Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial) / [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
 - [ ] [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
 - [ ] [Advanced Renamer](https://www.advancedrenamer.com/) (Free for Personal) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) (Free Personal)
+- [Toon Boom's Storyboard Pro](https://www.toonboom.com/products/storyboardpro) (Commercial)
+- [Toom Boom's Harmony](https://www.toonboom.com/harmony-animation-software) (Commercial)
 
 LF good Windows alternative:
 - [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
 - [x] [Lightkey](https://www.lightkeyapp.com/en/) / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: [1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/)
+
+Games:
+- [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
+- [ ] Solsuite
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
