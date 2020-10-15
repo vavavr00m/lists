@@ -115,23 +115,78 @@ Chrome Extensions
 * [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) ([Source](https://github.com/iorate/uBlacklist))
 
 Windows
-* [AdGuard Family](https://adguard.com/en/license.html)
+* [AdGuard Family](https://adguard.com/en/license.html) (Freemium Open Source?)
+* [Certify](https://certifytheweb.com/) (Freemium Open Source)[https://github.com/webprofusion/certify]
 * [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
-* FOSS alternative to [Folder Guard](https://www.winability.com/folderguard/) ?
 * ProxySU ([Source](https://github.com/proxysu/windows))
+* [v2fly](https://www.v2fly.org/en_US/) ([Source](https://github.com/v2fly/v2ray-core))
 * SecureDNS ([Source](https://github.com/Texnomic/SecureDNS))
 * winstall ([Source](https://github.com/MehediH/winstall))
-* [NetBalancer](https://netbalancer.com/) (Commercial)
+* [ShareX](https://getsharex.com/) ([Source](https://github.com/ShareX/ShareX))
+* [EventGhost](http://www.eventghost.net/) ([Source](https://github.com/EventGhost/EventGhost))
+* Streisand ([Source](https://github.com/StreisandEffect/streisand))
+* [SoftEther VPN](https://www.softether.org/) ([Source](https://github.com/SoftEtherVPN/SoftEtherVPN)) w/ [VPN Gate](https://www.vpngate.net/en/) (Free)
+* [Ketarin](https://ketarin.org/) ([Source](https://github.com/canneverbe/Ketarin))
+* [Discourse](https://www.discourse.org/) ([Freemium Open Source](https://github.com/discourse/discourse))
+* [Jami](https://jami.net/) ([Source](https://github.com/savoirfairelinux/ring-project))
+* Sandboxie-Plus ([Source](https://github.com/sandboxie-plus/Sandboxie))
+* [Syncthing](https://syncthing.net/) ([Source](https://github.com/syncthing/syncthing))
+* [Node-Red](https://nodered.org/) ([Source](https://github.com/node-red/node-red))
+* [Citation Styles Language](https://citationstyles.org/) ([Source](https://github.com/citation-style-language/styles))
+* [Atom](https://atom.io/) ([Source](https://github.com/atom/atom)) [Notepad++](https://notepad-plus-plus.org/) ([Source](https://github.com/notepad-plus-plus/notepad-plus-plus))
+* [Pulover's Macro Creator](https://www.macrocreator.com/) ([Source](https://github.com/Pulover/PuloversMacroCreator))
+* [Terminus](https://eugeny.github.io/terminus/) ([Source](https://github.com/Eugeny/terminus)) or [cmder](https://cmder.net/) ([Source](https://github.com/cmderdev/cmder))
+* [Searx](https://searx.me/) ([Source](https://github.com/searx/searx/issues/2085))
+* [Keyman](https://keyman.com/) ([Source](https://github.com/keymanapp/keyman))
+* [VirtualBox](https://www.virtualbox.org/) ([Source](https://www.virtualbox.org/browser/vbox/trunk))
+* Hyperbox ([Source](https://github.com/hyperbox/hyperbox))
+* [RetroArch](https://www.retroarch.com/) ([Source](https://github.com/libretro/RetroArch))
+* [Snowplow](https://snowplowanalytics.com/) () ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / [Read](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
+* [QuiteRSS](https://quiterss.org/) ([Source](https://github.com/QuiteRSS/quiterss))
+* [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
+* [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
+* [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
+* [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) ([Source](https://github.com/Klocman/Bulk-Crap-Uninstaller))
+* [WSUS Offline Update](https://www.wsusoffline.net/) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
+* [TronScript](https://www.reddit.com/r/TronScript/) [Script is FOSS but is composed of closed & open source](https://github.com/bmrf/tron)
+
+LF good FOSS alternative:
+- [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
+- [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html)
+- [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
+- [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
+- [ ] [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
+- [ ] [Bitvise SSH Client](https://www.bitvise.com/ssh-client) (Free Personal)
+- [ ] [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
+- [ ] [Devolutions Password Hub Platium](https://password.devolutions.net/) (Commercial) or [Devolutions Password Server Platinum](https://server.devolutions.net/) (Commercial)
+- [ ] [Devolutions Wayk Now Enterprise Edition](https://wayk.devolutions.net/wayk-now) (Commercial) or [Devolutions Wayk Den](https://wayk.devolutions.net/wayk-den) (Commercial)
+- [ ] [VisualCron](https://www.visualcron.com/) (Commercial)
+- [x] [LaunchBox](https://www.launchbox-app.com/) (Freemium) > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk)
+- [ ] [MusicBee](https://www.getmusicbee.com/) (Free Personal)
+- [ ] [KbdEdit](http://www.kbdedit.com/) (Commercial)
+- [ ] [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
+- [ ] [QiPress][http://www.aalapshah.in/qipress] (Freemium)
+- [ ] [RegEx Buddy](https://www.regexbuddy.com/) (Commercial)
+- [ ] [PowerGREP](https://www.powergrep.com/) (Commercial)
+- [ ] [ClickUp](https://clickup.com/) (Freemium SaaS)
+- [ ] [Zoom](https://alternativeto.net/software/zoom-cloud-meetings/) (Freemium)
+- [ ] [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
+- [ ] [SolarWinds Network Performance Monitor](https://www.solarwinds.com/network-performance-monitor) (Commercial)
+
+LF good Windows alternative:
+- [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
+- [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
+
+LF: 
+DMX Controller / Read: [1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/) / Maybe [Lightkey](https://www.lightkeyapp.com/en/)
+
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
 * Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
 * [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/)))
 * [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi))
-
-Others
-* arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
-* CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
+* [Switch Multi-Account Login](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe) (Free?)
 
 ### subscriptions
 
@@ -161,3 +216,5 @@ RegEx filters:
 
 Others:
 * [carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
+* arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
+* CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
