@@ -72,6 +72,9 @@ kinks
 - [ ] https://badgirlsbible.com/list-of-kinks-and-fetishes
 - [ ] https://mattcgerman.wordpress.com/2019/01/28/the-complete-list-of-239-sexual-fetishes-and-kinks/
 
+rhetorics:
+- [ ] http://rhetoric.byu.edu/
+
 profanities
 - [ ] Facebook
 - [ ] Instagram
@@ -117,6 +120,8 @@ Windows
 * FOSS alternative to [Folder Guard](https://www.winability.com/folderguard/) ?
 * ProxySU ([Source](https://github.com/proxysu/windows))
 * SecureDNS ([Source](https://github.com/Texnomic/SecureDNS))
+* winstall ([Source](https://github.com/MehediH/winstall))
+* [NetBalancer](https://netbalancer.com/) (Commercial)
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
