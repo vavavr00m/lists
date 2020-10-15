@@ -170,6 +170,7 @@ Windows
 * [G'MIC](https://gmic.eu/) ([Source](https://github.com/dtschump/gmic))
 * [Path Copy Copy](https://pathcopycopy.github.io/) ([Source](https://github.com/clechasseur/pathcopycopy))
 * [Quod Libet](https://quodlibet.readthedocs.io/en/latest/) ([Source](https://github.com/quodlibet/quodlibet))
+* [fsum frontend](http://fsumfe.sourceforge.net) ([Source](https://sourceforge.net/projects/fsumfe/))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -180,6 +181,7 @@ Self-hosted
 
 LF good FOSS alternative:
 - [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
+- [ ] [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
 - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
 - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
 - [ ] [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
