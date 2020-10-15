@@ -66,7 +66,7 @@ mania/obsession
 - [x] http://phrontistery.info/mania.html
 
 kinks
-- [ ] https://github.com/clemclemmm/TheMegaSexList
+- [x] https://github.com/clemclemmm/TheMegaSexList or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
 - [ ] https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/
 - [ ] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
 - [ ] https://badgirlsbible.com/list-of-kinks-and-fetishes
@@ -133,7 +133,7 @@ Windows
 * [Syncthing](https://syncthing.net/) ([Source](https://github.com/syncthing/syncthing))
 * [Node-Red](https://nodered.org/) ([Source](https://github.com/node-red/node-red))
 * [Citation Styles Language](https://citationstyles.org/) ([Source](https://github.com/citation-style-language/styles))
-* [Atom](https://atom.io/) ([Source](https://github.com/atom/atom)) [Notepad++](https://notepad-plus-plus.org/) ([Source](https://github.com/notepad-plus-plus/notepad-plus-plus))
+* [Atom](https://atom.io/) ([Source](https://github.com/atom/atom)) or [Notepad++](https://notepad-plus-plus.org/) ([Source](https://github.com/notepad-plus-plus/notepad-plus-plus))
 * [Pulover's Macro Creator](https://www.macrocreator.com/) ([Source](https://github.com/Pulover/PuloversMacroCreator))
 * [Terminus](https://eugeny.github.io/terminus/) ([Source](https://github.com/Eugeny/terminus)) or [cmder](https://cmder.net/) ([Source](https://github.com/cmderdev/cmder))
 * [Searx](https://searx.me/) ([Source](https://github.com/searx/searx/issues/2085))
@@ -147,7 +147,7 @@ Windows
 * [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) ([Source](https://github.com/Klocman/Bulk-Crap-Uninstaller))
 * [WSUS Offline Update](https://www.wsusoffline.net/) ([Source](https://svn.wsusoffline.net/svn/wsusoffline/)) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
-* [TronScript](https://www.reddit.com/r/TronScript/) ([Script is FOSS but is composed of closed & open source](https://github.com/bmrf/tron))
+* [TronScript](https://www.reddit.com/r/TronScript/) ([Script is FOSS](https://github.com/bmrf/tron) but is composed of closed & open source)
 * [Kodi](https://kodi.tv/) ([Source](https://github.com/xbmc/xbmc))
 * [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Source](https://github.com/ytdl-org/youtube-dl))
 * Persepolis ([Source](https://github.com/persepolisdm/persepolis))
@@ -190,7 +190,7 @@ LF good FOSS alternative:
 - [ ] [Devolutions Password Hub Platium](https://password.devolutions.net/) (Commercial) or [Devolutions Password Server Platinum](https://server.devolutions.net/) (Commercial)
 - [ ] [Devolutions Wayk Now Enterprise Edition](https://wayk.devolutions.net/wayk-now) (Commercial) or [Devolutions Wayk Den](https://wayk.devolutions.net/wayk-den) (Commercial)
 - [ ] [VisualCron](https://www.visualcron.com/) (Commercial)
-- [x] [LaunchBox](https://www.launchbox-app.com/) (Freemium) > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk)
+- [x] [LaunchBox](https://www.launchbox-app.com/) (Freemium) > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
 - [ ] [MusicBee](https://www.getmusicbee.com/) (Free Personal)
 - [ ] [KbdEdit](http://www.kbdedit.com/) (Commercial)
 - [ ] [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
@@ -241,13 +241,13 @@ LF good FOSS alternative:
 LF good Windows alternative:
 - [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
-- [x] [Lightkey](https://www.lightkeyapp.com/en/) / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: [1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/)
+- [x] [Lightkey](https://www.lightkeyapp.com/en/) / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
 
 Games:
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
 - [ ] [Solsuite](http://www.solsuite.com) (Commercial) / [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
 * [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
-* Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku)
+* Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
 * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
 * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
 
