@@ -116,7 +116,7 @@ Chrome Extensions
 
 Windows
 * [AdGuard Family](https://adguard.com/en/license.html) (Freemium Open Source?)
-* [Certify](https://certifytheweb.com/) (Freemium Open Source)[https://github.com/webprofusion/certify]
+* [Certify](https://certifytheweb.com/) [Freemium Open Source](https://github.com/webprofusion/certify)
 * [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
 * ProxySU ([Source](https://github.com/proxysu/windows))
 * [v2fly](https://www.v2fly.org/en_US/) ([Source](https://github.com/v2fly/v2ray-core))
@@ -141,14 +141,34 @@ Windows
 * [VirtualBox](https://www.virtualbox.org/) ([Source](https://www.virtualbox.org/browser/vbox/trunk))
 * Hyperbox ([Source](https://github.com/hyperbox/hyperbox))
 * [RetroArch](https://www.retroarch.com/) ([Source](https://github.com/libretro/RetroArch))
-* [Snowplow](https://snowplowanalytics.com/) () ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / [Read](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
+* [Snowplow](https://snowplowanalytics.com/) ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / [Read](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
 * [QuiteRSS](https://quiterss.org/) ([Source](https://github.com/QuiteRSS/quiterss))
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
 * [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
-* [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) ([Source](https://github.com/Klocman/Bulk-Crap-Uninstaller))
 * [WSUS Offline Update](https://www.wsusoffline.net/) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
 * [TronScript](https://www.reddit.com/r/TronScript/) [Script is FOSS but is composed of closed & open source](https://github.com/bmrf/tron)
+* [Kodi](https://kodi.tv/) ([Source](https://github.com/xbmc/xbmc))
+* [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Source](https://github.com/ytdl-org/youtube-dl))
+* Persepolis ([Source](https://github.com/persepolisdm/persepolis))
+* [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool))
+* [Krita](https://krita.org/en/) ([Source](https://github.com/KDE/krita))
+* [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape)
+* [dottorrent-gui] ([Source](https://github.com/kz26/dottorrent-gui))
+* [DICUI] ([Source](https://github.com/SabreTools/DICUI))
+* [Panconvert] ([Source](https://github.com/apaeffgen/PanConvert))
+* [InspIRCD](https://www.inspircd.org/) ([Source](https://github.com/inspircd/inspircd))
+* [RcloneBrowser](https://kapitainsky.github.io/RcloneBrowser/) ([Source](https://github.com/kapitainsky/RcloneBrowser))
+
+Plugin
+* for Krita - [G'MIC](https://gmic.eu/) ([Source](https://github.com/dtschump/gmic))
+
+Self-hosted
+* [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
+* [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
+* [SickChill] ([Source](https://github.com/SickChill/SickChill))
+* [Jackett] ([Source](https://github.com/Jackett/Jackett/))
+* [Meute] ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
@@ -172,21 +192,40 @@ LF good FOSS alternative:
 - [ ] [Zoom](https://alternativeto.net/software/zoom-cloud-meetings/) (Freemium)
 - [ ] [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
 - [ ] [SolarWinds Network Performance Monitor](https://www.solarwinds.com/network-performance-monitor) (Commercial)
+- [ ] [moo0 Right Clicker Pro](https://www.moo0.com/software/RightClicker/) (Commercial)
+- [ ] [Mosaizer XV](https://www.apphelmond.com/MosaizerPro/index.htm) (Commercial)
+- [ ] [Collaizer](https://www.apphelmond.com/Collaizer/)
+- [ ] [Wordaizer](https://www.apphelmond.com/Wordaizer/index.htm) (Commercial)
+- [ ] [Textaizer Pro](https://www.apphelmond.com/Textaizer/index.htm) (Commercial)
+- [ ] [Brickaizer](https://www.apphelmond.com/Brickaizer/index.htm) (Commercial)
+- [ ] [Pattaizer](https://www.apphelmond.com/Pattaizer/index.htm) (Freely bundled with Commerical products)
+- [ ] [Event Mosaic Creator](https://www.apphelmond.com/EventMosaic/index.htm) (Commercial)
+- [ ] [Interactive LiveMosaics](https://www.apphelmond.com/LiveMosaics/index.htm) (?)
+- [ ] [Dynamic Mosaics](https://www.apphelmond.com/DynamicMosaics/index.htm) (?)
+- [ ] [Mondriaan Creator](https://www.apphelmond.com/Mondriaan/index.htm) (Free)
+- [ ] [Calligram Creator](https://www.apphelmond.com/CalligramCreator/index.htm) (Free)
+- [ ] [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/) (Commercial)
+- [ ] [Pop-Up Card Designer PRO](http://www.tamasoft.co.jp/craft/popupcard-pro_en/) (Commercial)
+- [ ] [Adobe Photoshop] (Commercial)
+- [ ] [Adobe Acrobat DC Pro] (Commercial)
+- [ ] [Adobe Illustrator] (Commercial)
+- [ ] [Microsoft Office] (Commercial)
+- [ ] [SyncBackPro] (Commericial)
 
 LF good Windows alternative:
 - [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
 
 LF: 
-DMX Controller / Read: [1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/) / Maybe [Lightkey](https://www.lightkeyapp.com/en/)
-
+- [ ] DMX Controller / Read: [1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/) / Maybe [Lightkey](https://www.lightkeyapp.com/en/)
 
 Chrome Extensions
 * [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
 * Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
-* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/)))
+* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
 * [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi))
 * [Switch Multi-Account Login](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe) (Free?)
+* [DownThemAll](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge?hl=en) ([Source](https://github.com/downthemall/downthemall))
 
 ### subscriptions
 
