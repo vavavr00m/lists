@@ -66,10 +66,10 @@ mania/obsession
 - [x] http://phrontistery.info/mania.html
 
 kinks/paraphilia
-- [x] https://github.com/clemclemmm/TheMegaSexList or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
+- [x] https://github.com/clemclemmm/TheMegaSexList
+- [ ] https://badgirlsbible.com/list-of-kinks-and-fetishes or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
 - [ ] https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/
 - [ ] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
-- [ ] https://badgirlsbible.com/list-of-kinks-and-fetishes
 - [ ] https://mattcgerman.wordpress.com/2019/01/28/the-complete-list-of-239-sexual-fetishes-and-kinks/
 
 rhetorics:
@@ -161,7 +161,7 @@ Windows
 * [Kitematic](https://kitematic.com/) ([Source](https://github.com/docker/kitematic))
 * [Process Hacker](https://processhacker.sourceforge.io/) ([Source](https://github.com/processhacker/processhacker))
 * [FontForge](https://fontforge.org/en-US/) ([Source](https://github.com/fontforge/fontforge))
-* [DS4Windows](http://ds4windows.com/) ([Source](https://github.com/Jays2Kings/DS4Windows))
+* [Ryochan7's fork of DS4Windows](http://ds4windows.com/) ([Source](https://github.com/Ryochan7/DS4Windows))
 * [Rainmeter](https://www.rainmeter.net/) ([Source](https://github.com/rainmeter/rainmeter))
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
 * [BleachBit](https://www.bleachbit.org/) ([Source](https://github.com/bleachbit/bleachbit)) or [Eraser](https://eraser.heidi.ie/) ([Source](https://sourceforge.net/projects/eraser/))
@@ -245,7 +245,7 @@ LF good FOSS alternative:
 - [ ] ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ / [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
 - [ ] [Iristech Iris](https://iristech.co/iris/) (Commercial)
 - [ ] [Iristech Vision](https://iristech.co/vision/) (Commercial)
-- [ ] ColorSchemer Studio (Abandoneware)
+- [ ] ColorSchemer Studio (Discontinued)
 - [x] [Mini Mouse Macro Pro](https://sourceforge.net/projects/minimousemacro/) (Freemium)
 - [ ] [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
 - [ ] [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
@@ -263,7 +263,6 @@ Games:
 - [ ] [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
 - [ ] [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/)
 - [x] [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/)
-* [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
 * Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
 * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
 * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
