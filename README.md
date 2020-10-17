@@ -249,6 +249,7 @@ LF good FOSS alternative:
 - [x] [Mini Mouse Macro Pro](https://sourceforge.net/projects/minimousemacro/) (Freemium)
 - [ ] [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
 - [ ] [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
+- [ ] [LockHunter](https://lockhunter.com/) (Free)
 
 LF good Windows alternative:
 - [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
