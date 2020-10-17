@@ -6,6 +6,7 @@
 - [x] https://gist.github.com/mul14/eb05e88fcec5bb195cbb
 - [x] https://github.com/bebasid/bebasid/blob/master/releases/hosts
 - [ ] https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true
+- [ ] https://github.com/jkrejcha/AdmiraList
 
 facebook
 - [x] https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger
@@ -306,3 +307,4 @@ Others:
 * [carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
 * arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
 * CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
+* [AdmiralJS](https://github.com/anon182739/admiraljs)
