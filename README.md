@@ -70,8 +70,7 @@ kinks/paraphilia
 - [x] https://github.com/clemclemmm/TheMegaSexList
 - [x] https://badgirlsbible.com/list-of-kinks-and-fetishes or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
 - [x] https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/
-- [ ] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
-- [ ] https://mattcgerman.wordpress.com/2019/01/28/the-complete-list-of-239-sexual-fetishes-and-kinks/
+- [x] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
 
 rhetorics:
 - [ ] http://rhetoric.byu.edu/
