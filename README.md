@@ -26,6 +26,9 @@ tiktok
 - [x] https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/
 - [x] https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/
 
+deception
+- [x] [Melissa Zimdars' False, Misleading, Clickbait-y, and Satirical “News” Sources](https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/) or [Block Clickbait News](https://github.com/profimler/block-clickbait-news)
+
 tornodes
 - [x] https://www.dan.me.uk/torlist/
 
