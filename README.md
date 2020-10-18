@@ -156,7 +156,6 @@ Windows
 * [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool))
 * dottorrent-gui ([Source](https://github.com/kz26/dottorrent-gui))
 * DICUI ([Source](https://github.com/SabreTools/DICUI))
-* 
 * Panconvert ([Source](https://github.com/apaeffgen/PanConvert))
 * [InspIRCD](https://www.inspircd.org/) ([Source](https://github.com/inspircd/inspircd))
 * [RcloneBrowser](https://kapitainsky.github.io/RcloneBrowser/) ([Source](https://github.com/kapitainsky/RcloneBrowser))
