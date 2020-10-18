@@ -6,7 +6,7 @@
 - [x] https://gist.github.com/mul14/eb05e88fcec5bb195cbb
 - [x] https://github.com/bebasid/bebasid/blob/master/releases/hosts
 - [ ] https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true
-- [ ] https://github.com/jkrejcha/AdmiraList
+- [x] https://github.com/jkrejcha/AdmiraList
 
 facebook
 - [x] https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger
@@ -68,7 +68,7 @@ mania/obsession
 
 kinks/paraphilia
 - [x] https://github.com/clemclemmm/TheMegaSexList
-- [ ] https://badgirlsbible.com/list-of-kinks-and-fetishes or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
+- [x] https://badgirlsbible.com/list-of-kinks-and-fetishes or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
 - [ ] https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/
 - [ ] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
 - [ ] https://mattcgerman.wordpress.com/2019/01/28/the-complete-list-of-239-sexual-fetishes-and-kinks/
@@ -154,6 +154,7 @@ Windows
 * [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool))
 * dottorrent-gui ([Source](https://github.com/kz26/dottorrent-gui))
 * DICUI ([Source](https://github.com/SabreTools/DICUI))
+* 
 * Panconvert ([Source](https://github.com/apaeffgen/PanConvert))
 * [InspIRCD](https://www.inspircd.org/) ([Source](https://github.com/inspircd/inspircd))
 * [RcloneBrowser](https://kapitainsky.github.io/RcloneBrowser/) ([Source](https://github.com/kapitainsky/RcloneBrowser))
