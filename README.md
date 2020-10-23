@@ -193,6 +193,8 @@ Self-hosted
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
+- [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium)
+- [ ] [OSArmor](https://www.osarmor.com) (Free)
 - [x] ~~[LaunchBox](https://www.launchbox-app.com/) (Freemium)~~ > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
 - [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
 - [ ] [SyncBackPro](https://www.2brightsparks.com/syncback/sbpro.html) (Freemium)
