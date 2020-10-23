@@ -195,7 +195,7 @@ Self-hosted
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
-- [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: [1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)
+- [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: [1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm), [2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)
 - [ ] [OSArmor](https://www.osarmor.com) (Free)
 - [ ] [AppGuard](https://www.blueridgenetworks.com/appguard/) (?)
 - [x] ~~[LaunchBox](https://www.launchbox-app.com/) (Freemium)~~ > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
