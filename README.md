@@ -109,13 +109,20 @@ Chrome Extensions
 * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) ([Source](https://git.synz.io/Synzvato/decentraleyes))
 * [Hello, Goodbye](https://chrome.google.com/webstore/detail/hello-goodbye/nihpfpbibfgpgnfpbfedkdokihggapoi) ([Source](https://github.com/bcye/Hello-Goodbye))
 * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) (Free)
-* [Nano Adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) ([Source](https://github.com/NanoAdblocker/NanoCore2))
-* [Nano Defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlbn) (Free)
+* uBlock Origin ([Source](https://github.com/gorhill/uBlock))
+* [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) ([Source](https://github.com/FelisCatus/SwitchyOmega))
 * [TrackMeNot](https://chrome.google.com/webstore/detail/trackmenot/cgllkjmdafllcidaehjejjhpfkmanmka) ([Source](https://github.com/vtoubiana/TrackMeNot)) or [Noiszy](https://chrome.google.com/webstore/detail/noiszy/immakaidhkcddagdjmedphlnamlcdcbg) ([Source](https://github.com/noiszy/noiszy))
 * [Popup Blocker (strict)](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg) ([Source](https://github.com/schomery/popup-blocker))
 * [Privacy Settings](https://chrome.google.com/webstore/detail/privacy-settings/ijadljdlbkfhdoblhaedfgepliodmomj) ([Source](https://github.com/schomery/privacy-settings/))
 * [Trace](https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb) (Freemium)
 * [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) ([Source](https://github.com/iorate/uBlacklist))
+* [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
+* Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
+* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) ([Source](https://github.com/gorhill/uMatrix/), Deprecated) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
+* [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi))
+* [Switch Multi-Account Login](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe) (Free?)
+* [DownThemAll](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) ([Source](https://github.com/downthemall/downthemall))
+
 
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
@@ -279,14 +286,6 @@ Games:
 * Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
 * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
 * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
-
-Chrome Extensions
-* [AutoControl](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd) (Free)
-* Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
-* [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) ([Source](https://github.com/gorhill/uMatrix/)) or [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) ([Source](https://github.com/hackademix/noscript/))
-* [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) ([Source](https://github.com/ourresearch/oadoi))
-* [Switch Multi-Account Login](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe) (Free?)
-* [DownThemAll](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge?hl=en) ([Source](https://github.com/downthemall/downthemall))
 
 ### subscriptions
 
