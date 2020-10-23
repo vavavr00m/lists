@@ -122,7 +122,7 @@ Windows
 * [Hard Configurator](https://hard-configurator.com) ([Source](https://github.com/AndyFul/Hard_Configurator))
 * ConfigureDefender ([Source](https://github.com/AndyFul/ConfigureDefender))
 * Run By SmartScreen ([Source](https://github.com/AndyFul/Run-By-Smartscreen))
-* Watson ([Source](https://github.com/rasta-mouse/Watson)) / [Read](https://medium.com/@markmotig/some-windows-hardening-with-free-tools-65bdddfcb3cd)
+* Watson ([Source](https://github.com/rasta-mouse/Watson)) / Read: [1](https://medium.com/@markmotig/some-windows-hardening-with-free-tools-65bdddfcb3cd)
 * [AdGuard Family](https://adguard.com/en/license.html) (Freemium Open Source?)
 * [Certify](https://certifytheweb.com/) ([Freemium Open Source](https://github.com/webprofusion/certify)) or [lego](https://go-acme.github.io/lego/) ([Source](https://github.com/go-acme/lego))
 * [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
@@ -148,7 +148,7 @@ Windows
 * [VirtualBox](https://www.virtualbox.org/) ([Source](https://www.virtualbox.org/browser/vbox/trunk))
 * Hyperbox ([Source](https://github.com/hyperbox/hyperbox))
 * [RetroArch](https://www.retroarch.com/) ([Source](https://github.com/libretro/RetroArch))
-* [Snowplow](https://snowplowanalytics.com/) ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / [Read](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
+* [Snowplow](https://snowplowanalytics.com/) ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / Read: [1](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
 * [QuiteRSS](https://quiterss.org/) ([Source](https://github.com/QuiteRSS/quiterss))
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
 * [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
@@ -194,8 +194,9 @@ Self-hosted
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
-- [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium)
+- [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: [1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)
 - [ ] [OSArmor](https://www.osarmor.com) (Free)
+- [ ] [AppGuard](https://www.blueridgenetworks.com/appguard/) (?)
 - [x] ~~[LaunchBox](https://www.launchbox-app.com/) (Freemium)~~ > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
 - [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
 - [ ] [SyncBackPro](https://www.2brightsparks.com/syncback/sbpro.html) (Freemium)
