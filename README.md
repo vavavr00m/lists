@@ -118,9 +118,10 @@ Chrome Extensions
 * [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) ([Source](https://github.com/iorate/uBlacklist))
 
 Windows
-* PrivateZilla ([Source](https://github.com/builtbybel/privatezilla)) or SharpApp ([Source](https://github.com/builtbybel/sharpapp))
+* PrivateZilla ([Source](https://github.com/builtbybel/privatezilla)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp))
 * [Hard Configurator](https://hard-configurator.com) ([Source](https://github.com/AndyFul/Hard_Configurator))
 * ConfigureDefender ([Source](https://github.com/AndyFul/ConfigureDefender))
+* Run By SmartScreen ([Source](https://github.com/AndyFul/Run-By-Smartscreen))
 * Watson ([Source](https://github.com/rasta-mouse/Watson)) / [Read](https://medium.com/@markmotig/some-windows-hardening-with-free-tools-65bdddfcb3cd)
 * [AdGuard Family](https://adguard.com/en/license.html) (Freemium Open Source?)
 * [Certify](https://certifytheweb.com/) ([Freemium Open Source](https://github.com/webprofusion/certify)) or [lego](https://go-acme.github.io/lego/) ([Source](https://github.com/go-acme/lego))
