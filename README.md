@@ -118,7 +118,7 @@ Chrome Extensions
 * [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) ([Source](https://github.com/iorate/uBlacklist))
 
 Windows
-* PrivateZilla ([Source](https://github.com/builtbybel/privatezilla)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp))
+* PrivateZilla ([Source](https://github.com/builtbybel/privatezilla)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp)) / Read: [1](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/)
 * [Hard Configurator](https://hard-configurator.com) ([Source](https://github.com/AndyFul/Hard_Configurator))
 * ConfigureDefender ([Source](https://github.com/AndyFul/ConfigureDefender))
 * Run By SmartScreen ([Source](https://github.com/AndyFul/Run-By-Smartscreen))
