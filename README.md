@@ -264,7 +264,7 @@ LF good FOSS alternative:
 - [ ] [LockHunter](https://lockhunter.com/) (Free)
 
 LF good Windows alternative:
-- [ ] [Hazel](ttps://www.noodlesoft.com/) (Commercial)
+- [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
 - [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/)~~ / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
 
