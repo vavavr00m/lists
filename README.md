@@ -209,7 +209,7 @@ Windows
 * [Stellarium](https://stellarium.org/) ([Source](https://github.com/Stellarium/stellarium/))
 * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
 * [Taiga](https://taiga.moe/) ([Source](https://github.com/erengy/taiga))
-* [Searx](https://searx.me/) ([Source](https://github.com/searx/searx)) + [YaCy](https://yacy.net/) ([Source](https://github.com/yacy/yacy_search_server))
+* [Searx](https://searx.me/) ([Source](https://github.com/searx/searx)) + SearX-Qt ([Source](https://notabug.org/CYBERDEViL/searx-qt)) + [YaCy](https://yacy.net/) ([Source](https://github.com/yacy/yacy_search_server))
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
