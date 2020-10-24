@@ -213,6 +213,7 @@ Windows
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
 * Open with++ ([Source](https://github.com/stax76/OpenWithPlusPlus))
+* [Wox](http://www.wox.one) ([Source](https://github.com/Wox-launcher/Wox))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
