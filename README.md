@@ -212,6 +212,7 @@ Windows
 * [Searx](https://searx.me/) ([Source](https://github.com/searx/searx)) + [YaCy](https://yacy.net/) ([Source](https://github.com/yacy/yacy_search_server))
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
+* Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
