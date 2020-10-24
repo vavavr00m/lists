@@ -150,7 +150,6 @@ Windows
 * [Atom](https://atom.io/) ([Source](https://github.com/atom/atom)) or [Notepad++](https://notepad-plus-plus.org/) ([Source](https://github.com/notepad-plus-plus/notepad-plus-plus))
 * [Pulover's Macro Creator](https://www.macrocreator.com/) ([Source](https://github.com/Pulover/PuloversMacroCreator))
 * [Terminus](https://eugeny.github.io/terminus/) ([Source](https://github.com/Eugeny/terminus)) or [cmder](https://cmder.net/) ([Source](https://github.com/cmderdev/cmder))
-* [Searx](https://searx.me/) ([Source](https://github.com/searx/searx/issues/2085))
 * [Keyman](https://keyman.com/) ([Source](https://github.com/keymanapp/keyman))
 * [VirtualBox](https://www.virtualbox.org/) ([Source](https://www.virtualbox.org/browser/vbox/trunk))
 * Hyperbox ([Source](https://github.com/hyperbox/hyperbox))
@@ -165,7 +164,7 @@ Windows
 * [Kodi](https://kodi.tv/) ([Source](https://github.com/xbmc/xbmc))
 * [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Source](https://github.com/ytdl-org/youtube-dl))
 * Persepolis ([Source](https://github.com/persepolisdm/persepolis))
-* [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool))
+* [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool)) + [ExifCleaner](https://exifcleaner.com/) ([Source](https://github.com/szTheory/exifcleaner))
 * dottorrent-gui ([Source](https://github.com/kz26/dottorrent-gui))
 * DICUI ([Source](https://github.com/SabreTools/DICUI))
 * Panconvert ([Source](https://github.com/apaeffgen/PanConvert))
@@ -213,7 +212,6 @@ Windows
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
-* [ExifCleaner](https://exifcleaner.com/) ([Source](https://github.com/szTheory/exifcleaner))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
