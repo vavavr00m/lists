@@ -194,6 +194,7 @@ Windows
 * [QuasselIRC](https://quassel-irc.org/) ([Source](https://github.com/quassel/quassel))
 * EarTrumpet ([Source](https://github.com/File-New-Project/EarTrumpet))
 * [7z](https://www.7-zip.org/) ([Non-official Source](https://github.com/kornelski/7z))
+* [Anki](https://apps.ankiweb.net/) ([Source](https://github.com/ankitects/anki))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
