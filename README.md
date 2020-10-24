@@ -177,6 +177,7 @@ Windows
 * [Kitematic](https://kitematic.com/) ([Source](https://github.com/docker/kitematic))
 * [Process Hacker](https://processhacker.sourceforge.io/) ([Source](https://github.com/processhacker/processhacker))
 * [FontForge](https://fontforge.org/en-US/) ([Source](https://github.com/fontforge/fontforge))
+* [QuickLook](https://pooi.moe/QuickLook/) ([Source](https://github.com/QL-Win/QuickLook))
 * [Ryochan7's fork of DS4Windows](http://ds4windows.com/) ([Source](https://github.com/Ryochan7/DS4Windows))
 * [Rainmeter](https://www.rainmeter.net/) ([Source](https://github.com/rainmeter/rainmeter))
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
