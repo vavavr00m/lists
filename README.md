@@ -195,6 +195,8 @@ Windows
 * EarTrumpet ([Source](https://github.com/File-New-Project/EarTrumpet))
 * [7z](https://www.7-zip.org/) ([Non-official Source](https://github.com/kornelski/7z))
 * [Anki](https://apps.ankiweb.net/) ([Source](https://github.com/ankitects/anki))
+* Cerebro ([Source](https://github.com/KELiON/cerebro))
+* [Calibre](https://calibre-ebook.com/) ([Source](https://github.com/kovidgoyal/calibre))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
