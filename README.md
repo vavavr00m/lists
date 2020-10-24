@@ -212,6 +212,7 @@ Windows
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
+* Open with++ ([Source](https://github.com/stax76/OpenWithPlusPlus))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
