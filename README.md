@@ -156,7 +156,7 @@ Windows
 * [RetroArch](https://www.retroarch.com/) ([Source](https://github.com/libretro/RetroArch))
 * [Snowplow](https://snowplowanalytics.com/) ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / Read: [1](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
 * [QuiteRSS](https://quiterss.org/) ([Source](https://github.com/QuiteRSS/quiterss))
-* [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent)) or qBittorrent Enhanced Edition ([Source](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+* [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent)) or qBittorrent Enhanced Edition ([Source](https://github.com/c0re100/qBittorrent-Enhanced-Edition))
 * [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) ([Source](https://github.com/Klocman/Bulk-Crap-Uninstaller))
 * [WSUS Offline Update](https://www.wsusoffline.net/) ([Source](https://svn.wsusoffline.net/svn/wsusoffline/)) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
