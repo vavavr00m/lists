@@ -123,7 +123,6 @@ Chrome Extensions
 * [Switch Multi-Account Login](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe) (Free?)
 * [DownThemAll](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) ([Source](https://github.com/downthemall/downthemall))
 
-
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
 * Privatezilla ([Source](https://github.com/builtbybel/privatezilla)) + [Bloatbox](https://www.builtbybel.com/ms-apps/bloatbox) ([Source](https://github.com/builtbybel/bloatbox)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp)) or [privacy.sexy](https://privacy.sexy/) ([Source](https://github.com/undergroundwires/privacy.sexy)) / Read: [1](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/)
@@ -141,7 +140,7 @@ Windows
 * [ShareX](https://getsharex.com/) ([Source](https://github.com/ShareX/ShareX))
 * [EventGhost](http://www.eventghost.net/) ([Source](https://github.com/EventGhost/EventGhost))
 * Streisand ([Source](https://github.com/StreisandEffect/streisand))
-* [SoftEther VPN](https://www.softether.org/) ([Source](https://github.com/SoftEtherVPN/SoftEtherVPN)) w/ [VPN Gate](https://www.vpngate.net/en/) (Free)
+* [SoftEther VPN](https://www.softether.org/) ([Source](https://github.com/SoftEtherVPN/SoftEtherVPN)) w/ [VPN Gate](https://www.vpngate.net/en/) (Free) or [ZeroTier](https://www.zerotier.com/) ([Source](https://github.com/zerotier/ZeroTierOne))
 * [Ketarin](https://ketarin.org/) ([Source](https://github.com/canneverbe/Ketarin))
 * [Discourse](https://www.discourse.org/) ([Freemium Open Source](https://github.com/discourse/discourse))
 * [Jami](https://jami.net/) ([Source](https://github.com/savoirfairelinux/ring-project))
@@ -206,12 +205,18 @@ Windows
 * mpv.net ([Source](https://github.com/stax76/mpv.net))
 * PresenceLight ([Source](https://github.com/isaacrlevin/presenceLight))
 * [Shotcut](https://www.shotcut.org/) ([Source](https://github.com/mltframework/shotcut))
+* [Sigil](https://sigil-ebook.com/) ([Source](https://github.com/Sigil-Ebook/Sigil/))
+* [Stellarium](https://stellarium.org/) ([Source](https://github.com/Stellarium/stellarium/))
+* [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
+* [Taiga](https://taiga.moe/) ([Source](https://github.com/erengy/taiga))
+* [Searx](https://searx.me/) ([Source](https://github.com/searx/searx)) or [YaCy](https://yacy.net/) ([Source](https://github.com/yacy/yacy_search_server))
+* [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
+* Jackett ([Source](https://github.com/Jackett/Jackett/))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
 * SickChill ([Source](https://github.com/SickChill/SickChill))
-* Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
@@ -284,6 +289,10 @@ LF good FOSS alternative:
 - [ ] [LockHunter](https://lockhunter.com/) (Free)
 - [ ] [HDoujin Downloader](https://doujindownloader.com/) ([Modules Source](https://github.com/HDoujinDownloader/HDoujin-Downloader)) (Freemium)
 - [ ] [Sharp World Clock](https://www.sharpworldclock.com/) (Commercial)
+- [ ] [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
+- [ ] [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
+- [ ] [Krisp](https://krisp.ai/) (Freemium)
+- [ ] [YogaDNS](https://yogadns.com/) (Free)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
