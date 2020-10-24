@@ -193,7 +193,7 @@ Windows
 * EarTrumpet ([Source](https://github.com/File-New-Project/EarTrumpet))
 * [7z](https://www.7-zip.org/) ([Non-official Source](https://github.com/kornelski/7z))
 * [Anki](https://apps.ankiweb.net/) ([Source](https://github.com/ankitects/anki))
-* Cerebro ([Source](https://github.com/KELiON/cerebro))
+* Cerebro ([Source](https://github.com/KELiON/cerebro)) or [Wox](http://www.wox.one) ([Source](https://github.com/Wox-launcher/Wox))
 * [Calibre](https://calibre-ebook.com/) ([Source](https://github.com/kovidgoyal/calibre))
 * [Trelby](https://www.trelby.org/) ([Source](https://github.com/oskusalerma/trelby))
 * LosslessCut ([Source](https://github.com/mifi/lossless-cut))
@@ -213,7 +213,6 @@ Windows
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
 * Open with++ ([Source](https://github.com/stax76/OpenWithPlusPlus))
-* [Wox](http://www.wox.one) ([Source](https://github.com/Wox-launcher/Wox))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -222,6 +221,7 @@ Self-hosted
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
+- [ ] [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
 - [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: [1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm), [2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)
 - [ ] [OSArmor](https://www.osarmor.com) (Free)
 - [ ] [AppGuard](https://www.blueridgenetworks.com/appguard/) (?)
