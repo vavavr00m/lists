@@ -228,7 +228,7 @@ LF good FOSS alternative:
 - [ ] [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
 - [ ] [QiPress](http://www.aalapshah.in/qipress) (Freemium)
 - [ ] [RegEx Buddy](https://www.regexbuddy.com/) (Commercial)
-- [ ] [PowerGREP](https://www.powergrep.com/) (Commercial)
+- [ ] ~~[PowerGREP](https://www.powergrep.com/) (Commercial)~~ / [dnGrep](http://dngrep.github.io/) ([Source](https://github.com/dnGrep/dnGrep))
 - [ ] [ClickUp](https://clickup.com/) (Freemium SaaS)
 - [ ] [Zoom](https://zoom.us/) (Freemium)
 - [ ] [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
