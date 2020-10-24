@@ -158,7 +158,7 @@ Windows
 * [RetroArch](https://www.retroarch.com/) ([Source](https://github.com/libretro/RetroArch))
 * [Snowplow](https://snowplowanalytics.com/) ([Source](https://github.com/snowplow/snowplow)) or [Matomo](https://matomo.org/) ([Freemium Open Source](https://github.com/matomo-org/matomo)) / Read: [1](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data#Open_source_%E2%80%93_Self_hosted_/_Managed)
 * [QuiteRSS](https://quiterss.org/) ([Source](https://github.com/QuiteRSS/quiterss))
-* [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
+* [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent)) or qBittorrent Enhanced Edition ([Source](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 * [Spot-On](https://textbrowser.github.io/spot-on/) ([Source](https://github.com/textbrowser/spot-on))
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) ([Source](https://github.com/Klocman/Bulk-Crap-Uninstaller))
 * [WSUS Offline Update](https://www.wsusoffline.net/) ([Source](https://svn.wsusoffline.net/svn/wsusoffline/)) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
@@ -203,6 +203,9 @@ Windows
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) ([Source](https://github.com/MediaArea/MediaInfo))
 * [MKVToolNix](https://mkvtoolnix.download/) ([Source](https://gitlab.com/mbunkus/mkvtoolnix))
 * [MoviePrint](https://www.movieprint.org/) ([Source](https://github.com/fakob/MoviePrint_v004))
+* mpv.net ([Source](https://github.com/stax76/mpv.net))
+* PresenceLight ([Source](https://github.com/isaacrlevin/presenceLight))
+* [Shotcut](https://www.shotcut.org/) ([Source](https://github.com/mltframework/shotcut))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -280,6 +283,7 @@ LF good FOSS alternative:
 - [ ] [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
 - [ ] [LockHunter](https://lockhunter.com/) (Free)
 - [ ] [HDoujin Downloader](https://doujindownloader.com/) ([Modules Source](https://github.com/HDoujinDownloader/HDoujin-Downloader)) (Freemium)
+- [ ] [Sharp World Clock](https://www.sharpworldclock.com/) (Commercial)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
