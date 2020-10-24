@@ -197,6 +197,7 @@ Windows
 * [Anki](https://apps.ankiweb.net/) ([Source](https://github.com/ankitects/anki))
 * Cerebro ([Source](https://github.com/KELiON/cerebro))
 * [Calibre](https://calibre-ebook.com/) ([Source](https://github.com/kovidgoyal/calibre))
+* [Trelby](https://www.trelby.org/) ([Source](https://github.com/oskusalerma/trelby))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -273,6 +274,7 @@ LF good FOSS alternative:
 - [ ] [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
 - [ ] [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
 - [ ] [LockHunter](https://lockhunter.com/) (Free)
+- [ ] [HDoujin Downloader](https://doujindownloader.com/) ([Modules Source](https://github.com/HDoujinDownloader/HDoujin-Downloader)) (Freemium)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
