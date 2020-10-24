@@ -198,6 +198,11 @@ Windows
 * Cerebro ([Source](https://github.com/KELiON/cerebro))
 * [Calibre](https://calibre-ebook.com/) ([Source](https://github.com/kovidgoyal/calibre))
 * [Trelby](https://www.trelby.org/) ([Source](https://github.com/oskusalerma/trelby))
+* LosslessCut ([Source](https://github.com/mifi/lossless-cut))
+* [LMMS](https://lmms.io/) ([Source](https://github.com/LMMS/lmms))
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) ([Source](https://github.com/MediaArea/MediaInfo))
+* [MKVToolNix](https://mkvtoolnix.download/) ([Source](https://gitlab.com/mbunkus/mkvtoolnix))
+* [MoviePrint](https://www.movieprint.org/) ([Source](https://github.com/fakob/MoviePrint_v004))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
