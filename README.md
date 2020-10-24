@@ -213,6 +213,7 @@ Windows
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
+* [ExifCleaner](https://exifcleaner.com/) ([Source](https://github.com/szTheory/exifcleaner))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
