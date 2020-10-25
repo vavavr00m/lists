@@ -1,59 +1,70 @@
+
+Read: 
+* [What every Browser knows about you](https://webkay.robinlinus.com/)
+* [The ultimate Online Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/)
+ * [CSS Exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
+ * [Test Popup Blocker](https://webbrowsertools.com/popup-blocker/)
+* [PrivacyTools](https://privacytools.io/)
+* [Privacy Tools List](https://privacytoolslist.com/)
+* [PRISM Break](https://prism-break.org/en/)
+* [Droid-Break](https://droid-break.info/)
+
 # resources
 
 ## hosts
 
-- [x] https://support.umbrella.com/hc/en-us/articles/115007472907-Block-Page-Bypass-or-Allow-Only-mode-Domains-to-Allow
-- [x] https://gist.github.com/mul14/eb05e88fcec5bb195cbb
-- [x] https://github.com/bebasid/bebasid/blob/master/releases/hosts
-- [ ] https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true
-- [x] https://github.com/jkrejcha/AdmiraList
+- [x] [Block Page Bypass or Allow-Only mode: Domains to Allow](https://support.umbrella.com/hc/en-us/articles/115007472907-Block-Page-Bypass-or-Allow-Only-mode-Domains-to-Allow)
+- [x] [Unblock Vimeo, Reddit, Imgur, dan NPM](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
+- [x] [Peduli Internet Netral](https://github.com/bebasid/bebasid/blob/master/releases/hosts)
+- [ ] [pfblockerng.xlsx](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true)
+- [x] [jkrejcha's AdmiraList](https://github.com/jkrejcha/AdmiraList)
 
 facebook
-- [x] https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger
+- [x] [Blocking Facebook Messenger](https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger)
 
 youtube
-- [x] https://support.google.com/youtube/thread/14607026?hl=en
-- [x] https://www.d7xtech.com/blocking-youtube-for-the-kids-on-all-devices-as-well-as-other-undesirable-content/
-- [x] https://www.lifewire.com/ip-address-of-youtube-818157
-- [x] https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites
+- [x] [How to block Youtube entirely from a device?](https://support.google.com/youtube/thread/14607026?hl=en)
+- [x] [Blocking Youtube for the Kids on ALL devices, as well as other undesirable content…](https://www.d7xtech.com/blocking-youtube-for-the-kids-on-all-devices-as-well-as-other-undesirable-content/)
+- [x] [View YouTube Videos With YouTube's IP Address](https://www.lifewire.com/ip-address-of-youtube-818157)
+- [x] [How to BLOCK YOUTUBE without blocking other sites?](https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites)
 
 smarttv
-- [x] https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+- [x] [Perflyst's Smart-TV Blocklist for Pi-hole](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)
 
 tiktok
-- [x] https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/
-- [x] https://www.digitbin.com/block-tiktok-app-router/
-- [x] https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/
-- [x] https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/
+- [x] [How to block TikTok app on PTCL ADSL WIFI router using IP addresses?](https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/)
+- [x] [How to Block TikTok App on WiFi Network Router? (Easy Steps)](https://www.digitbin.com/block-tiktok-app-router/)
+- [x] [How to block the TikTok app on the router?](https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/)
+- [x] [Block Youtube and TikTok App on Smartphones and Tablets](https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/)
 
 deception
 - [x] [Melissa Zimdars' False, Misleading, Clickbait-y, and Satirical “News” Sources](https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/) or [Block Clickbait News](https://github.com/profimler/block-clickbait-news)
 
 tornodes
-- [x] https://www.dan.me.uk/torlist/
+- [x] [Tor Node List](https://www.dan.me.uk/torlist/)
 
 phorm
-- [x] https://www.dephormation.org.uk/?page=2
+- [x] [Dephormation](https://www.dephormation.org.uk/?page=2)
 
 privatetrackers
-- [ ] https://github.com/HDVinnie/Private-Trackers-Spreadsheet
+- [ ] [HDVinnie's Private Trackers Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet)
 
 publictrackers
-- [ ] https://github.com/ngosang/trackerslist
+- [ ] [ngosang's trackerslist](https://github.com/ngosang/trackerslist)
 
 sns
-- [ ] https://buffer.com/library/social-media-sites/
+- [ ] [21 Top Social Media Sites to Consider for Your Brand](https://buffer.com/library/social-media-sites/)
 
 chat
-- [ ] https://en.wikipedia.org/wiki/List_of_chat_websites 
+- [ ] [Wikipedia: List of chat websites](https://en.wikipedia.org/wiki/List_of_chat_websites)
 
 dating
-- [ ] https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/
-- [ ] https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/
+- [ ] [The best online dating sites for geeks, nerds, sci-fi buffs, and more](https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/)
+- [ ] [The best dating sites and apps](https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/)
 
 proxy/anonymizers
-- [ ] http://proxydb.net/
-- [ ] https://github.com/clarketm/proxy-list
+- [ ] [ProxyDB](http://proxydb.net/)
+- [ ] [clarketm's proxy-list](https://github.com/clarketm/proxy-list)
 
 vpn
 - [ ] [VPNGate](https://www.vpngate.net/en/) & [mirrors](https://www.vpngate.net/en/sites.aspx)
@@ -61,27 +72,25 @@ vpn
 ## keywords
 
 gender
-- [x] https://www.wattpad.com/341462536-complete-list-of-genders-the-complete-list-of-all
-
-love/~philia
-- [x] http://phrontistery.info/love.html
+- [x] [The Complete List of All Genders](https://www.wattpad.com/341462536-complete-list-of-genders-the-complete-list-of-all)
 
 mania/obsession
-- [x] http://phrontistery.info/mania.html
+- [x] [Word List: Definitions of Mania Words and Obsessions](http://phrontistery.info/mania.html)
 
-kinks/paraphilia
-- [x] https://github.com/clemclemmm/TheMegaSexList
-- [x] https://badgirlsbible.com/list-of-kinks-and-fetishes or https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes
-- [x] https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/
-- [x] https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html
+love/kinks/fetishes/paraphilia/~philia
+- [x] [Word List: Definitions of Words for Love, Fondness and Preference][http://phrontistery.info/love.html]
+- [x] [the mega sex list](https://github.com/clemclemmm/TheMegaSexList
+- [x] [List of Kinks and Fetishes](https://badgirlsbible.com/list-of-kinks-and-fetishes) or [Archive.org](https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes)
+- [x] [The most ADVANCED list of kinks and fetishes](https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/)
+- [x] [List of Kinks: Definitions of The Most Common & Popular Kinks (100+)](https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html)
 
 rhetorics:
-- [ ] http://rhetoric.byu.edu/
+- [ ] [Silva Rhetoricae](http://rhetoric.byu.edu/)
 
 profanities
 - [ ] Facebook
 - [ ] Instagram
-- [ ] Google https://github.com/RobertJGabriel/Google-profanity-words
+- [ ] [Google](https://github.com/RobertJGabriel/Google-profanity-words)
 - [ ] YouTube
 - [ ] Twitter
 - [ ] Tik Tok
@@ -123,8 +132,6 @@ Chrome Extensions
 * [Switch Multi-Account Login](https://switchextension.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe)) (Free?)
 * [DownThemAll](https://www.downthemall.org/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge)) ([Source](https://github.com/downthemall/downthemall))
 * LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo))
-
-Read: [What every Browser knows about you](https://webkay.robinlinus.com/)
 
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
