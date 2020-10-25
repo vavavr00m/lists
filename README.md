@@ -102,12 +102,10 @@ profanities
 - [ ] Tumblr
 - [ ] LinkedIN
 
-filters
-
-* none yet
+link shorteners
+* no list found yet
 
 regex
-
 - [x] https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 - [x] https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/
 - [x] https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/
@@ -117,12 +115,10 @@ regex
 ## tools
 
 Chrome Extensions
-* CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
 * [ClearURLS](https://clearurls.xyz/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)) ([Source](https://gitlab.com/KevinRoebert/ClearUrls))
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) ([Chrome Web Store](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo)) ([Source](https://github.com/mlgualtieri/CSS-Exfil-Protection))
 * [Decentraleyes](https://decentraleyes.org/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)) ([Source](https://git.synz.io/Synzvato/decentraleyes)) or [LocalCDN](https://www.localcdn.org/) ([Unofficial Chrome Web Store](https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd)) ([Source](https://codeberg.org/nobody/LocalCDN))
 * [Hello, Goodbye](https://hellogoodbye.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/hello-goodbye/nihpfpbibfgpgnfpbfedkdokihggapoi)) ([Source](https://github.com/bcye/Hello-Goodbye))
-* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
 * uBlock Origin ([Source](https://github.com/gorhill/uBlock))
 * SwitchyOmega ([Chrome Web Store](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)) ([Source](https://github.com/FelisCatus/SwitchyOmega))
 * [TrackMeNot](http://cs.nyu.edu/trackmenot/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/trackmenot/cgllkjmdafllcidaehjejjhpfkmanmka)) ([Source](https://github.com/vtoubiana/TrackMeNot)) or [Noiszy](https://noiszy.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/noiszy/immakaidhkcddagdjmedphlnamlcdcbg)) ([Source](https://github.com/noiszy/noiszy))
@@ -130,13 +126,22 @@ Chrome Extensions
 * [Privacy Settings](https://add0n.com/privacy-settings.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/privacy-settings/ijadljdlbkfhdoblhaedfgepliodmomj)) ([Source](https://github.com/schomery/privacy-settings/))
 * [Trace](https://absolutedouble.co.uk/trace/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb)) (Freemium)
 * [uBlacklist](https://iorate.github.io/ublacklist/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) ([Source](https://github.com/iorate/uBlacklist))
-* [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
 * Bypass Paywalls ([Source](https://github.com/iamadamdev/bypass-paywalls-chrome))
 * uMatrix ([Chrome Web Store](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf)) ([Source](https://github.com/gorhill/uMatrix/), Deprecated) or [NoScript](https://noscript.net/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)) ([Source](https://github.com/hackademix/noscript/))
 * Unpaywall ([Chrome Web Store](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)) ([Source](https://github.com/ourresearch/oadoi))
 * [Switch Multi-Account Login](https://switchextension.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/switch-multi-account-logi/eegeianojhonjjplfnelapmfbgjbnkfe)) (Free?)
 * [DownThemAll](https://www.downthemall.org/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge)) ([Source](https://github.com/downthemall/downthemall))
-* LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo))
+* [Negotiator](https://www.silentorbit.com/negotiator/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/negotiator/lfopjlendebbnfddpgpoaahmpbgmffii)) ([Source](https://github.com/SilentOrbit/negotiator))
+* [Luminous: JavaScript events blocker](https://gbaptista.github.io/luminous/doc/en-US/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/luminous-javascript-event/baacpbikplogpeecclpnajnlghmcldkb)) ([Source](https://github.com/gbaptista/luminous))
+* Web Archives ([Chrome Web Store](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)) ([Source](https://github.com/dessant/web-archives))
+
+* [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
+* CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
+* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
+* LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free)
+* [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free)
+* [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free)
+* [Simple Blocker](https://simpleblocker.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)) (Free)
 
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
