@@ -344,4 +344,4 @@ Others:
 * [carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
 * arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
 * CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
-* [AdmiralJS](https://github.com/anon182739/admiraljs)
+* AdmiralJS ([Source](https://github.com/anon182739/admiraljs))
