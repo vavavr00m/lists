@@ -169,7 +169,7 @@ Windows
 * Persepolis ([Source](https://github.com/persepolisdm/persepolis))
 * [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool)) + [ExifCleaner](https://exifcleaner.com/) ([Source](https://github.com/szTheory/exifcleaner))
 * dottorrent-gui ([Source](https://github.com/kz26/dottorrent-gui))
-* DICUI ([Source](https://github.com/SabreTools/DICUI))
+* DICUI ([Source](https://github.com/SabreTools/DICUI)) = Aaru Data Preservation Suite ([Source](https://github.com/aaru-dps/Aaru)) + DiscImageCreator ([Source](https://github.com/saramibreak/DiscImageCreator))
 * Panconvert ([Source](https://github.com/apaeffgen/PanConvert))
 * [InspIRCD](https://www.inspircd.org/) ([Source](https://github.com/inspircd/inspircd))
 * [RcloneBrowser](https://kapitainsky.github.io/RcloneBrowser/) ([Source](https://github.com/kapitainsky/RcloneBrowser))
@@ -199,7 +199,7 @@ Windows
 * Cerebro ([Source](https://github.com/KELiON/cerebro)) or [Wox](http://www.wox.one) ([Source](https://github.com/Wox-launcher/Wox))
 * [Calibre](https://calibre-ebook.com/) ([Source](https://github.com/kovidgoyal/calibre))
 * [Trelby](https://www.trelby.org/) ([Source](https://github.com/oskusalerma/trelby))
-* LosslessCut ([Source](https://github.com/mifi/lossless-cut))
+* [LosslessCut](https://mifi.no/losslesscut/) ([Source](https://github.com/mifi/lossless-cut))
 * [LMMS](https://lmms.io/) ([Source](https://github.com/LMMS/lmms))
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) ([Source](https://github.com/MediaArea/MediaInfo))
 * [MKVToolNix](https://mkvtoolnix.download/) ([Source](https://gitlab.com/mbunkus/mkvtoolnix))
@@ -220,13 +220,13 @@ Windows
 * [Caption](https://getcaption.co/) ([Source](https://github.com/gielcobben/caption))
 * [IPFilter Updater](https://www.sadrobot.co.nz/ipfilter/) ([Source](https://github.com/DavidMoore/ipfilter))
 * Jitsi Meet Electron ([Source](https://github.com/jitsi/jitsi-meet-electron))
-* Jackett ([Source](https://github.com/Jackett/Jackett/))
-* [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
 * SickChill ([Source](https://github.com/SickChill/SickChill))
+* [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
+* Jackett ([Source](https://github.com/Jackett/Jackett/))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
