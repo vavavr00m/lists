@@ -220,6 +220,7 @@ Windows
 * [Caption](https://getcaption.co/) ([Source](https://github.com/gielcobben/caption))
 * [IPFilter Updater](https://www.sadrobot.co.nz/ipfilter/) ([Source](https://github.com/DavidMoore/ipfilter))
 * Jitsi Meet Electron ([Source](https://github.com/jitsi/jitsi-meet-electron))
+* [Thunderbird](https://www.thunderbird.net/en-US/) ([Source](https://github.com/mozilla/releases-comm-central))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
