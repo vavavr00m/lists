@@ -5,6 +5,8 @@
 * [The ultimate Online Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/)
   * [CSS Exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
   * [Test Popup Blocker](https://webbrowsertools.com/popup-blocker/)
+  * [ClearURLs Test Page](https://test.clearurls.xyz/)
+* [Comparison of Link Cleaning Addons/Extensions](https://gitlab.com/KevinRoebert/ClearUrls/-/wikis/Similar-Addons)
 * [PrivacyTools](https://privacytools.io/)
 * [Privacy Tools List](https://privacytoolslist.com/)
 * [PRISM Break](https://prism-break.org/en/)
