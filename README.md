@@ -135,6 +135,7 @@ Chrome Extensions
 * [Luminous: JavaScript events blocker](https://gbaptista.github.io/luminous/doc/en-US/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/luminous-javascript-event/baacpbikplogpeecclpnajnlghmcldkb)) ([Source](https://github.com/gbaptista/luminous))
 * Web Archives ([Chrome Web Store](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)) ([Source](https://github.com/dessant/web-archives))
 
+LF good FOSS alternative:
 * [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
 * CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
