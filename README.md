@@ -82,7 +82,7 @@ mania/obsession
 
 love/kinks/fetishes/paraphilia/~philia
 - [x] [Word List: Definitions of Words for Love, Fondness and Preference][http://phrontistery.info/love.html]
-- [x] [the mega sex list](https://github.com/clemclemmm/TheMegaSexList
+- [x] [the mega sex list](https://github.com/clemclemmm/TheMegaSexList)
 - [x] [List of Kinks and Fetishes](https://badgirlsbible.com/list-of-kinks-and-fetishes) or [Archive.org](https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes)
 - [x] [The most ADVANCED list of kinks and fetishes](https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/)
 - [x] [List of Kinks: Definitions of The Most Common & Popular Kinks (100+)](https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html)
