@@ -136,13 +136,21 @@ Chrome Extensions
 * Web Archives ([Chrome Web Store](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)) ([Source](https://github.com/dessant/web-archives))
 
 LF good FOSS alternative:
-* [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
-* CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
-* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
-* LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free)
-* [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free)
-* [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free)
-* [Simple Blocker](https://simpleblocker.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)) (Free)
+- [ ] [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
+- [ ] CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
+- [ ] [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
+- [ ] LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free)
+- [ ] [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free)
+- [ ] [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free)
+- [ ] [Simple Blocker](https://simpleblocker.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)) (Free)
+
+LF good Chrome alternative:
+- [ ] Forget Me Not ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/)) ([Source](https://github.com/Lusito/forget-me-not))
+- [ ] Temporary Containers ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)) ([Source](https://github.com/stoically/temporary-containers))
+- [ ] Conex ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/conex/)) ([Source](https://github.com/kesselborn/conex))
+- [ ] Switch Container Plus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/)) ([Source](https://github.com/stoically/switch-container-plus))
+- [ ] Firefox Multi-Account Containers ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)) ([Source](https://github.com/mozilla/multi-account-containers)) + Facebook Container ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)) ([Source](https://github.com/mozilla/contain-facebook))
+- [ ] [Snowflake](https://trac.torproject.org/projects/tor/wiki/doc/Snowflake) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/)) ([Source](https://gitweb.torproject.org/pluggable-transports/snowflake.git))
 
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
