@@ -342,8 +342,8 @@ Games:
 - [ ] ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ / [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
 - [x] [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
 - [x] [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
-- [ ] [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial)
-- [ ] [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/) (Commercial)
+- [x] [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial) + All DLCs
+- [x] [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/) (Commercial)
 - [x] [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) (Commercial)
 * Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
 * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
