@@ -1,9 +1,10 @@
 
-Read: 
+## Read:
+
 * [What every Browser knows about you](https://webkay.robinlinus.com/)
 * [The ultimate Online Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/)
- * [CSS Exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
- * [Test Popup Blocker](https://webbrowsertools.com/popup-blocker/)
+  * [CSS Exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
+  * [Test Popup Blocker](https://webbrowsertools.com/popup-blocker/)
 * [PrivacyTools](https://privacytools.io/)
 * [Privacy Tools List](https://privacytoolslist.com/)
 * [PRISM Break](https://prism-break.org/en/)
