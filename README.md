@@ -210,11 +210,15 @@ Windows
 * [Taiga](https://taiga.moe/) ([Source](https://github.com/erengy/taiga))
 * [Searx](https://searx.me/) ([Source](https://github.com/searx/searx)) + SearX-Qt ([Source](https://notabug.org/CYBERDEViL/searx-qt)) + [YaCy](https://yacy.net/) ([Source](https://github.com/yacy/yacy_search_server))
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
-* Jackett ([Source](https://github.com/Jackett/Jackett/))
+* [JabRef](https://www.jabref.org/) ([Source](https://github.com/JabRef/jabref))
 * Windows Package Manager ([Source](https://github.com/microsoft/winget-cli))
 * Open with++ ([Source](https://github.com/stax76/OpenWithPlusPlus))
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) ([Source](https://github.com/metabrainz/picard))
 * [Caption](https://getcaption.co/) ([Source](https://github.com/gielcobben/caption))
+* [IPFilter Updater](https://www.sadrobot.co.nz/ipfilter/) ([Source](https://github.com/DavidMoore/ipfilter))
+* Jitsi Meet Electron ([Source](https://github.com/jitsi/jitsi-meet-electron))
+* Jackett ([Source](https://github.com/Jackett/Jackett/))
+* [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
