@@ -128,7 +128,7 @@ Read: [What every Browser knows about you](https://webkay.robinlinus.com/)
 
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
-* Privatezilla ([Source](https://github.com/builtbybel/privatezilla)) + [Bloatbox](https://www.builtbybel.com/ms-apps/bloatbox) ([Source](https://github.com/builtbybel/bloatbox)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp)) or [privacy.sexy](https://privacy.sexy/) ([Source](https://github.com/undergroundwires/privacy.sexy)) / Read: ([1](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/))
+* [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) ([Source](https://github.com/builtbybel/privatezilla)) + [Bloatbox](https://www.builtbybel.com/ms-apps/bloatbox) ([Source](https://github.com/builtbybel/bloatbox)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp)) or [privacy.sexy](https://privacy.sexy/) ([Source](https://github.com/undergroundwires/privacy.sexy)) / Read: ([1](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/))
 * [Hard Configurator](https://hard-configurator.com) ([Source](https://github.com/AndyFul/Hard_Configurator))
 * ConfigureDefender ([Source](https://github.com/AndyFul/ConfigureDefender))
 * Run By SmartScreen ([Source](https://github.com/AndyFul/Run-By-Smartscreen))
