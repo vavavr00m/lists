@@ -258,6 +258,7 @@ Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
 * [Organizr](https://organizr.app) ([Source](https://github.com/causefx/Organizr))
+* theme.park ([Source](https://github.com/gilbN/theme.park))
 * [Jellyfin](https://jellyfin.org/) ([Source](https://github.com/jellyfin/jellyfin))
 * SickChill ([Source](https://github.com/SickChill/SickChill))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
@@ -273,8 +274,11 @@ Self-hosted
 * Mylar3 ([Source](https://github.com/mylar3/mylar3))
 * Mediarr ([Source](https://github.com/l3uddz/mediarr))
 * Wantarr ([Source](https://github.com/l3uddz/wantarr))
+* Timearr ([Source](https://github.com/l3uddz/timearr))
+* Syncarr ([Source](https://github.com/syncarr/syncarr))
 * Bonarr ([Source](https://github.com/klassicstudios/Bonarr))
 Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](https://www.reddit.com/r/usenet/comments/jha124/i_made_a_website_to_keep_track_of_all_the_arr/))
+* rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
