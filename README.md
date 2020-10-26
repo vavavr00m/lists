@@ -259,6 +259,7 @@ Self-hosted
 * SickChill ([Source](https://github.com/SickChill/SickChill))
 * [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
+* NZBHydra 2 ([Source](https://github.com/theotherp/nzbhydra2))
 * [Jellyfin](https://jellyfin.org/) ([Source](https://github.com/jellyfin/jellyfin))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
