@@ -264,7 +264,14 @@ Self-hosted
 * [Radarr](https://radarr.video) ([Source](https://github.com/Radarr/Radarr))
 * [Bazaar](https://www.bazarr.media) ([Source](https://github.com/morpheus65535/bazarr))
 * [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
-* [Readarr](https://readarr.com) ([Source](https://github.com/Readarr/Readarr))
+* [Readarr](https://readarr.com) ([Source](https://github.com/Readarr/Readarr)) or [LazyLibrarian](https://lazylibrarian.gitlab.io/) ([Source]https://gitlab.com/LazyLibrarian/LazyLibrarian))
+* Tdarr ([Source](https://github.com/HaveAGitGat/Tdarr))
+* Requestrr ([Source](https://github.com/darkalfx/requestrr))
+* Listarr ([Source](https://github.com/christophercatt/listarr))
+* Traktarr ([Source](https://github.com/l3uddz/traktarr))
+* Mylar3 ([Source](https://github.com/mylar3/mylar3))
+* Bonarr ([Source](https://github.com/klassicstudios/Bonarr))
+Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](https://www.reddit.com/r/usenet/comments/jha124/i_made_a_website_to_keep_track_of_all_the_arr/))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
