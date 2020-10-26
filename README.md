@@ -8,6 +8,8 @@
   * [ClearURLs Test Page](https://test.clearurls.xyz/)
   * [Decentraleyes test](https://decentraleyes.org/test/)
   * [LocalCDN test](https://www.localcdn.org/test)
+* [An Introduction to HTTP fingerprinting](https://www.net-square.com/httprint_paper.html)
+* [Data Collection Techniques](https://www.whonix.org/wiki/Data_Collection_Techniques)
 * [Comparison of Link Cleaning Addons/Extensions](https://gitlab.com/KevinRoebert/ClearUrls/-/wikis/Similar-Addons)
 * [PrivacyTools](https://privacytools.io/)
 * [Privacy Tools List](https://privacytoolslist.com/)
