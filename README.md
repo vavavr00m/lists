@@ -335,6 +335,7 @@ LF good FOSS alternative:
 - [ ] [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
 - [ ] [Krisp](https://krisp.ai/) (Freemium)
 - [ ] [YogaDNS](https://yogadns.com/) (Free)
+- [ ] [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
