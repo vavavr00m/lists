@@ -248,6 +248,7 @@ Windows
 * Jitsi Meet Electron ([Source](https://github.com/jitsi/jitsi-meet-electron))
 * [Thunderbird](https://www.thunderbird.net/en-US/) ([Source](https://github.com/mozilla/releases-comm-central))
 * Files ([Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)) ([Source](https://github.com/files-community/Files)) or [Tablacus Explorer](https://tablacus.github.io/explorer_en.html) ([Source](https://github.com/tablacus/TablacusExplorer))
+* [Remove Empty Directories](https://www.jonasjohn.de/red.htm) ([Source](https://sourceforge.net/projects/rem-empty-dir/))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
