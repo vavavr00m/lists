@@ -252,6 +252,7 @@ Windows
 * Files ([Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)) ([Source](https://github.com/files-community/Files)) or [Tablacus Explorer](https://tablacus.github.io/explorer_en.html) ([Source](https://github.com/tablacus/TablacusExplorer))
 * [Remove Empty Directories](https://www.jonasjohn.de/red.htm) ([Source](https://sourceforge.net/projects/rem-empty-dir/))
 * [Patchfluent](https://www.builtbybel.com/ms-apps/patchfluent) ([Source](https://github.com/builtbybel/patchfluent))
+* TraktRater ([Source](https://github.com/damienhaynes/TraktRater))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -266,10 +267,12 @@ Self-hosted
 * [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
 * [Readarr](https://readarr.com) ([Source](https://github.com/Readarr/Readarr)) or [LazyLibrarian](https://lazylibrarian.gitlab.io/) ([Source]https://gitlab.com/LazyLibrarian/LazyLibrarian))
 * Tdarr ([Source](https://github.com/HaveAGitGat/Tdarr))
-* Requestrr ([Source](https://github.com/darkalfx/requestrr))
+* Requestrr ([Source](https://github.com/darkalfx/requestrr)) + Searcharr ([Source](https://github.com/toddrob99/searcharr))
 * Listarr ([Source](https://github.com/christophercatt/listarr))
 * Traktarr ([Source](https://github.com/l3uddz/traktarr))
 * Mylar3 ([Source](https://github.com/mylar3/mylar3))
+* Mediarr ([Source](https://github.com/l3uddz/mediarr))
+* Wantarr ([Source](https://github.com/l3uddz/wantarr))
 * Bonarr ([Source](https://github.com/klassicstudios/Bonarr))
 Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](https://www.reddit.com/r/usenet/comments/jha124/i_made_a_website_to_keep_track_of_all_the_arr/))
 * Meute ([Source](https://github.com/michielbdejong/meute))
