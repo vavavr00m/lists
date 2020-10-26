@@ -247,6 +247,7 @@ Windows
 * [IPFilter Updater](https://www.sadrobot.co.nz/ipfilter/) ([Source](https://github.com/DavidMoore/ipfilter))
 * Jitsi Meet Electron ([Source](https://github.com/jitsi/jitsi-meet-electron))
 * [Thunderbird](https://www.thunderbird.net/en-US/) ([Source](https://github.com/mozilla/releases-comm-central))
+* Files ([Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)) ([Source](https://github.com/files-community/Files)) or [Tabacus Explorer](https://tablacus.github.io/explorer_en.html) ([Source](https://github.com/tablacus/TablacusExplorer))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
