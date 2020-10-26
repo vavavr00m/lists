@@ -259,6 +259,7 @@ Self-hosted
 * SickChill ([Source](https://github.com/SickChill/SickChill))
 * [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
+* [Jellyfin](https://jellyfin.org/) ([Source](https://github.com/jellyfin/jellyfin))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
@@ -337,6 +338,7 @@ LF good FOSS alternative:
 - [ ] [Krisp](https://krisp.ai/) (Freemium)
 - [ ] [YogaDNS](https://yogadns.com/) (Free)
 - [ ] [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
+- [ ] [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
