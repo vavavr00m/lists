@@ -256,11 +256,15 @@ Windows
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
+* [Organizr](https://organizr.app) ([Source](https://github.com/causefx/Organizr))
+* [Jellyfin](https://jellyfin.org/) ([Source](https://github.com/jellyfin/jellyfin))
 * SickChill ([Source](https://github.com/SickChill/SickChill))
-* [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * NZBHydra 2 ([Source](https://github.com/theotherp/nzbhydra2))
-* [Jellyfin](https://jellyfin.org/) ([Source](https://github.com/jellyfin/jellyfin))
+* [Radarr](https://radarr.video) ([Source](https://github.com/Radarr/Radarr))
+* [Bazaar](https://www.bazarr.media) ([Source](https://github.com/morpheus65535/bazarr))
+* [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
+* [Readarr](https://readarr.com) ([Source](https://github.com/Readarr/Readarr))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
 LF good FOSS alternative:
