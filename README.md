@@ -193,7 +193,7 @@ Windows
 * [WSUS Offline Update](https://www.wsusoffline.net/) ([Source](https://svn.wsusoffline.net/svn/wsusoffline/)) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
 * [TronScript](https://www.reddit.com/r/TronScript/) ([Script is FOSS](https://github.com/bmrf/tron) but is composed of closed & open source)
 * [Kodi](https://kodi.tv/) ([Source](https://github.com/xbmc/xbmc))
-* [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Source](https://github.com/ytdl-org/youtube-dl), DMCA'd) / [GL fork by Superleaf1995](https://gitlab.com/Superleaf1995/youtube-dl) / [GH fork by l1ving](https://github.com/l1ving/youtube-dl)
+* [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Original Source](https://github.com/ytdl-org/youtube-dl), DMCA'd) ([GL fork by Superleaf1995](https://gitlab.com/Superleaf1995/youtube-dl)) ([GH fork by l1ving](https://github.com/l1ving/youtube-dl))
 * Persepolis ([Source](https://github.com/persepolisdm/persepolis))
 * [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool)) + [ExifCleaner](https://exifcleaner.com/) ([Source](https://github.com/szTheory/exifcleaner))
 * dottorrent-gui ([Source](https://github.com/kz26/dottorrent-gui))
