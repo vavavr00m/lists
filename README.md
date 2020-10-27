@@ -136,6 +136,7 @@ Chrome Extensions
 * [Negotiator](https://www.silentorbit.com/negotiator/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/negotiator/lfopjlendebbnfddpgpoaahmpbgmffii)) ([Source](https://github.com/SilentOrbit/negotiator))
 * [Luminous: JavaScript events blocker](https://gbaptista.github.io/luminous/doc/en-US/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/luminous-javascript-event/baacpbikplogpeecclpnajnlghmcldkb)) ([Source](https://github.com/gbaptista/luminous))
 * Web Archives ([Chrome Web Store](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)) ([Source](https://github.com/dessant/web-archives))
+* [Webpage Screenshot](https://1ce.org/1click-webpage-screenshot/overview) ([Chrome Web Store](https://chrome.google.com/webstore/detail/webpage-screenshot-entire/akgpcdalpfphjmfifkmfbpdmgdmeeaeo)) ([Source](https://github.com/1click-extensions/1click-webpage-screenshot))
 
 LF good FOSS alternative:
 - [ ] [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
