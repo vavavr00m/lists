@@ -364,8 +364,8 @@ LF good FOSS alternative:
 
 Exam/Test/Puzzle/Course Maker/Generator
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
-- [ ] [ActivePresenter](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
-- [ ] [https://atomisystems.com/activepresenter/ Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
+- [ ] [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
+- [ ] [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
 - [ ] [Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
 - [ ] [Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
 - [ ] [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
