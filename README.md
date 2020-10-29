@@ -362,6 +362,7 @@ LF good FOSS alternative:
 - [ ] [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
 - [ ] [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
 - [ ] BatchPatch (https://batchpatch.com/purchase) (Commercial)
+- [ ] [Actual Window Manager](https://www.actualtools.com/windowmanager/) (Commercial)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
