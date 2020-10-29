@@ -363,6 +363,8 @@ LF good FOSS alternative:
 - [ ] [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
 - [ ] [BatchPatch](https://batchpatch.com/) (Commercial)
 - [ ] [Actual Window Manager](https://www.actualtools.com/windowmanager/) (Commercial)
+- [ ] [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
+- [ ] [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
