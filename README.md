@@ -360,14 +360,15 @@ LF good FOSS alternative:
 - [ ] [Actual Window Manager](https://www.actualtools.com/windowmanager/) (Commercial)
 - [ ] [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
 - [ ] [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
+- [ ] [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
 
 Exam/Test/Puzzle/Course Maker/Generator
   - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
   - [ ] [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Commercial)
-  - [ ] [Schoolhouse Test](https://www.schoolhousetech.com/test-maker/) (Commercial)
-  - [ ] [Math Resource Studio](https://www.schoolhousetech.com/math/) (Commercial)
-  - [ ] [Vocabulary Worksheet Factory](https://www.schoolhousetech.com/vocabulary/) (Commercial)
-  - [ ] [Schoolhouse Bingo](https://www.schoolhousetech.com/bingo/) (Commercial)
+  - [ ] [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
+  - [ ] [Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
+  - [ ] [Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
+  - [ ] [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
