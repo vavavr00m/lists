@@ -294,7 +294,7 @@ LF good FOSS alternative:
 - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
 - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
 - [ ] [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
-- [ ] [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Commercial)
+- [ ] [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Commercial)
 - [ ] [Schoolhouse Test](https://www.schoolhousetech.com/test-maker/) (Commercial)
 - [ ] [Math Resource Studio](https://www.schoolhousetech.com/math/) (Commercial)
 - [ ] [Vocabulary Worksheet Factory](https://www.schoolhousetech.com/vocabulary/) (Commercial)
