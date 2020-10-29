@@ -294,11 +294,6 @@ LF good FOSS alternative:
 - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
 - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
 - [ ] [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
-- [ ] [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Commercial)
-- [ ] [Schoolhouse Test](https://www.schoolhousetech.com/test-maker/) (Commercial)
-- [ ] [Math Resource Studio](https://www.schoolhousetech.com/math/) (Commercial)
-- [ ] [Vocabulary Worksheet Factory](https://www.schoolhousetech.com/vocabulary/) (Commercial)
-- [ ] [Schoolhouse Bingo](https://www.schoolhousetech.com/bingo/) (Commercial)
 - [ ] [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
 - [ ] [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
 - [ ] [Devolutions Password Hub Platium](https://password.devolutions.net/) (Commercial) or [Devolutions Password Server Platinum](https://server.devolutions.net/) (Commercial)
@@ -366,13 +361,20 @@ LF good FOSS alternative:
 - [ ] [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
 - [ ] [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
 
+  Exam/Test/Puzzle/Course Maker/Generator
+  - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
+  - [ ] [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Commercial)
+  - [ ] [Schoolhouse Test](https://www.schoolhousetech.com/test-maker/) (Commercial)
+  - [ ] [Math Resource Studio](https://www.schoolhousetech.com/math/) (Commercial)
+  - [ ] [Vocabulary Worksheet Factory](https://www.schoolhousetech.com/vocabulary/) (Commercial)
+  - [ ] [Schoolhouse Bingo](https://www.schoolhousetech.com/bingo/) (Commercial)
+
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
 - [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
 
 Games:
-- [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
 - [ ] ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ / [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
 - [x] [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
 - [x] [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
