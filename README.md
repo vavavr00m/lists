@@ -361,6 +361,7 @@ LF good FOSS alternative:
 - [ ] [YogaDNS](https://yogadns.com/) (Free)
 - [ ] [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
 - [ ] [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
+- [ ] BatchPatch (https://batchpatch.com/purchase) (Commercial)
 
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
