@@ -297,6 +297,7 @@ LF good FOSS alternative:
 - [ ] [Schoolhouse Test](https://www.schoolhousetech.com/test-maker/)(Commercial)
 - [ ] [Math Resource Studio](https://www.schoolhousetech.com/math/) (Commercial)
 - [ ] [Vocabulary Worksheet Factory](https://www.schoolhousetech.com/vocabulary/) (Commercial)
+- [ ] [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Commercial)
 - [ ] [Schoolhouse Bingo](https://www.schoolhousetech.com/bingo/) (Commercial)
 - [ ] [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
 - [ ] [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
