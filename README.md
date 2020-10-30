@@ -391,7 +391,7 @@ LF good Windows alternative:
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
 - [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
 
-Games:
+Games
 - [ ] ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ / [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
 - [x] [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
 - [x] [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
@@ -401,6 +401,24 @@ Games:
 * Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
 * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
 * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
+
+Addins/Add-ins/Plugins/Plug-ins
+- [ ] [Ablebits Ultimate Suite for Excel](https://www.ablebits.com/excel-suite/) (Commercial)
+- [ ] [ExtendOffice Kutools for Excel](https://www.extendoffice.com/product/kutools-for-excel.html) (Commercial)
+- [ ] [MathType by Wiris](http://www.wiris.com/mathtype) (Commercial)
+* evermap
+  - [ ] [AutoSplit Pro Plug-in](http://www.evermap.com/autosplit.asp) (Commercial)
+  - [ ] [AutoBookmark Professional Plug-in](http://www.evermap.com/autobookmark.asp) (Commercial)
+  - [ ] [AutoBatch Plug-in](http://www.evermap.com/autobatch.asp) (Commercial)
+  - [ ] [AutoPagex Plug-in](http://www.evermap.com/autopage.asp) (Commercial)
+  - [ ] [AutoRedact Plug-in](http://www.evermap.com/autoredact.asp) (Commercial)
+  - [ ] [AutoMailMerge Plug-in](http://www.evermap.com/automailmerge.asp) (Commercial)
+  - [ ] [AutoMassSecure Plug-in](http://www.evermap.com/automasssecure.asp) (Commercial)
+  - [ ] [AutoDocMail Plug-in](http://www.evermap.com/autodocmail.asp) (Commercial)
+  - [ ] [AutoInk Plug-in](http://www.evermap.com/autoink.asp) (Commercial)
+  - [ ] [AutoPortfolio Plug-in](http://www.evermap.com/autoportfolio.asp) (Commercial)
+  - [ ] [AutoDocSearch Plug-in](http://www.evermap.com/autodocsearch.asp) (Commercial)
+
 
 ### subscriptions
 
