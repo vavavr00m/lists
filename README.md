@@ -282,6 +282,7 @@ Self-hosted
 Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](https://www.reddit.com/r/usenet/comments/jha124/i_made_a_website_to_keep_track_of_all_the_arr/))
 * rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
+* [SubtitleEdit](https://www.nikse.dk/SubtitleEdit/) ([Source](https://github.com/SubtitleEdit/subtitleedit))
 
 LF good FOSS alternative:
 - [ ] [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
@@ -362,6 +363,7 @@ LF good FOSS alternative:
 - [ ] [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
 - [ ] [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
 - [ ] [Universal Maps Downloader](http://www.allmapsoft.com/umd/index.html) (Commercial)
+- [ ] [Proxifier](https://www.proxifier.com/) (Commercial)
 
 Exam/Test/Puzzle/Course Maker/Generator
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
