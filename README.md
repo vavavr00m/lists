@@ -319,7 +319,7 @@ LF good FOSS alternative:
 - [ ] [Wordaizer](https://www.apphelmond.com/Wordaizer/index.htm) (Commercial)
 - [ ] [Textaizer Pro](https://www.apphelmond.com/Textaizer/index.htm) (Commercial)
 - [ ] [Brickaizer](https://www.apphelmond.com/Brickaizer/index.htm) (Commercial)
-- [ ] [Pattaizer](https://www.apphelmond.com/Pattaizer/index.htm) (Freely bundled with Commerical products)
+- [ ] [Pattaizer](https://www.apphelmond.com/Pattaizer/index.htm) (Freely bundled with Commercial products)
 - [ ] [Event Mosaic Creator](https://www.apphelmond.com/EventMosaic/index.htm) (Commercial)
 - [ ] [Interactive LiveMosaics](https://www.apphelmond.com/LiveMosaics/index.htm) (?)
 - [ ] [Dynamic Mosaics](https://www.apphelmond.com/DynamicMosaics/index.htm) (?)
