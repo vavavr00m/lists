@@ -361,6 +361,7 @@ LF good FOSS alternative:
 - [ ] [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
 - [ ] [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
 - [ ] [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
+- [ ] [Universal Maps Downloader](http://www.allmapsoft.com/umd/index.html) (Commercial)
 
 Exam/Test/Puzzle/Course Maker/Generator
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
