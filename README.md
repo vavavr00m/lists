@@ -349,10 +349,11 @@ LF good FOSS alternative:
   - [ ] [AppGuard](https://www.blueridgenetworks.com/appguard/) (Commercial)
   - [ ] [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
   - [ ] [Bitvise SSH Client](https://www.bitvise.com/ssh-client) (Free Personal)
+  - [ ] [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
   - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
   - [ ] [Intec Proxifier](https://www.proxifier.com/) (Commercial)
-  - [ ] [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
   - [ ] [Intec YogaDNS](https://yogadns.com/) (Free)
+  - [ ] [Malwarebytes Premium](https://www.malwarebytes.com/for-home/products/)
   - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
   - [ ] [NoVirusThanks™ OSArmor](https://www.osarmor.com) (Free)
   - [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: ([1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)) ([2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm))
@@ -363,7 +364,7 @@ LF good FOSS alternative:
   - [ ] [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
   - [ ] [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
 
-  Image-related
+  Graphics-related
   - [ ] [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
   - [ ] ~~[Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) (Commercial)~~ / [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape))
   - [ ] [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) (Commercial)
@@ -408,6 +409,12 @@ LF good FOSS alternative:
   Video-related
   - [ ] [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
   
+  Disc-related
+  - [ ] [DVDFab All-in-One](https://www.dvdfab.cn/all-in-one.htm)
+  
+  Presentation-related
+  - [ ] [RenewedVision ProPresenter](https://renewedvision.com/propresenter/) (Commercial)
+  
   Helpers
   - [ ] ColorSchemer Studio (Discontinued)
   - [ ] [LockHunter](https://lockhunter.com/) (Free)
@@ -448,11 +455,17 @@ LF good FOSS alternative:
     - [ ] [AutoPortfolio Plug-in](http://www.evermap.com/autoportfolio.asp) (Commercial)
     - [ ] [AutoDocSearch Plug-in](http://www.evermap.com/autodocsearch.asp) (Commercial)
 
+  [TBA]
+  - [ ] [Esko Suite Server](https://www.esko.com/en/news-archive/2012/new-in-suite12) (Commercial)
+
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
 - [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
-
+- [ ] [RenewedVision ProVideoPlayer (PVP)](https://renewedvision.com/provideoplayer/) (Commercial)
+- [ ] [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
+- [ ] [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
+  
 ### subscriptions
 
 hosts:
