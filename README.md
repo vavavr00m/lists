@@ -283,6 +283,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 * [SubtitleEdit](https://www.nikse.dk/SubtitleEdit/) ([Source](https://github.com/SubtitleEdit/subtitleedit))
+* FanControl ([Source](https://github.com/Rem0o/FanControl.Releases))
 
 LF good FOSS alternative:
 - [ ] [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
@@ -364,6 +365,18 @@ LF good FOSS alternative:
 - [ ] [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
 - [ ] [Universal Maps Downloader](http://www.allmapsoft.com/umd/index.html) (Commercial)
 - [ ] [Proxifier](https://www.proxifier.com/) (Commercial)
+- [ ] [JixiPix PuzziPix Pro](https://jixipix.com/puzzipix-pro/details.html) (Commercial)
+- [ ] [JixiPix Rip Studio](https://jixipix.com/rip-studio/details.html) (Commercial)
+- [ ] [JixiPix Photo Formation](https://jixipix.com/photo-formation/details.html) (Commercial)
+- [ ] [JixiPix Pastello](https://jixipix.com/pastello/details.html) (Commercial)
+- [ ] [JixiPix Premium Pack](https://jixipix.com/bundles/premium-pack.html) (Commercial)
+- [ ] [JixiPix Hand Tint Pro](https://jixipix.com/hand-tint-pro/details.html) (Commercial)
+- [ ] [JixiPix Artista Impresso Pro](https://jixipix.com/artista-impresso-pro/details.html) (Commercial)
+- [ ] [JixiPix Spektrel Art](https://jixipix.com/spektrel-art/details.html) (Commercial)
+- [ ] [JixiPix Chromatic Edges](https://jixipix.com/chromatic-edges/details.html) (Commercial)
+- [ ] [JixiPix Watercolor Studio](https://jixipix.com/watercolor-studio/details.html) (Commercial)
+- [ ] [Figr Collage Professional Edition](https://www.figrcollage.com/) (Commercial)
+- [ ] [Album DS](http://www.albumds.com/) (Commercial)
 
 Exam/Test/Puzzle/Course Maker/Generator
 - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
