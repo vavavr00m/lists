@@ -254,6 +254,10 @@ Windows
 * [Remove Empty Directories](https://www.jonasjohn.de/red.htm) ([Source](https://sourceforge.net/projects/rem-empty-dir/))
 * [Patchfluent](https://www.builtbybel.com/ms-apps/patchfluent) ([Source](https://github.com/builtbybel/patchfluent))
 * TraktRater ([Source](https://github.com/damienhaynes/TraktRater))
+* PyGlossary ([Source](https://github.com/ilius/pyglossary))
+* Cryptography ([Source](https://github.com/norkator/cryptography))
+* [SubtitleEdit](https://www.nikse.dk/SubtitleEdit/) ([Source](https://github.com/SubtitleEdit/subtitleedit))
+* FanControl ([Source](https://github.com/Rem0o/FanControl.Releases))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -282,8 +286,6 @@ Self-hosted
 Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](https://www.reddit.com/r/usenet/comments/jha124/i_made_a_website_to_keep_track_of_all_the_arr/))
 * rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
-* [SubtitleEdit](https://www.nikse.dk/SubtitleEdit/) ([Source](https://github.com/SubtitleEdit/subtitleedit))
-* FanControl ([Source](https://github.com/Rem0o/FanControl.Releases))
 
 LF good FOSS alternative:
       
@@ -292,6 +294,9 @@ LF good FOSS alternative:
 
   Emulation
   - [x] ~~[LaunchBox](https://www.launchbox-app.com/) (Freemium)~~ > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend)) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
+  
+  Game-related
+  - [ ] [TyranoBuilder Visual Novel Studio](https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/) (Commercial)
 
   SysAdmin
   - [ ] [BatchPatch](https://batchpatch.com/) (Commercial)
@@ -421,7 +426,7 @@ LF good FOSS alternative:
 
   Exam/Test/Puzzle/Course Maker/Generator
   - [ ] [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
-  - [ ] [Cross+A](https://cross-a-plus.com/) (Commercial)
+  - [x] [Cross+A](https://cross-a-plus.com/) (Commercial)
   - [ ] [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
   - [ ] [Schoolhouse Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
   - [ ] [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
@@ -434,6 +439,7 @@ LF good FOSS alternative:
   - [x] [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial) + All DLCs
   - [x] [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/) (Commercial)
   - [x] [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) (Commercial)
+  - [x] [The Talos Principle VR](https://store.steampowered.com/app/552440/The_Talos_Principle_VR/) (Commercial)
   * Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
   * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
   * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
