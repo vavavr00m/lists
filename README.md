@@ -309,7 +309,7 @@ LF good FOSS alternative:
 
   Document-related
   - [ ] [ABBYY FineReader PDF](https://pdf.abbyy.com/) (Commercial) or [Adobe Acrobat DC Pro Continuous Track](https://acrobat.adobe.com/sea/en/acrobat/acrobat-pro.html) (Commercial)
-  - [ ] [Microsoft Office](https://www.office.com) (Commercial)
+  - [ ] ~~[Microsoft Office](https://www.office.com) (Commercial)~~ > [LibreOffice](https://www.libreoffice.org) ([Source](https://gerrit.libreoffice.org/))
 
   Customization
   - [ ] [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)
@@ -339,7 +339,7 @@ LF good FOSS alternative:
   - [ ] [Advanced Renamer](https://www.advancedrenamer.com/) (Free for Personal) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) (Free Personal)
   - [ ] [ClickUp](https://clickup.com/) (Freemium SaaS)
   - [ ] [Binary Fortress ClipboardFusion](https://www.clipboardfusion.com/) (Freemium)
-  - [ ] ~~[Just Great Software PowerGREP](https://www.powergrep.com/) (Commercial)~~ / [dnGrep](http://dngrep.github.io/) ([Source](https://github.com/dnGrep/dnGrep))
+  - [ ] ~~[Just Great Software PowerGREP](https://www.powergrep.com/) (Commercial)~~ > [dnGrep](http://dngrep.github.io/) ([Source](https://github.com/dnGrep/dnGrep))
   - [ ] [Just Great Software RegEx Buddy](https://www.regexbuddy.com/) (Commercial)
   - [x] [Mini Mouse Macro Pro](https://sourceforge.net/projects/minimousemacro/) (Freemium)
   - [ ] [Sharp World Clock](https://www.sharpworldclock.com/) (Commercial)
@@ -366,7 +366,7 @@ LF good FOSS alternative:
 
   Graphics-related
   - [ ] [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
-  - [ ] ~~[Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) (Commercial)~~ / [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape))
+  - [ ] ~~[Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) (Commercial)~~ > [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape))
   - [ ] [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) (Commercial)
   - [ ] [Album DS](http://www.albumds.com/) (Commercial)
   - [ ] [App Helmond Brickaizer](https://www.apphelmond.com/Brickaizer/index.htm) (Commercial)
@@ -381,8 +381,8 @@ LF good FOSS alternative:
   - [ ] [App Helmond Pattaizer](https://www.apphelmond.com/Pattaizer/index.htm) (Freely bundled with Commercial products)
   - [ ] [App Helmond Wordaizer](https://www.apphelmond.com/Wordaizer/index.htm) (Commercial)
   - [ ] [Black Ink](http://blackink.bleank.com/) (Commercial)
-  - [ ] ~~[Clip Studio Paint](https://www.clipstudio.net/en/)~~ / [Krita](https://krita.org/en/) ([Source](https://github.com/KDE/krita))
-  - [ ] ~~[FilterForge](https://www.filterforge.com/) (Commercial)~~ or [Substance Designer by Adobe](https://www.substance3d.com/products/substance-designer) (Commercial) / [FilterJS](https://comigo.itch.io/filterjs) ([Source](https://github.com/CosmoMyzrailGorynych/FilterJS)) or [Material Maker](https://rodzilla.itch.io/material-maker) ([Source](https://github.com/RodZill4/material-maker)) or [Texture Lab](https://njbrown.itch.io/texturelab) ([Source](https://github.com/njbrown/texturelab)) or Imogen ([Source](https://github.com/CedricGuillemet/Imogen))
+  - [ ] ~~[Clip Studio Paint](https://www.clipstudio.net/en/)~~ > [Krita](https://krita.org/en/) ([Source](https://github.com/KDE/krita))
+  - [ ] ~~[FilterForge](https://www.filterforge.com/) (Commercial) or [Substance Designer by Adobe](https://www.substance3d.com/products/substance-designer) (Commercial)~~ > [FilterJS](https://comigo.itch.io/filterjs) ([Source](https://github.com/CosmoMyzrailGorynych/FilterJS)) or [Material Maker](https://rodzilla.itch.io/material-maker) ([Source](https://github.com/RodZill4/material-maker)) or [Texture Lab](https://njbrown.itch.io/texturelab) ([Source](https://github.com/njbrown/texturelab)) or Imogen ([Source](https://github.com/CedricGuillemet/Imogen))
   - [ ] [Figr Collage Professional Edition](https://www.figrcollage.com/) (Commercial)
   - [ ] [JixiPix PuzziPix Pro](https://jixipix.com/puzzipix-pro/details.html) (Commercial)
   - [ ] [JixiPix Rip Studio](https://jixipix.com/rip-studio/details.html) (Commercial)
@@ -395,11 +395,11 @@ LF good FOSS alternative:
   - [ ] [JixiPix Chromatic Edges](https://jixipix.com/chromatic-edges/details.html) (Commercial)
   - [ ] [JixiPix Watercolor Studio](https://jixipix.com/watercolor-studio/details.html) (Commercial)
   - [ ] [Pixarra TwistedBrush Pro Studio](https://www.pixarra.com/pro_studio.html) (Commercial)
-  - [ ] ~~[Substance Alchemy by Adobe](https://www.substance3d.com/products/substance-alchemist/) (Commercial)~~ / [Blender](https://www.blender.org/) ([Source](https://github.com/blender/blender))
-  - [ ] ~~[Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial)~~ / [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
+  - [ ] ~~[Substance Alchemy by Adobe](https://www.substance3d.com/products/substance-alchemist/) (Commercial)~~ > [Blender](https://www.blender.org/) ([Source](https://github.com/blender/blender))
+  - [ ] ~~[Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial)~~ > [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
   - [ ] [Tamasoft Pepakura Designer](https://tamasoft.co.jp/pepakura-en/) (Commercial)
   - [ ] [Tamasoft Pop-Up Card Designer PRO](http://www.tamasoft.co.jp/craft/popupcard-pro_en/) (Commercial)
-  - [ ] ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ / [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
+  - [ ] ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
 
   Story Sequencing
   - [ ] [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
@@ -428,7 +428,7 @@ LF good FOSS alternative:
   - [ ] [Schoolhouse Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
 
   Games
-  - [ ] ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ / [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
+  - [ ] ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ > [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
   - [x] [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
   - [x] [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
   - [x] [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial) + All DLCs
@@ -461,7 +461,7 @@ LF good FOSS alternative:
 LF good Windows alternative:
 - [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
 - [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
-- [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ / [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
+- [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ > [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
 - [ ] [RenewedVision ProVideoPlayer (PVP)](https://renewedvision.com/provideoplayer/) (Commercial)
 - [ ] [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
 - [ ] [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
