@@ -159,7 +159,7 @@ Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
 * [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) ([Source](https://github.com/builtbybel/privatezilla)) + [Bloatbox](https://www.builtbybel.com/ms-apps/bloatbox) ([Source](https://github.com/builtbybel/bloatbox)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp)) or [privacy.sexy](https://privacy.sexy/) ([Source](https://github.com/undergroundwires/privacy.sexy)) / Read: ([1](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/))
 * [Hard Configurator](https://hard-configurator.com) ([Source](https://github.com/AndyFul/Hard_Configurator))
-* ConfigureDefender ([Source](https://github.com/AndyFul/ConfigureDefender))
+* ConfigureDefender ([Source](https://github.com/AndyFul/ConfigureDefender)) or [simplewall](https://www.henrypp.org/product/simplewall) ([Source](https://github.com/henrypp/simplewall))
 * Run By SmartScreen ([Source](https://github.com/AndyFul/Run-By-Smartscreen))
 * Watson ([Source](https://github.com/rasta-mouse/Watson)) / Read: ([1](https://medium.com/@markmotig/some-windows-hardening-with-free-tools-65bdddfcb3cd))
 * [AdGuard Family](https://adguard.com/en/license.html) (Freemium Open Source?)
