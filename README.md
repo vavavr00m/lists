@@ -18,9 +18,12 @@
 * Nikoli puzzle resources
   * [Nikoli Omopalist](https://www.nikoli.co.jp/ja/publication/various/nikoli/omopalist/)
   * [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7)
-  * [janko.at](https://www.janko.at/Raetsel/Nikoli.htm)
+   * [janko.at](https://www.janko.at/Raetsel/Nikoli.htm)
   * [archive.org](https://web.archive.org/web/*/https://www.nikoli.co.jp/ja/puzzles/)
-* [big puzzle list w/ instructions](https://www.janko.at/Raetsel/Uebersicht.htm)
+* Puzzle list w/ instructions & samples
+  * https://www.janko.at/Raetsel/Uebersicht.htm
+  * https://puzsq.jp/main/index.php
+  * http://curiouscheetah.com/Museum/Puzzles/Full
 
 # resources
 
@@ -432,7 +435,7 @@ LF good FOSS alternative:
 
   Exam/Test/Puzzle/Course Maker/Generator
   - [ ] [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
-  - [x] [Cross+A](https://cross-a-plus.com/) (Commercial)
+  - [x] [Cross+A](https://cross-a-plus.com/) (Commercial) / pzpr.js ([Source](https://github.com/sabo2/pzprjs/blob/master/docs/SupportedPuzzles.md)) & PUZ-PRE v3 ([Source](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md)
   - [ ] [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
   - [ ] [Schoolhouse Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
   - [ ] [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
