@@ -15,6 +15,12 @@
 * [Privacy Tools List](https://privacytoolslist.com/)
 * [PRISM Break](https://prism-break.org/en/)
 * [Droid-Break](https://droid-break.info/)
+* Nikoli puzzle resources
+  * [Nikoli Omopalist](https://www.nikoli.co.jp/ja/publication/various/nikoli/omopalist/)
+  * [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7)
+  * [janko.at](https://www.janko.at/Raetsel/Nikoli.htm)
+  * [archive.org](https://web.archive.org/web/*/https://www.nikoli.co.jp/ja/puzzles/)
+* [big puzzle list w/ instructions](https://www.janko.at/Raetsel/Uebersicht.htm)
 
 # resources
 
