@@ -24,6 +24,7 @@
   * https://www.janko.at/Raetsel/Uebersicht.htm
   * https://puzsq.jp/main/index.php
   * http://curiouscheetah.com/Museum/Puzzles/Full
+  * http://indi.s58.xrea.com/
 
 # resources
 
