@@ -12,7 +12,7 @@
 <br />
 ## Nikoli Co., Ltd. (Japanese: 株式会社ニコリ, Hepburn: Kabushiki-gaisha, Nikori)
 <br />
-| Title | Nikoli Puzzle Communication No. | Links | pzprv3
+| Title | Nikoli Puzzle Communication No. | Links | pzprv3 |
 | - | - | - | - |
 | ⬜️ アイスバーン / Aisubahn / Eisbahn / Icebarn | 108 | [Nikoli JP](https://web.archive.org/web/20140306224729/http://www.nikoli.co.jp/ja/puzzles/eisbahn.html) / [Janko](https://www.janko.at/Raetsel/Aisuban/index.htm) | [Icebarn](http://pzv.jp/p.html?icebarn) |
 | ⬜️ アイスローム / Aisurom / Icelom | 128 | [Janko](https://www.janko.at/Raetsel/Aisurom/index.htm) | [Icelom](http://pzv.jp/p.html?icelom) |
@@ -43,9 +43,9 @@
 | ⬜️ Row Totals | [Janko](https://www.janko.at/Raetsel/Varianten/024.a.htm) | At the edge of the diagram it is indicated for some rows or columns how many lamps are in the relevant row or column. | [ Anuraag Sahay ] |
 | ⬜️ True-False-Pairs | [Janko](https://www.janko.at/Raetsel/Varianten/025.a.htm) | Two number fields are orthogonally adjacent, thus forming dominos - but only one of the two numbers is correct; the other number is wrong and must be replaced with a black field or a lamp. | [ Prasanna Seshadri ] |
 | ⬜️ Twins , double | [Janko](https://www.janko.at/Raetsel/Varianten/026.a.htm) | each lamp has to illuminate exactly one other lamp. | [ Palmer Mebane ] |
-
+<br />
 * アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
-
+<br />
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Arukone² | [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines". <br /> If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.] <br /> This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally. <br /> [The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | ❎ |
