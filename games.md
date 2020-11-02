@@ -1,5 +1,5 @@
 # Missing games/variants in Cross+A
-<br></br>
+
 Sources: 
 * [janko.at](https://www.janko.at/Raetsel/Uebersicht.htm)
 * pzprv3 ([JP](https://github.com/sabo2/pzprv3/blob/master/docs/ja/SupportedPuzzles.md)) / ([EN](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
@@ -24,7 +24,7 @@ Sources:
 | ⬜️ ボサノワ / Bosanowa / Bossa Nova / Bossanova | 119 | [Janko](https://www.janko.at/Raetsel/Bosanowa/index.htm) | [Bosanowa](http://pzv.jp/p.html?bosanowa) |
 | ⬜️ ヘルゴルフ / Herugolf / Hell Golf / Hell's Golf (formerly called プロゴルファー○ / Puro Gorufa / Pro Golfer / Professional Golfer) | 142 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/herugolf/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/herugolf.html) / [Janko](https://www.janko.at/Raetsel/Herugolf/index.htm) | [Herugolf](http://pzv.jp/p.html?herugolf)
 
-* 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
+#### 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Coded , Cipher , Crypto | [Janko](https://www.janko.at/Raetsel/Varianten/004.a.htm) | The numbers are replaced by letters; the same letters stand for the same numbers; different letters for different numbers. The assignment of the numbers to the letters can be found out. | [ Grant Fikes ]
@@ -41,7 +41,7 @@ Sources:
 | ⬜️ Twins , double | [Janko](https://www.janko.at/Raetsel/Varianten/026.a.htm) | each lamp has to illuminate exactly one other lamp. | [ Palmer Mebane ]
 
 
-* アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
+#### アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Arukone² | [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines". <br /> If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.] <br /> This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally. <br /> [The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | ❎
@@ -50,7 +50,7 @@ Sources:
 | ⬜️ Arukone + Masyu | None | Some fields contain white or black circles. A line must run through all circular fields. In a field with a white circle, the line must not turn; in a space with a black circle it must turn. | ❎
 
 
-* バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
+#### バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Cave | None | Inside the circular path there must be no area of ​​2x2 fields or larger. | [ Thinking ]
@@ -62,8 +62,7 @@ Sources:
 | ⬜️ Multiplicative Antisymmetric | [Janko](https://www.janko.at/Raetsel/Varianten/076.a.htm) | Of every two numbers arranged point-symmetrically, one is additive, the other multiplicative. | [ Brian Chen ]
 | ✅ Inside-outside, inside-out | [Janko](https://www.janko.at/Raetsel/Varianten/077.a.htm) | Some numbers are inside the circular route, some outside. Numbers outside the circular route indicate how many fields you can see in total outside the circular route if you look to N, S, E and W from the number field. | [ Thomas Snyder ]
 
-
-* フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
+#### フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Fillomino + Skyscrapers | [Janko](https://www.janko.at/Raetsel/Varianten/070.a.htm) | A number at the edge of the diagram indicates how many areas you see when you look into the diagram at the relevant point and take each number as the height of the building. | [ Grant Fikes ]
@@ -94,8 +93,7 @@ Sources:
 | ⬜️ Warp | [Janko](https://www.janko.at/Raetsel/Varianten/037.a.htm) | Every two edge fields are pinned together; the attachment is given by lines outside the diagram. | [ Chaotic IAK ]
 | ⬜️ Gemini , Twins | [Janko](https://www.janko.at/Raetsel/Varianten/064.a.htm) | An area size occurs either exactly twice or not at all. | [ Palmer Mebane ]
 
-
-* へ や わ け / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
+#### へ や わ け / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Heyawacky | None | The original rules only provide for rectangular areas; at Heyawacky, the areas can be shaped as desired. Since there are no other rule changes, Heyawacky is integrated into Heyawake. | ❎ 
