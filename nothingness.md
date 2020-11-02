@@ -20,99 +20,99 @@
 
 ## hosts
 
-- [x] [Block Page Bypass or Allow-Only mode: Domains to Allow](https://support.umbrella.com/hc/en-us/articles/115007472907-Block-Page-Bypass-or-Allow-Only-mode-Domains-to-Allow)
-- [x] [Unblock Vimeo, Reddit, Imgur, dan NPM](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
-- [x] [Peduli Internet Netral](https://github.com/bebasid/bebasid/blob/master/releases/hosts)
-- [ ] [pfblockerng.xlsx](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true)
-- [x] [jkrejcha's AdmiraList](https://github.com/jkrejcha/AdmiraList)
+✅ [Block Page Bypass or Allow-Only mode: Domains to Allow](https://support.umbrella.com/hc/en-us/articles/115007472907-Block-Page-Bypass-or-Allow-Only-mode-Domains-to-Allow)
+✅ [Unblock Vimeo, Reddit, Imgur, dan NPM](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
+✅ [Peduli Internet Netral](https://github.com/bebasid/bebasid/blob/master/releases/hosts)
+⬜️ [pfblockerng.xlsx](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true)
+✅ [jkrejcha's AdmiraList](https://github.com/jkrejcha/AdmiraList)
 
 facebook
-- [x] [Blocking Facebook Messenger](https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger)
+✅ [Blocking Facebook Messenger](https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger)
 
 youtube
-- [x] [How to block Youtube entirely from a device?](https://support.google.com/youtube/thread/14607026?hl=en)
-- [x] [Blocking Youtube for the Kids on ALL devices, as well as other undesirable content…](https://www.d7xtech.com/blocking-youtube-for-the-kids-on-all-devices-as-well-as-other-undesirable-content/)
-- [x] [View YouTube Videos With YouTube's IP Address](https://www.lifewire.com/ip-address-of-youtube-818157)
-- [x] [How to BLOCK YOUTUBE without blocking other sites?](https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites)
+✅ [How to block Youtube entirely from a device?](https://support.google.com/youtube/thread/14607026?hl=en)
+✅ [Blocking Youtube for the Kids on ALL devices, as well as other undesirable content…](https://www.d7xtech.com/blocking-youtube-for-the-kids-on-all-devices-as-well-as-other-undesirable-content/)
+✅ [View YouTube Videos With YouTube's IP Address](https://www.lifewire.com/ip-address-of-youtube-818157)
+✅ [How to BLOCK YOUTUBE without blocking other sites?](https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites)
 
 smarttv
-- [x] [Perflyst's Smart-TV Blocklist for Pi-hole](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)
+✅ [Perflyst's Smart-TV Blocklist for Pi-hole](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)
 
 tiktok
-- [x] [How to block TikTok app on PTCL ADSL WIFI router using IP addresses?](https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/)
-- [x] [How to Block TikTok App on WiFi Network Router? (Easy Steps)](https://www.digitbin.com/block-tiktok-app-router/)
-- [x] [How to block the TikTok app on the router?](https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/)
-- [x] [Block Youtube and TikTok App on Smartphones and Tablets](https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/)
+✅ [How to block TikTok app on PTCL ADSL WIFI router using IP addresses?](https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/)
+✅ [How to Block TikTok App on WiFi Network Router? (Easy Steps)](https://www.digitbin.com/block-tiktok-app-router/)
+✅ [How to block the TikTok app on the router?](https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/)
+✅ [Block Youtube and TikTok App on Smartphones and Tablets](https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/)
 
 deception
-- [x] [Melissa Zimdars' False, Misleading, Clickbait-y, and Satirical “News” Sources](https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/) or [Block Clickbait News](https://github.com/profimler/block-clickbait-news)
+✅ [Melissa Zimdars' False, Misleading, Clickbait-y, and Satirical “News” Sources](https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/) or [Block Clickbait News](https://github.com/profimler/block-clickbait-news)
 
 tornodes
-- [x] [Tor Node List](https://www.dan.me.uk/torlist/)
+✅ [Tor Node List](https://www.dan.me.uk/torlist/)
 
 phorm
-- [x] [Dephormation](https://www.dephormation.org.uk/?page=2)
+✅ [Dephormation](https://www.dephormation.org.uk/?page=2)
 
 privatetrackers
-- [ ] [HDVinnie's Private Trackers Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet)
+⬜️ [HDVinnie's Private Trackers Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet)
 
 publictrackers
-- [ ] [ngosang's trackerslist](https://github.com/ngosang/trackerslist)
+⬜️ [ngosang's trackerslist](https://github.com/ngosang/trackerslist)
 
 sns
-- [ ] [21 Top Social Media Sites to Consider for Your Brand](https://buffer.com/library/social-media-sites/)
+⬜️ [21 Top Social Media Sites to Consider for Your Brand](https://buffer.com/library/social-media-sites/)
 
-chat
-- [ ] [Wikipedia: List of chat websites](https://en.wikipedia.org/wiki/List_of_chat_websites)
+💬
+⬜️ [Wikipedia: List of chat websites](https://en.wikipedia.org/wiki/List_of_chat_websites)
 
-dating
-- [ ] [The best online dating sites for geeks, nerds, sci-fi buffs, and more](https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/)
-- [ ] [The best dating sites and apps](https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/)
+👫
+⬜️ [The best online dating sites for geeks, nerds, sci-fi buffs, and more](https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/)
+⬜️ [The best dating sites and apps](https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/)
 
 proxy/anonymizers
-- [ ] [ProxyDB](http://proxydb.net/)
-- [ ] [clarketm's proxy-list](https://github.com/clarketm/proxy-list)
+⬜️ [ProxyDB](http://proxydb.net/)
+⬜️ [clarketm's proxy-list](https://github.com/clarketm/proxy-list)
 
 vpn
-- [ ] [VPNGate](https://www.vpngate.net/en/) & [mirrors](https://www.vpngate.net/en/sites.aspx)
+⬜️ [VPNGate](https://www.vpngate.net/en/) & [mirrors](https://www.vpngate.net/en/sites.aspx)
 
 ## keywords
 
 gender
-- [x] [The Complete List of All Genders](https://www.wattpad.com/341462536-complete-list-of-genders-the-complete-list-of-all)
+✅ [The Complete List of All Genders](https://www.wattpad.com/341462536-complete-list-of-genders-the-complete-list-of-all)
 
 mania/obsession
-- [x] [Word List: Definitions of Mania Words and Obsessions](http://phrontistery.info/mania.html)
+✅ [Word List: Definitions of Mania Words and Obsessions](http://phrontistery.info/mania.html)
 
 love/kinks/fetishes/paraphilia/~philia
-- [x] [Word List: Definitions of Words for Love, Fondness and Preference](http://phrontistery.info/love.html)
-- [x] [the mega sex list](https://github.com/clemclemmm/TheMegaSexList)
-- [x] [List of Kinks and Fetishes](https://badgirlsbible.com/list-of-kinks-and-fetishes) or [Archive.org](https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes)
-- [x] [The most ADVANCED list of kinks and fetishes](https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/)
-- [x] [List of Kinks: Definitions of The Most Common & Popular Kinks (100+)](https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html)
+✅ [Word List: Definitions of Words for Love, Fondness and Preference](http://phrontistery.info/love.html)
+✅ [the mega sex list](https://github.com/clemclemmm/TheMegaSexList)
+✅ [List of Kinks and Fetishes](https://badgirlsbible.com/list-of-kinks-and-fetishes) or [Archive.org](https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes)
+✅ [The most ADVANCED list of kinks and fetishes](https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/)
+✅ [List of Kinks: Definitions of The Most Common & Popular Kinks (100+)](https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html)
 
 rhetorics
-- [ ] [Silva Rhetoricae](http://rhetoric.byu.edu/)
+⬜️ [Silva Rhetoricae](http://rhetoric.byu.edu/)
 
 profanities
-- [ ] Facebook
-- [ ] Instagram
-- [ ] [Google](https://github.com/RobertJGabriel/Google-profanity-words)
-- [ ] YouTube
-- [ ] Twitter
-- [ ] Tik Tok
-- [ ] Tumblr
-- [ ] LinkedIN
+⬜️ Facebook
+⬜️ Instagram
+⬜️ [Google](https://github.com/RobertJGabriel/Google-profanity-words)
+⬜️ YouTube
+⬜️ Twitter
+⬜️ Tik Tok
+⬜️ Tumblr
+⬜️ LinkedIN
 
 link shorteners
 * no list found yet
 
 regex
-- [x] https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
-- [x] https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/
-- [x] https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/
-- [x] https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
-- [x] https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
+✅ https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+✅ https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/
+✅ https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/
+✅ https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+✅ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 
 ## tools
 
@@ -139,21 +139,21 @@ Chrome Extensions
 * [Webpage Screenshot](https://1ce.org/1click-webpage-screenshot/overview) ([Chrome Web Store](https://chrome.google.com/webstore/detail/webpage-screenshot-entire/akgpcdalpfphjmfifkmfbpdmgdmeeaeo)) ([Source](https://github.com/1click-extensions/1click-webpage-screenshot))
 
 LF good FOSS alternative:
-- [ ] [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
-- [ ] CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
-- [ ] [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
-- [ ] LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free)
-- [ ] [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free)
-- [ ] [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free)
-- [ ] [Simple Blocker](https://simpleblocker.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)) (Free)
+⬜️ [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free)
+⬜️ CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial)
+⬜️ [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
+⬜️ LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free)
+⬜️ [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free)
+⬜️ [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free)
+⬜️ [Simple Blocker](https://simpleblocker.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)) (Free)
 
 LF good Chrome alternative:
-- [ ] Forget Me Not ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/)) ([Source](https://github.com/Lusito/forget-me-not))
-- [ ] Temporary Containers ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)) ([Source](https://github.com/stoically/temporary-containers))
-- [ ] Conex ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/conex/)) ([Source](https://github.com/kesselborn/conex))
-- [ ] Switch Container Plus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/)) ([Source](https://github.com/stoically/switch-container-plus))
-- [ ] Firefox Multi-Account Containers ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)) ([Source](https://github.com/mozilla/multi-account-containers)) + Facebook Container ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)) ([Source](https://github.com/mozilla/contain-facebook))
-- [ ] [Snowflake](https://trac.torproject.org/projects/tor/wiki/doc/Snowflake) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/)) ([Source](https://gitweb.torproject.org/pluggable-transports/snowflake.git))
+⬜️ Forget Me Not ([🦊](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/)) ([Source](https://github.com/Lusito/forget-me-not))
+⬜️ Temporary Containers ([🦊](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)) ([Source](https://github.com/stoically/temporary-containers))
+⬜️ Conex ([🦊](https://addons.mozilla.org/en-US/firefox/addon/conex/)) ([Source](https://github.com/kesselborn/conex))
+⬜️ Switch Container Plus ([🦊](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/)) ([Source](https://github.com/stoically/switch-container-plus))
+⬜️ Firefox Multi-Account Containers ([🦊](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)) ([Source](https://github.com/mozilla/multi-account-containers)) + Facebook Container ([🦊](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)) ([Source](https://github.com/mozilla/contain-facebook))
+⬜️ [Snowflake](https://trac.torproject.org/projects/tor/wiki/doc/Snowflake) ([🦊](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/)) ([Source](https://gitweb.torproject.org/pluggable-transports/snowflake.git))
 
 Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
@@ -290,187 +290,188 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 LF good FOSS alternative:
       
   Reading
-  - [ ] [HDoujin Downloader](https://doujindownloader.com/) ([Modules Source](https://github.com/HDoujinDownloader/HDoujin-Downloader)) (Freemium)
+  ⬜️ [HDoujin Downloader](https://doujindownloader.com/) ([Modules Source](https://github.com/HDoujinDownloader/HDoujin-Downloader)) (Freemium)
 
   Emulation
-  - [x] ~~[LaunchBox](https://www.launchbox-app.com/) (Freemium)~~ > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend)) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
+  ✅ [LaunchBox](https://www.launchbox-app.com/) (Freemium) > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend)) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
   
   Game-related
-  - [ ] [TyranoBuilder Visual Novel Studio](https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/) (Commercial)
+  ⬜️ [TyranoBuilder Visual Novel Studio](https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/) (Commercial)
 
   SysAdmin
-  - [ ] [BatchPatch](https://batchpatch.com/) (Commercial)
-  - [ ] [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
-  - [ ] [Devolutions Password Hub Platium](https://password.devolutions.net/) (Commercial) or [Devolutions Password Server Platinum](https://server.devolutions.net/) (Commercial)
-  - [ ] [Devolutions Wayk Now Enterprise Edition](https://wayk.devolutions.net/wayk-now) (Commercial) or [Devolutions Wayk Den](https://wayk.devolutions.net/wayk-den) (Commercial)
-  - [ ] [SolarWinds Network Performance Monitor](https://www.solarwinds.com/network-performance-monitor) (Commercial)
-  - [ ] [VisualCron](https://www.visualcron.com/) (Commercial)
+  ⬜️ [BatchPatch](https://batchpatch.com/) (Commercial)
+  ⬜️ [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
+  ⬜️ [Devolutions Password Hub Platium](https://password.devolutions.net/) (Commercial) or [Devolutions Password Server Platinum](https://server.devolutions.net/) (Commercial)
+  ⬜️ [Devolutions Wayk Now Enterprise Edition](https://wayk.devolutions.net/wayk-now) (Commercial) or [Devolutions Wayk Den](https://wayk.devolutions.net/wayk-den) (Commercial)
+  ⬜️ [SolarWinds Network Performance Monitor](https://www.solarwinds.com/network-performance-monitor) (Commercial)
+  ⬜️ [VisualCron](https://www.visualcron.com/) (Commercial)
 
   Map & Navigation-related
-  - [ ] [Universal Maps Downloader](http://www.allmapsoft.com/umd/index.html) (Commercial)
+  ⬜️ [Universal Maps Downloader](http://www.allmapsoft.com/umd/index.html) (Commercial)
 
   Font-related
-  - [ ] [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
+  ⬜️ [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
 
   Document-related
-  - [ ] [ABBYY FineReader PDF](https://pdf.abbyy.com/) (Commercial) or [Adobe Acrobat DC Pro Continuous Track](https://acrobat.adobe.com/sea/en/acrobat/acrobat-pro.html) (Commercial)
-  - [ ] ~~[Microsoft Office](https://www.office.com) (Commercial)~~ > [LibreOffice](https://www.libreoffice.org) ([Source](https://gerrit.libreoffice.org/))
+  ⬜️ [ABBYY FineReader PDF](https://pdf.abbyy.com/) (Commercial) or [Adobe Acrobat DC Pro Continuous Track](https://acrobat.adobe.com/sea/en/acrobat/acrobat-pro.html) (Commercial)
+  ⬜️ ~~[Microsoft Office](https://www.office.com) (Commercial)~~ > [LibreOffice](https://www.libreoffice.org) ([Source](https://gerrit.libreoffice.org/))
+  ⬜️ [Typora](https://typora.io/) ❓ 📃 
 
   Customization
-  - [ ] [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)
-  - [ ] [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
-  - [ ] [Iristech Iris](https://iristech.co/iris/) (Commercial)
-  - [ ] [Iristech Vision](https://iristech.co/vision/) (Commercial)
-  - [ ] [KbdEdit](http://www.kbdedit.com/) (Commercial)
-  - [ ] [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
-  - [ ] [moo0 Right Clicker Pro](https://www.moo0.com/software/RightClicker/) (Commercial)
-  - [ ] [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
-  - [ ] [QiPress](http://www.aalapshah.in/qipress) (Freemium)
-  - [ ] [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
+  ⬜️ [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)
+  ⬜️ [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
+  ⬜️ [Iristech Iris](https://iristech.co/iris/) (Commercial)
+  ⬜️ [Iristech Vision](https://iristech.co/vision/) (Commercial)
+  ⬜️ [KbdEdit](http://www.kbdedit.com/) (Commercial)
+  ⬜️ [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
+  ⬜️ [moo0 Right Clicker Pro](https://www.moo0.com/software/RightClicker/) (Commercial)
+  ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
+  ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Freemium)
+  ⬜️ [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
 
   File sharing/syncing
-  - [ ] [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
-  - [ ] [SyncBackPro](https://www.2brightsparks.com/syncback/sbpro.html) (Freemium)
+  ⬜️ [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
+  ⬜️ [SyncBackPro](https://www.2brightsparks.com/syncback/sbpro.html) (Freemium)
 
   Communication
-  - [ ] [Zoom](https://zoom.us/) (Freemium)
+  ⬜️ [Zoom](https://zoom.us/) (Freemium)
 
   Marketing
-  - [ ] [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
-  - [ ] [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
+  ⬜️ [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
+  ⬜️ [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
   
   Automation/Batch/Productivity
-  - [ ] [Actual Window Manager](https://www.actualtools.com/windowmanager/) (Commercial)
-  - [ ] [Advanced Renamer](https://www.advancedrenamer.com/) (Free for Personal) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) (Free Personal)
-  - [ ] [ClickUp](https://clickup.com/) (Freemium SaaS)
-  - [ ] [Binary Fortress ClipboardFusion](https://www.clipboardfusion.com/) (Freemium)
-  - [ ] ~~[Just Great Software PowerGREP](https://www.powergrep.com/) (Commercial)~~ > [dnGrep](http://dngrep.github.io/) ([Source](https://github.com/dnGrep/dnGrep))
-  - [ ] [Just Great Software RegEx Buddy](https://www.regexbuddy.com/) (Commercial)
-  - [x] [Mini Mouse Macro Pro](https://sourceforge.net/projects/minimousemacro/) (Freemium)
-  - [ ] [Sharp World Clock](https://www.sharpworldclock.com/) (Commercial)
-  - [ ] [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
+  ⬜️ [Actual Window Manager](https://www.actualtools.com/windowmanager/) (Commercial)
+  ⬜️ [Advanced Renamer](https://www.advancedrenamer.com/) (Free for Personal) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) (Free Personal)
+  ⬜️ [ClickUp](https://clickup.com/) (Freemium SaaS)
+  ⬜️ [Binary Fortress ClipboardFusion](https://www.clipboardfusion.com/) (Freemium)
+  ⬜️ ~~[Just Great Software PowerGREP](https://www.powergrep.com/) (Commercial)~~ > [dnGrep](http://dngrep.github.io/) ([Source](https://github.com/dnGrep/dnGrep))
+  ⬜️ [Just Great Software RegEx Buddy](https://www.regexbuddy.com/) (Commercial)
+  ✅ [Mini Mouse Macro Pro](https://sourceforge.net/projects/minimousemacro/) (Freemium)
+  ⬜️ [Sharp World Clock](https://www.sharpworldclock.com/) (Commercial)
+  ⬜️ [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
  
   Security & Privacy-related
-  - [ ] [AppGuard](https://www.blueridgenetworks.com/appguard/) (Commercial)
-  - [ ] [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
-  - [ ] [Bitvise SSH Client](https://www.bitvise.com/ssh-client) (Free Personal)
-  - [ ] [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
-  - [ ] [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
-  - [ ] [Intec Proxifier](https://www.proxifier.com/) (Commercial)
-  - [ ] [Intec YogaDNS](https://yogadns.com/) (Free)
-  - [ ] [Malwarebytes Premium](https://www.malwarebytes.com/for-home/products/)
-  - [ ] [NetBalancer](https://netbalancer.com/) (Commercial)
-  - [ ] [NoVirusThanks™ OSArmor](https://www.osarmor.com) (Free)
-  - [ ] [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: ([1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)) ([2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm))
+  ⬜️ [AppGuard](https://www.blueridgenetworks.com/appguard/) (Commercial)
+  ⬜️ [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
+  ⬜️ [Bitvise SSH Client](https://www.bitvise.com/ssh-client) (Free Personal)
+  ⬜️ [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) (Free)
+  ⬜️ [Folder Guard](https://www.winability.com/folderguard/) (Commercial)
+  ⬜️ [Intec Proxifier](https://www.proxifier.com/) (Commercial)
+  ⬜️ [Intec YogaDNS](https://yogadns.com/) (Free)
+  ⬜️ [Malwarebytes Premium](https://www.malwarebytes.com/for-home/products/)
+  ⬜️ [NetBalancer](https://netbalancer.com/) (Commercial)
+  ⬜️ [NoVirusThanks™ OSArmor](https://www.osarmor.com) (Free)
+  ⬜️ [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: ([1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)) ([2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm))
 
   Audio-related
-  - [ ] [Krisp](https://krisp.ai/) (Freemium)
-  - [ ] [MusicBee](https://www.getmusicbee.com/) (Free Personal)
-  - [ ] [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
-  - [ ] [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
+  ⬜️ [Krisp](https://krisp.ai/) (Freemium)
+  ⬜️ [MusicBee](https://www.getmusicbee.com/) (Free Personal)
+  ⬜️ [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
+  ⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
 
   Graphics-related
-  - [ ] [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
-  - [ ] ~~[Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) (Commercial)~~ > [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape))
-  - [ ] [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) (Commercial)
-  - [ ] [Album DS](http://www.albumds.com/) (Commercial)
-  - [ ] [App Helmond Brickaizer](https://www.apphelmond.com/Brickaizer/index.htm) (Commercial)
-  - [ ] [App Helmond Calligram Creator](https://www.apphelmond.com/CalligramCreator/index.htm) (Free)
-  - [ ] [App Helmond Collaizer](https://www.apphelmond.com/Collaizer/) (Commercial)
-  - [ ] [App Helmond Dynamic Mosaics](https://www.apphelmond.com/DynamicMosaics/index.htm) (?)
-  - [ ] [App Helmond Event Mosaic Creator](https://www.apphelmond.com/EventMosaic/index.htm) (Commercial)
-  - [ ] [App Helmond Interactive LiveMosaics](https://www.apphelmond.com/LiveMosaics/index.htm) (?)
-  - [ ] [App Helmond Mondriaan Creator](https://www.apphelmond.com/Mondriaan/index.htm) (Free)
-  - [ ] [App Helmond Mosaizer XV](https://www.apphelmond.com/MosaizerPro/index.htm) (Commercial)
-  - [ ] [App Helmond Textaizer Pro](https://www.apphelmond.com/Textaizer/index.htm) (Commercial)
-  - [ ] [App Helmond Pattaizer](https://www.apphelmond.com/Pattaizer/index.htm) (Freely bundled with Commercial products)
-  - [ ] [App Helmond Wordaizer](https://www.apphelmond.com/Wordaizer/index.htm) (Commercial)
-  - [ ] [Black Ink](http://blackink.bleank.com/) (Commercial)
-  - [ ] ~~[Clip Studio Paint](https://www.clipstudio.net/en/)~~ > [Krita](https://krita.org/en/) ([Source](https://github.com/KDE/krita))
-  - [ ] ~~[FilterForge](https://www.filterforge.com/) (Commercial) or [Substance Designer by Adobe](https://www.substance3d.com/products/substance-designer) (Commercial)~~ > [FilterJS](https://comigo.itch.io/filterjs) ([Source](https://github.com/CosmoMyzrailGorynych/FilterJS)) or [Material Maker](https://rodzilla.itch.io/material-maker) ([Source](https://github.com/RodZill4/material-maker)) or [Texture Lab](https://njbrown.itch.io/texturelab) ([Source](https://github.com/njbrown/texturelab)) or Imogen ([Source](https://github.com/CedricGuillemet/Imogen))
-  - [ ] [Figr Collage Professional Edition](https://www.figrcollage.com/) (Commercial)
-  - [ ] [JixiPix PuzziPix Pro](https://jixipix.com/puzzipix-pro/details.html) (Commercial)
-  - [ ] [JixiPix Rip Studio](https://jixipix.com/rip-studio/details.html) (Commercial)
-  - [ ] [JixiPix Photo Formation](https://jixipix.com/photo-formation/details.html) (Commercial)
-  - [ ] [JixiPix Pastello](https://jixipix.com/pastello/details.html) (Commercial)
-  - [ ] [JixiPix Premium Pack](https://jixipix.com/bundles/premium-pack.html) (Commercial)
-  - [ ] [JixiPix Hand Tint Pro](https://jixipix.com/hand-tint-pro/details.html) (Commercial)
-  - [ ] [JixiPix Artista Impresso Pro](https://jixipix.com/artista-impresso-pro/details.html) (Commercial)
-  - [ ] [JixiPix Spektrel Art](https://jixipix.com/spektrel-art/details.html) (Commercial)
-  - [ ] [JixiPix Chromatic Edges](https://jixipix.com/chromatic-edges/details.html) (Commercial)
-  - [ ] [JixiPix Watercolor Studio](https://jixipix.com/watercolor-studio/details.html) (Commercial)
-  - [ ] [Pixarra TwistedBrush Pro Studio](https://www.pixarra.com/pro_studio.html) (Commercial)
-  - [ ] ~~[Substance Alchemy by Adobe](https://www.substance3d.com/products/substance-alchemist/) (Commercial)~~ > [Blender](https://www.blender.org/) ([Source](https://github.com/blender/blender))
-  - [ ] ~~[Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial)~~ > [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
-  - [ ] [Tamasoft Pepakura Designer](https://tamasoft.co.jp/pepakura-en/) (Commercial)
-  - [ ] [Tamasoft Pop-Up Card Designer PRO](http://www.tamasoft.co.jp/craft/popupcard-pro_en/) (Commercial)
-  - [ ] ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
+  ⬜️ [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
+  ⬜️ ~~[Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) (Commercial)~~ > [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape))
+  ⬜️ [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) (Commercial)
+  ⬜️ [Album DS](http://www.albumds.com/) (Commercial)
+  ⬜️ [App Helmond Brickaizer](https://www.apphelmond.com/Brickaizer/index.htm) (Commercial)
+  ⬜️ [App Helmond Calligram Creator](https://www.apphelmond.com/CalligramCreator/index.htm) (Free)
+  ⬜️ [App Helmond Collaizer](https://www.apphelmond.com/Collaizer/) (Commercial)
+  ⬜️ [App Helmond Dynamic Mosaics](https://www.apphelmond.com/DynamicMosaics/index.htm) ❓
+  ⬜️ [App Helmond Event Mosaic Creator](https://www.apphelmond.com/EventMosaic/index.htm) (Commercial)
+  ⬜️ [App Helmond Interactive LiveMosaics](https://www.apphelmond.com/LiveMosaics/index.htm) ❓
+  ⬜️ [App Helmond Mondriaan Creator](https://www.apphelmond.com/Mondriaan/index.htm) (Free)
+  ⬜️ [App Helmond Mosaizer XV](https://www.apphelmond.com/MosaizerPro/index.htm) (Commercial)
+  ⬜️ [App Helmond Textaizer Pro](https://www.apphelmond.com/Textaizer/index.htm) (Commercial)
+  ⬜️ [App Helmond Pattaizer](https://www.apphelmond.com/Pattaizer/index.htm) (Freely bundled with Commercial products)
+  ⬜️ [App Helmond Wordaizer](https://www.apphelmond.com/Wordaizer/index.htm) (Commercial)
+  ⬜️ [Black Ink](http://blackink.bleank.com/) (Commercial)
+  ⬜️ ~~[Clip Studio Paint](https://www.clipstudio.net/en/)~~ > [Krita](https://krita.org/en/) ([Source](https://github.com/KDE/krita))
+  ⬜️ ~~[FilterForge](https://www.filterforge.com/) (Commercial) or [Substance Designer by Adobe](https://www.substance3d.com/products/substance-designer) (Commercial)~~ > [FilterJS](https://comigo.itch.io/filterjs) ([Source](https://github.com/CosmoMyzrailGorynych/FilterJS)) or [Material Maker](https://rodzilla.itch.io/material-maker) ([Source](https://github.com/RodZill4/material-maker)) or [Texture Lab](https://njbrown.itch.io/texturelab) ([Source](https://github.com/njbrown/texturelab)) or Imogen ([Source](https://github.com/CedricGuillemet/Imogen))
+  ⬜️ [Figr Collage Professional Edition](https://www.figrcollage.com/) (Commercial)
+  ⬜️ [JixiPix PuzziPix Pro](https://jixipix.com/puzzipix-pro/details.html) (Commercial)
+  ⬜️ [JixiPix Rip Studio](https://jixipix.com/rip-studio/details.html) (Commercial)
+  ⬜️ [JixiPix Photo Formation](https://jixipix.com/photo-formation/details.html) (Commercial)
+  ⬜️ [JixiPix Pastello](https://jixipix.com/pastello/details.html) (Commercial)
+  ⬜️ [JixiPix Premium Pack](https://jixipix.com/bundles/premium-pack.html) (Commercial)
+  ⬜️ [JixiPix Hand Tint Pro](https://jixipix.com/hand-tint-pro/details.html) (Commercial)
+  ⬜️ [JixiPix Artista Impresso Pro](https://jixipix.com/artista-impresso-pro/details.html) (Commercial)
+  ⬜️ [JixiPix Spektrel Art](https://jixipix.com/spektrel-art/details.html) (Commercial)
+  ⬜️ [JixiPix Chromatic Edges](https://jixipix.com/chromatic-edges/details.html) (Commercial)
+  ⬜️ [JixiPix Watercolor Studio](https://jixipix.com/watercolor-studio/details.html) (Commercial)
+  ⬜️ [Pixarra TwistedBrush Pro Studio](https://www.pixarra.com/pro_studio.html) (Commercial)
+  ⬜️ ~~[Substance Alchemy by Adobe](https://www.substance3d.com/products/substance-alchemist/) (Commercial)~~ > [Blender](https://www.blender.org/) ([Source](https://github.com/blender/blender))
+  ⬜️ ~~[Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial)~~ > [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
+  ⬜️ [Tamasoft Pepakura Designer](https://tamasoft.co.jp/pepakura-en/) (Commercial)
+  ⬜️ [Tamasoft Pop-Up Card Designer PRO](http://www.tamasoft.co.jp/craft/popupcard-pro_en/) (Commercial)
+  ⬜️ ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
 
   Story Sequencing
-  - [ ] [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
-  - [ ] [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
-  - [ ] [Toon Boom's Storyboard Pro](https://www.toonboom.com/products/storyboardpro) (Commercial)
+  ⬜️ [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
+  ⬜️ [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
+  ⬜️ [Toon Boom's Storyboard Pro](https://www.toonboom.com/products/storyboardpro) (Commercial)
 
   Video-related
-  - [ ] [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
+  ⬜️ [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
   
   Disc-related
-  - [ ] [DVDFab All-in-One](https://www.dvdfab.cn/all-in-one.htm)
+  ⬜️ [DVDFab All-in-One](https://www.dvdfab.cn/all-in-one.htm)
   
   Presentation-related
-  - [ ] [RenewedVision ProPresenter](https://renewedvision.com/propresenter/) (Commercial)
+  ⬜️ [RenewedVision ProPresenter](https://renewedvision.com/propresenter/) (Commercial)
   
   Helpers
-  - [ ] ColorSchemer Studio (Discontinued)
-  - [ ] [LockHunter](https://lockhunter.com/) (Free)
+  ⬜️ ColorSchemer Studio (Discontinued)
+  ⬜️ [LockHunter](https://lockhunter.com/) (Free)
 
   Exam/Test/Puzzle/Course Maker/Generator
-  - [ ] [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
-  - [x] [Cross+A](https://cross-a-plus.com/) (Commercial) / pzpr.js ([Source](https://github.com/sabo2/pzprjs/blob/master/docs/SupportedPuzzles.md)) & PUZ-PRE v3 ([Source](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
-  - [ ] [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
-  - [ ] [Schoolhouse Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
-  - [ ] [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
-  - [ ] [Schoolhouse Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
+  ⬜️ [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
+  ✅ [Cross+A](https://cross-a-plus.com/) (Commercial) / pzpr.js ([Source](https://github.com/sabo2/pzprjs/blob/master/docs/SupportedPuzzles.md)) & PUZ-PRE v3 ([Source](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
+  ⬜️ [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
+  ⬜️ [Schoolhouse Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
+  ⬜️ [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
+  ⬜️ [Schoolhouse Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
 
   Games
-  - [ ] ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ > [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
-  - [x] [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
-  - [x] [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
-  - [x] [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial) + All DLCs
-  - [x] [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/) (Commercial)
-  - [x] [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) (Commercial)
-  - [x] [The Talos Principle VR](https://store.steampowered.com/app/552440/The_Talos_Principle_VR/) (Commercial)
+  ⬜️ ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ > [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
+  ✅ [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
+  ✅ [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
+  ✅ [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial) + 42 DLCs
+  ✅ [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/) (Commercial)
+  ✅ [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) (Commercial)
+  ✅ [The Talos Principle VR](https://store.steampowered.com/app/552440/The_Talos_Principle_VR/) (Commercial)
   * Hodoku fork by PseudoFish ([Source](https://github.com/PseudoFish/Hodoku))
   * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
   * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
 
   Addins/Add-ins/Plugins/Plug-ins
-  - [ ] [Ablebits Ultimate Suite for Excel](https://www.ablebits.com/excel-suite/) (Commercial)
-  - [ ] [ExtendOffice Kutools for Excel](https://www.extendoffice.com/product/kutools-for-excel.html) (Commercial)
-  - [ ] [MathType by Wiris](http://www.wiris.com/mathtype) (Commercial)
+  ⬜️ [Ablebits Ultimate Suite for Excel](https://www.ablebits.com/excel-suite/) (Commercial)
+  ⬜️ [ExtendOffice Kutools for Excel](https://www.extendoffice.com/product/kutools-for-excel.html) (Commercial)
+  ⬜️ [MathType by Wiris](http://www.wiris.com/mathtype) (Commercial)
   * evermap
-    - [ ] [AutoSplit Pro Plug-in](http://www.evermap.com/autosplit.asp) (Commercial)
-    - [ ] [AutoBookmark Professional Plug-in](http://www.evermap.com/autobookmark.asp) (Commercial)
-    - [ ] [AutoBatch Plug-in](http://www.evermap.com/autobatch.asp) (Commercial)
-    - [ ] [AutoPagex Plug-in](http://www.evermap.com/autopage.asp) (Commercial)
-    - [ ] [AutoRedact Plug-in](http://www.evermap.com/autoredact.asp) (Commercial)
-    - [ ] [AutoMailMerge Plug-in](http://www.evermap.com/automailmerge.asp) (Commercial)
-    - [ ] [AutoMassSecure Plug-in](http://www.evermap.com/automasssecure.asp) (Commercial)
-    - [ ] [AutoDocMail Plug-in](http://www.evermap.com/autodocmail.asp) (Commercial)
-    - [ ] [AutoInk Plug-in](http://www.evermap.com/autoink.asp) (Commercial)
-    - [ ] [AutoPortfolio Plug-in](http://www.evermap.com/autoportfolio.asp) (Commercial)
-    - [ ] [AutoDocSearch Plug-in](http://www.evermap.com/autodocsearch.asp) (Commercial)
+    ⬜️ [AutoSplit Pro Plug-in](http://www.evermap.com/autosplit.asp) (Commercial)
+    ⬜️ [AutoBookmark Professional Plug-in](http://www.evermap.com/autobookmark.asp) (Commercial)
+    ⬜️ [AutoBatch Plug-in](http://www.evermap.com/autobatch.asp) (Commercial)
+    ⬜️ [AutoPagex Plug-in](http://www.evermap.com/autopage.asp) (Commercial)
+    ⬜️ [AutoRedact Plug-in](http://www.evermap.com/autoredact.asp) (Commercial)
+    ⬜️ [AutoMailMerge Plug-in](http://www.evermap.com/automailmerge.asp) (Commercial)
+    ⬜️ [AutoMassSecure Plug-in](http://www.evermap.com/automasssecure.asp) (Commercial)
+    ⬜️ [AutoDocMail Plug-in](http://www.evermap.com/autodocmail.asp) (Commercial)
+    ⬜️ [AutoInk Plug-in](http://www.evermap.com/autoink.asp) (Commercial)
+    ⬜️ [AutoPortfolio Plug-in](http://www.evermap.com/autoportfolio.asp) (Commercial)
+    ⬜️ [AutoDocSearch Plug-in](http://www.evermap.com/autodocsearch.asp) (Commercial)
 
   [TBA]
-  - [ ] [Esko Suite Server](https://www.esko.com/en/news-archive/2012/new-in-suite12) (Commercial)
+  ⬜️ [Esko Suite Server](https://www.esko.com/en/news-archive/2012/new-in-suite12) (Commercial)
 
 LF good Windows alternative:
-- [ ] [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
-- [ ] [Light DJ](https://lightdjapp.com/) (Commercial)
-- [ ] ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ > [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
-- [ ] [RenewedVision ProVideoPlayer (PVP)](https://renewedvision.com/provideoplayer/) (Commercial)
-- [ ] [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
-- [ ] [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
+⬜️ [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
+⬜️ [Light DJ](https://lightdjapp.com/) (Commercial)
+⬜️ ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ > [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
+⬜️ [RenewedVision ProVideoPlayer (PVP)](https://renewedvision.com/provideoplayer/) (Commercial)
+⬜️ [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
+⬜️ [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
   
 ### subscriptions
 
@@ -503,3 +504,12 @@ Others:
 * arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
 * CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
 * AdmiralJS ([Source](https://github.com/anon182739/admiraljs))
+
+### Legend
+❓ = (?) = unknown source
+⬜️ = - [ ] = unticked checkbox
+✅ = - [x] = owned
+📃 = description
+🦊 = Firefox
+💬 = chat
+👫 = dating
