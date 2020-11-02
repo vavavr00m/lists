@@ -1,16 +1,17 @@
 # Missing games/variants in Cross+A
-
+<br />
 ## Sources: 
-
+<br />
 ### [janko.at](https://www.janko.at/Raetsel/Uebersicht.htm)
-### pzprv3 ([JP](https://github.com/sabo2/pzprv3/blob/master/docs/ja/SupportedPuzzles.md) / ([EN](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
+### pzprv3 ([JP](https://github.com/sabo2/pzprv3/blob/master/docs/ja/SupportedPuzzles.md)) / ([EN](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
 ### [curiouscheetah.com](http://curiouscheetah.com/Museum/Puzzles/Index)
 ### [連続発破 保管庫](http://indi.s58.xrea.com/)
 ### Nikoli ([EN](https://www.nikoli.co.jp/en/puzzles/index.html)) / ([JP](https://www.nikoli.co.jp/ja/puzzles/))
 ### Wikipedia.org ([EN](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles)) ([JP](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7))
-
+<br />
+<br />
 ## Nikoli Co., Ltd. (Japanese: 株式会社ニコリ, Hepburn: Kabushiki-gaisha, Nikori)
-
+<br />
 | Title | Nikoli Puzzle Communication No. | Links | pzprv3
 | - | - | - | - |
 | ⬜️ アイスバーン / Aisubahn / Eisbahn / Icebarn | 108 | [Nikoli JP](https://web.archive.org/web/20140306224729/http://www.nikoli.co.jp/ja/puzzles/eisbahn.html) / [Janko](https://www.janko.at/Raetsel/Aisuban/index.htm) | [Icebarn](http://pzv.jp/p.html?icebarn) |
@@ -25,9 +26,9 @@
 | ⬜️ へやぼん / Heyabon / Heya-bon | 107 | [Janko](http://indi.s58.xrea.com/bonsan/) / [連続発破 保管庫](http://indi.s58.xrea.com/bonsan/) | [Heya-bon](http://pzv.jp/p.html?heyabon) |
 | ⬜️ ボサノワ / Bosanowa / Bossa Nova / Bossanova | 119 | [Janko](https://www.janko.at/Raetsel/Bosanowa/index.htm) | [Bosanowa](http://pzv.jp/p.html?bosanowa) |
 | ⬜️ ヘルゴルフ / Herugolf / Hell Golf / Hell's Golf (formerly called プロゴルファー○ / Puro Gorufa / Pro Golfer / Professional Golfer) | 142 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/herugolf/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/herugolf.html) / [Janko](https://www.janko.at/Raetsel/Herugolf/index.htm) | [Herugolf](http://pzv.jp/p.html?herugolf) |
-
+<br />
 * 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
-
+<br />
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Coded , Cipher , Crypto | [Janko](https://www.janko.at/Raetsel/Varianten/004.a.htm) | The numbers are replaced by letters; the same letters stand for the same numbers; different letters for different numbers. The assignment of the numbers to the letters can be found out. | [ Grant Fikes ] |
@@ -51,9 +52,9 @@
 | ⬜️ Arukone³ | [Janko](https://www.janko.at/Raetsel/Arukone-3/index.htm) | has another additional rule that is borrowed from Nurikabe: "A line must not cover a 2x2 area." Arukone changes this additional rule so seriously that one can actually speak of an independent type of puzzle. New solution techniques are added; others no longer work. | ❎ |
 | ⬜️ Turning Points | None | There must be a line through each field. Between two numbers N, the path has to bend exactly N times by 90 °. | [ Thomas Snyder , No. 92] |
 | ⬜️ Arukone + Masyu | None | Some fields contain white or black circles. A line must run through all circular fields. In a field with a white circle, the line must not turn; in a space with a black circle it must turn. | ❎ |
-
+<br />
 * バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
-
+<br />
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Cave | None | Inside the circular path there must be no area of ​​2x2 fields or larger. | [ Thinking ] |
@@ -64,9 +65,9 @@
 | ⬜️ Multiplicative | [Janko](https://www.janko.at/Raetsel/Varianten/075.a.htm) | A number indicates the product of the horizontally visible fields and the vertically visible fields within the circular route. | [ Grant Fikes ] |
 | ⬜️ Multiplicative Antisymmetric | [Janko](https://www.janko.at/Raetsel/Varianten/076.a.htm) | Of every two numbers arranged point-symmetrically, one is additive, the other multiplicative. | [ Brian Chen ] |
 | ✅ Inside-outside, inside-out | [Janko](https://www.janko.at/Raetsel/Varianten/077.a.htm) | Some numbers are inside the circular route, some outside. Numbers outside the circular route indicate how many fields you can see in total outside the circular route if you look to N, S, E and W from the number field. | [ Thomas Snyder ] |
-
+<br />
 * フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
-
+<br />
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Fillomino + Skyscrapers | [Janko](https://www.janko.at/Raetsel/Varianten/070.a.htm) | A number at the edge of the diagram indicates how many areas you see when you look into the diagram at the relevant point and take each number as the height of the building. | [ Grant Fikes ] |
@@ -96,9 +97,9 @@
 | ⬜️ Walls | [Janko](https://www.janko.at/Raetsel/Varianten/068.a.htm) | Some area boundaries are already given. | [ Grant Fikes and Palmer Mebane ] |
 | ⬜️ Warp | [Janko](https://www.janko.at/Raetsel/Varianten/037.a.htm) | Every two edge fields are pinned together; the attachment is given by lines outside the diagram. | [ Chaotic IAK ] |
 | ⬜️ Gemini , Twins | [Janko](https://www.janko.at/Raetsel/Varianten/064.a.htm) | An area size occurs either exactly twice or not at all. | [ Palmer Mebane ] |
-
-* Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
-
+<br />
+* へ や わ け / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
+<br />
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Heyawacky | None | The original rules only provide for rectangular areas; at Heyawacky, the areas can be shaped as desired. Since there are no other rule changes, Heyawacky is integrated into Heyawake. | ❎ |
