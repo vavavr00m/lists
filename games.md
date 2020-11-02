@@ -5,25 +5,26 @@ Sources:
 * pzprv3 ([JP](https://github.com/sabo2/pzprv3/blob/master/docs/ja/SupportedPuzzles.md)) / ([EN](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
 * [curiouscheetah.com](http://curiouscheetah.com/Museum/Puzzles/Index)
 * [連続発破 保管庫](http://indi.s58.xrea.com/)
-* Nikoli ([EN](https://www.nikoli.co.jp/en/puzzles/index.html)) / ([JP](https://www.nikoli.co.jp/ja/puzzles/))
-* Wikipedia.org ([EN](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles)) ([JP](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7))
+* Nikoli [🇺🇸](https://www.nikoli.co.jp/en/puzzles/index.html) / [🇯🇵](https://www.nikoli.co.jp/ja/puzzles/)
+* Wikipedia.org [🇺🇸](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles) / [🇯🇵](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7)
 <br />
 
 ## Nikoli Co., Ltd. (Japanese: 株式会社ニコリ, Hepburn: Kabushiki-gaisha, Nikori)
-| Title | Nikoli Puzzle Communication No. | Links | pzprv3
-| - | - | - | - |
-| ⬜️ アイスバーン / Aisubahn / Eisbahn / Icebarn | 108 | [Nikoli JP](https://web.archive.org/web/20140306224729/http://www.nikoli.co.jp/ja/puzzles/eisbahn.html) / [Janko](https://www.janko.at/Raetsel/Aisuban/index.htm) | [Icebarn](http://pzv.jp/p.html?icebarn)
-| ⬜️ アイスローム / Aisurom / Icelom | 128 | [Janko](https://www.janko.at/Raetsel/Aisurom/index.htm) | [Icelom](http://pzv.jp/p.html?icelom) |
-| ⬜️ アイスローム2 / Aisurom 2 / Icelom2 | 129 | None | :x: |
-| ⬜️ バーンズ / Banzu / Barns / Burns | 114 | [Janko](https://www.janko.at/Raetsel/Banzu/index.htm) | [Barns](http://pzv.jp/p.html?barns) |
-| ⬜️ バーンズ改 / Banzu Kai | 116 | None | :x: |
-| ⬜️ ペンシルズ / Pencils | 158 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/pencils/) / [Nikoli EN](http://www.nikoli.co.jp/en/puzzles/pencils.html) / [Janko](https://www.janko.at/Raetsel/Bleistifte/index.htm) | :x: |
-| ⬜️ ダブルチョコ / Double Choco | ? | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/double_choco/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/double_choco.html) | :x: |
-| ⬜️ ブロックパズル / Block Puzzle | ? | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/block_puzzle/) | :x: |
-| ⬜️ ぼんさん / Bonsan | 96 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/bonsan/) / [Janko](http://indi.s58.xrea.com/bonsan/) | [Bonsan](http://pzv.jp/p.html?bonsan) |
-| ⬜️ へやぼん / Heyabon / Heya-bon | 107 | [Janko](http://indi.s58.xrea.com/bonsan/) / [連続発破 保管庫](http://indi.s58.xrea.com/bonsan/) | [Heya-bon](http://pzv.jp/p.html?heyabon) |
-| ⬜️ ボサノワ / Bosanowa / Bossa Nova / Bossanova | 119 | [Janko](https://www.janko.at/Raetsel/Bosanowa/index.htm) | [Bosanowa](http://pzv.jp/p.html?bosanowa) |
-| ⬜️ ヘルゴルフ / Herugolf / Hell Golf / Hell's Golf (formerly called プロゴルファー○ / Puro Gorufa / Pro Golfer / Professional Golfer) | 142 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/herugolf/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/herugolf.html) / [Janko](https://www.janko.at/Raetsel/Herugolf/index.htm) | [Herugolf](http://pzv.jp/p.html?herugolf) |
+| Title | Nikoli Puzzle Communication No. | Nikoli 🇯🇵 | Nikoli 🇺🇸 | Wayback Machine | Janko | Marshall | 連続発破 保管庫 | Wiki 🇺🇸 | Wiki 🇯🇵 | CuriousCheetah | pzprv3 | Cross+A 🇺🇸 | Cross+A 🇯🇵 |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| ⬜️ 🇯🇵: アイスバーン <br /> Romaji: Aisubahn <br /> EN: Ice Burn / Ice Barn <br /> DE: Eisbahn <br /> UNK: Icebarn | 108 | [N 🇯🇵](https://web.archive.org/web/20140306224729/http://www.nikoli.co.jp/ja/puzzles/eisbahn.html) | [N 🇺🇸] | [WBM](https://web.archive.org/web/20140306224423/http://www.nikoli.co.jp/ja/puzzles/eisbahn.html) | [Janko](https://www.janko.at/Raetsel/Aisuban/index.htm) | [Marshall] | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Icebarn](http://pzv.jp/p.html?icebarn) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: アイスローム <br /> Romaji: Aisurom <br /> EN: Ice Loam <br /> DE: Eisslalom <br /> UNK: Icelom | 128 | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko](https://www.janko.at/Raetsel/Aisurom/index.htm) | [Marshall](http://marshall.freeshell.org/nikoli_rules.html#icelom) | [連続発破 保管庫](http://indi.s58.xrea.com/icelom/) | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Icelom](http://pzv.jp/p.html?icelom) | [✝️+A 🇺🇸] | [✝️s+A 🇯🇵] |
+| ⬜️ 🇯🇵: アイスローム2 <br /> Romaji: Aisurom 2 <br /> EN: Ice Loam 2 <br /> DE: Eisslalom 2 <br /> UNK: Icelom2 | 129 | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko] | [Marshall] | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Icelom2](http://pzv.jp/p.html?icelom2) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: バーンズ <br /> Romaji: Banzu <br /> EN: Barns / Burns | 114 | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko](https://www.janko.at/Raetsel/Banzu/index.htm) | [Marshall](http://marshall.freeshell.org/nikoli_rules.html#barns) | [連続発破 保管庫](http://indi.s58.xrea.com/barns/) | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Barns](http://pzv.jp/p.html?barns) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: バーンズ改 <br /> Romaji: Banzu Aratame / Banzu Kai | 116 | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko] | [Marshall] | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | :x: | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: ペンシルズ <br /> Romaji: Penshiruzu <br /> EN: Pencils | 158 | [N 🇯🇵](https://www.nikoli.co.jp/ja/puzzles/pencils/) | [N 🇺🇸](http://www.nikoli.co.jp/en/puzzles/pencils.html) | [WBM] | [Janko](https://www.janko.at/Raetsel/Bleistifte/index.htm) | [Marshall](http://marshall.freeshell.org/nikoli_rules.html#pencils) | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | :x: | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: ダブルチョコ <br /> Romaji: Daburu Choko <br /> EN: Double Choco | ❓ | [N 🇯🇵](https://www.nikoli.co.jp/ja/puzzles/double_choco/) | [N 🇺🇸](https://www.nikoli.co.jp/en/puzzles/double_choco.html) | [WBM] | [Janko] | [Marshall] | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | :x: | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: ブロックパズル <br /> Romaji: Burokku Pazuru <br /> EN: Block Puzzle / Block Division | ❓ | [N 🇯🇵](https://www.nikoli.co.jp/ja/puzzles/block_puzzle/) | [N 🇺🇸] | [WBM](https://web.archive.org/web/20140306224423/http://www.nikoli.co.jp/ja/puzzles/block_puzzle.html) | [Janko](https://www.janko.at/Raetsel/Burokku/index.htm) | [Marshall](http://marshall.freeshell.org/nikoli_rules.html#block_puzzle) | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%91%E3%82%BA%E3%83%AB) | ❓ [CC](http://curiouscheetah.com/Museum/Puzzle/Blockpuzzle) | :x: | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Nikoli Puzzle Communication No. | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko] | [Marshall] | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | :x: | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: ぼんさん <br /> Romaji: Bonsan / Bon San | 96 | [N 🇯🇵](https://www.nikoli.co.jp/ja/puzzles/bonsan/) | [N 🇺🇸] | [WBM](https://web.archive.org/web/20140306224423/http://www.nikoli.co.jp/ja/puzzles/bonsan.html) | [Janko](http://indi.s58.xrea.com/bonsan/) | [Marshall] | [連続発破 保管庫](http://indi.s58.xrea.com/bonsan/) | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Bonsan](http://pzv.jp/p.html?bonsan) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: へやぼん <br /> Romaji: Heyabon / Heya-bon / Heya Bon | 107 | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko](http://indi.s58.xrea.com/bonsan/) | [Marshall] | [連続発破 保管庫](http://indi.s58.xrea.com/bonsan/) | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Heya-bon](http://pzv.jp/p.html?heyabon) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: ボサノワ <br /> Romaji: Bosanowa <br /> EN: Bossa Nova / Bossanova | 119 | [N 🇯🇵] | [N 🇺🇸] | [WBM] | [Janko](https://www.janko.at/Raetsel/Bosanowa/index.htm) | [Marshall] | [連続発破 保管庫](http://indi.s58.xrea.com/bosanowa/) | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Bosanowa](http://pzv.jp/p.html?bosanowa) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| ⬜️ 🇯🇵: ヘルゴルフ <br /> Romaji: Herugolf <br /> EN: Hell Golf / Hell's Golf <br /> * Formerly: <br /> JP: プロゴルファー○ <br /> Romaji: Puro Gorufa <br /> EN: Pro Golfer / Professional Golfer | 142 | [N 🇯🇵](https://www.nikoli.co.jp/ja/puzzles/herugolf/) | [N 🇺🇸](https://www.nikoli.co.jp/en/puzzles/herugolf.html) | [WBM](https://web.archive.org/web/20140306224423/http://www.nikoli.co.jp/ja/puzzles/herugolf.html) | [Janko](https://www.janko.at/Raetsel/Herugolf/index.htm) | [Marshall](http://marshall.freeshell.org/nikoli_rules.html#herugolf) | [連続発破 保管庫] | [W 🇺🇸] | [W 🇯🇵] | [CC] | [Herugolf](http://pzv.jp/p.html?herugolf) | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
 <br />
 
 #### 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
@@ -97,7 +98,13 @@ Sources:
 | ⬜️ Gemini , Twins | [Janko](https://www.janko.at/Raetsel/Varianten/064.a.htm) | An area size occurs either exactly twice or not at all. | [ Palmer Mebane ] |
 <br />
 
-#### へ や わ け / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
+#### ブロックパズル / Burokku variant ([Janko](https://www.janko.at/Raetsel/Burokku/index.htm))
+| Title | Link | Description | Author |
+| - | - | - | - |
+| ⬜️ :x: | None | Instead of letters, numbers or any other symbols can also be used; Kanji (Chinese characters) are also used in Japan. | ❎ |
+<br />
+
+#### へやわけ / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
 | ⬜️ Heyawacky | None | The original rules only provide for rectangular areas; at Heyawacky, the areas can be shaped as desired. Since there are no other rule changes, Heyawacky is integrated into Heyawake. | ❎ |
