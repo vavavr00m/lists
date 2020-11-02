@@ -15,14 +15,15 @@
 | <ul><li>- [ ] バーンズ / Banzu / Barns / Burns </li></ul>| 114 | [Janko](https://www.janko.at/Raetsel/Banzu/index.htm) | [Barns](http://pzv.jp/p.html?barns) |
 | <ul><li>- [ ] バーンズ改 / Banzu Kai </li></ul>| 116 | None | No |
 | <ul><li>- [ ] ペンシルズ / Pencils </li></ul>| 158 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/pencils/) / [Nikoli EN](http://www.nikoli.co.jp/en/puzzles/pencils.html) / [Janko](https://www.janko.at/Raetsel/Bleistifte/index.htm) | No |
-| <ul><li>- [ ] ダブルチョコ / Double Choco </li></ul>| [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/double_choco/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/double_choco.html) | No |
-| <ul><li>- [ ] ブロックパズル / Block Puzzle </li></ul>| [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/block_puzzle/) | No |
+| <ul><li>- [ ] ダブルチョコ / Double Choco </li></ul>| ? | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/double_choco/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/double_choco.html) | No |
+| <ul><li>- [ ] ブロックパズル / Block Puzzle </li></ul>| ? | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/block_puzzle/) | No |
 | <ul><li>- [ ] ぼんさん / Bonsan </li></ul>| 96 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/bonsan/) / [Janko](http://indi.s58.xrea.com/bonsan/) | [Bonsan](http://pzv.jp/p.html?bonsan) |
 | <ul><li>- [ ] へやぼん / Heyabon </li></ul>/ Heya-bon | 107 | [Janko](http://indi.s58.xrea.com/bonsan/) / [連続発破 保管庫 link](http://indi.s58.xrea.com/bonsan/) | [Heya-bon](http://pzv.jp/p.html?heyabon) |
 | <ul><li>- [ ] ボサノワ / Bosanowa </li></ul>/ Bossa Nova / Bossanova | 119 | [Janko](https://www.janko.at/Raetsel/Bosanowa/index.htm) | [Bosanowa](http://pzv.jp/p.html?bosanowa) |
 | <ul><li>- [ ] ヘルゴルフ / Herugolf </li></ul>/ Hell Golf / Hell's Golf (formerly called プロゴルファー○ / Puro Gorufa / Pro Golfer / Professional Golfer) | 142 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/herugolf/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/herugolf.html) / [Janko](https://www.janko.at/Raetsel/Herugolf/index.htm) | [Herugolf](http://pzv.jp/p.html?herugolf) |
 
 * 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
+
 | Title | Link | Description | Author |
 | - | - | - | - |
 | <ul><li>- [ ] Coded , Cipher , Crypto </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/004.a.htm) | The numbers are replaced by letters; the same letters stand for the same numbers; different letters for different numbers. The assignment of the numbers to the letters can be found out. | [ Grant Fikes ] |
@@ -39,6 +40,7 @@
 | <ul><li>- [ ] Twins , double </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/026.a.htm) | each lamp has to illuminate exactly one other lamp. | [ Palmer Mebane ] |
 
 * アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
+
 | Title | Link | Description | Author |
 | - | - | - | - |
 | <ul><li>- [ ] Arukone² </li></ul>| [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines". &nbsp If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.] &nbsp This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally. & [The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | Not cited |
@@ -47,6 +49,7 @@
 | <ul><li>- [ ] Arukone + Masyu </li></ul>| None | Some fields contain white or black circles. A line must run through all circular fields. In a field with a white circle, the line must not turn; in a space with a black circle it must turn. | Not cited |
 
 * バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
+
 | Title | Link | Description | Author |
 | - | - | - | - |
 | <ul><li>- [ ] Cave </li></ul>| None | Inside the circular path there must be no area of ​​2x2 fields or larger. | [ Thinking ] |
@@ -59,6 +62,7 @@
 | <ul><li>- [x] Inside-outside, inside-out </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/077.a.htm) | Some numbers are inside the circular route, some outside. Numbers outside the circular route indicate how many fields you can see in total outside the circular route if you look to N, S, E and W from the number field. | [ Thomas Snyder ] |
 
 * フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
+
 | Title | Link | Description | Author |
 | - | - | - | - |
 | <ul><li>- [ ] Fillomino + Skyscrapers </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/070.a.htm) | A number at the edge of the diagram indicates how many areas you see when you look into the diagram at the relevant point and take each number as the height of the building. | [ Grant Fikes ] |
@@ -90,6 +94,7 @@
 | <ul><li>- [ ] Gemini , Twins </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/064.a.htm) | An area size occurs either exactly twice or not at all. | [ Palmer Mebane ] |
 
 * Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
+
 | Title | Link | Description | Author |
 | - | - | - | - |
 | <ul><li>- [ ] Heyawacky </li></ul>| None | The original rules only provide for rectangular areas; at Heyawacky, the areas can be shaped as desired. Since there are no other rule changes, Heyawacky is integrated into Heyawake. | Not cited |
