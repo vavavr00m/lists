@@ -5,8 +5,8 @@ Sources:
 * pzprv3 [🇯🇵](https://github.com/sabo2/pzprv3/blob/master/docs/ja/SupportedPuzzles.md) / [🇺🇸](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md)
 * [curiouscheetah.com](http://curiouscheetah.com/Museum/Puzzles/Index)
 * [連続発破 保管庫](http://indi.s58.xrea.com/)
-* Nikoli [🇺🇸](https://www.nikoli.co.jp/en/puzzles/index.html) / [🇯🇵](https://www.nikoli.co.jp/ja/puzzles/) & [WBM]([archive.org](https://web.archive.org/web/*/https://www.nikoli.co.jp/ja/puzzles/) / [Omopalist](https://www.nikoli.co.jp/ja/publication/various/nikoli/omopalist/)
-* Wikipedia.org [🇺🇸](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles) / [🇯🇵](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7)
+* Nikoli [Omopalist](https://www.nikoli.co.jp/ja/publication/various/nikoli/omopalist/) / [🇺🇸](https://www.nikoli.co.jp/en/puzzles/index.html) / [🇯🇵](https://www.nikoli.co.jp/ja/puzzles/) + [WBM](https://web.archive.org/web/*/https://www.nikoli.co.jp/ja/puzzles/)
+* Wikipedia.org [🇯🇵](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7) / [🇺🇸](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles)
 * [puzsq.jp](https://puzsq.jp/main/index.php)
 <br />
 
