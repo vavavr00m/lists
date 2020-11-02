@@ -106,6 +106,15 @@ Sources:
 | ⬜️ No Title | None | Instead of letters, numbers or any other symbols can also be used; Kanji (Chinese characters) are also used in Japan. | ❎ | [RQT'D] | [RQT'D] |
 <br />
 
+#### へびいちご / Hebi-ichigo variants ([Janko](https://www.janko.at/Raetsel/Hebi-Ichigo/index.htm))
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
+| - | - | - | - | - | - |
+| ⬜️ 🇺🇸: Seconds | [Janko](https://www.janko.at/Raetsel/Hebi-Ichigo/Seconds.htm) | The numbers in black fields indicate the second number of snakes that can be seen from the black field in the direction of the arrow. | [ Grant Fikes , March Mutant Puzzles No. 5, Monday Mutant Puzzles No. 99 ] | [RQT'D] | [RQT'D] |
+| ⬜️ 🇺🇸: Cipher | [Janko](https://www.janko.at/Raetsel/Hebi-Ichigo/Cipher.htm) | The numbers are replaced by letters; the same letters mean the same numbers, different letters mean different numbers. You have to find out which letter stands for which number. | [ Grant Fikes , Monday Mutant Puzzles # 52 ] | [RQT'D] | [RQT'D] |
+| ⬜️ 🇺🇸: Toroidal | [Janko](https://www.janko.at/Raetsel/Hebi-Ichigo/Toroidal.htm) | The diagram is the surface area of ​​a torus (a tire); ie the upper and lower margins and the left and right margins are attached to one another. | [ Grant Fikes , Monday Mutant Puzzles # 90 ] | [RQT'D] | [RQT'D] |
+| ⬜️ 🇺🇸: Basilisks | [Janko](https://www.janko.at/Raetsel/Hebi-Ichigo/Basilisks.htm) | All snakes have different lengths from 1 to N. | [ Jonah Ostroff , 2019 ] | [RQT'D] | [RQT'D] |
+<br />
+
 #### へやわけ / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
 | Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
@@ -117,3 +126,10 @@ Sources:
 | ⬜️ Pentomino | [Janko](https://www.janko.at/Raetsel/Varianten/043.a.htm) | There are no territorial boundaries. The area boundaries can be found by dividing the diagram into exactly 12 different pentominoes, whereby each pentomino must contain exactly one field with a number (or a question mark). | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
 | ⬜️ 🇺🇸: Surveyor | None | Some areas contain multiple numbers. Exactly one of them is a heyawake number (that is, indicates how many fields are black in the area), the others indicate. how many of the 3x3 = 9 fields with the number field as the center are black. | [ Chaos in the Sky, No. 8 ] | [RQT'D] | [RQT'D] |
 | ⬜️ 🇺🇸: Sleep | [Janko](https://www.janko.at/Raetsel/Varianten/088.a.htm) | A star in a field indicates that exactly one orthogonal neighboring field is white and all other orthogonal neighboring fields are black. | ❎ | [RQT'D] | [RQT'D] |
+<br />
+
+####  碁石ひろい / 碁石拾い / ごいしひろい /  Goishi Hiroi variants ([Janko](https://www.janko.at/Raetsel/Hiroimono/index.htm))
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
+| - | - | - | - | - | - |
+| ⬜️ 🇩🇪: Alternierend <br /> 🇺🇸: Alternating | None | The go stones are colored black and white; you have to remove a black and a white stone alternately. | [ Wei-Hwa Huang, March 7, 2006 ] | [RQT'D] | [RQT'D] |
+<br />
