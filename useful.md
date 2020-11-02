@@ -60,3 +60,10 @@ TEXTJOIN("/ ",TRUE,
 ```
 
 <br />
+
+##### TEXTJOIN specified strings if cell (A2) found matches in multiple columns
+```
+=TEXTJOIN(", ",TRUE,IF(ISNA(MATCH(A2,$T$2:$T,0)),"","English"),IF(ISNA(MATCH(A2,$Y$2:$Y,0)),"","Deutsch"),IF(ISNA(MATCH(A2,$AE$2:$AE,0)),"","Español"),IF(ISNA(MATCH(A2,$AK$2:$AK,0)),"","Français"),IF(ISNA(MATCH(A2,$AQ$2:$AQ,0)),"","Italiano"),IF(ISNA(MATCH(A2,$AW$2:$AW,0)),"","Japanese"),IF(ISNA(MATCH(A2,$BC$2:$BC,0)),"","Nederlands"),IF(ISNA(MATCH(A2,$BI$2:$BI,0)),"","Svenska"),IF(ISNA(MATCH(A2,$BO$2:$BO,0)),"","Dansk"),IF(ISNA(MATCH(A2,$BU$2:$BU,0)),"","Português") )
+```
+
+<br />
