@@ -8,6 +8,7 @@
 ### Wikipedia.org ([EN](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles)) ([JP](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7))
 
 | Title | Nikoli Puzzle Communication No. | Links | pzprv3
+| - | - | - | - |
 | <ul><li>- [ ] アイスバーン / Aisubahn / Eisbahn / Icebarn </li></ul>| 108 | [Nikoli JP](https://web.archive.org/web/20140306224729/http://www.nikoli.co.jp/ja/puzzles/eisbahn.html) / [Janko](https://www.janko.at/Raetsel/Aisuban/index.htm) | [Icebarn](http://pzv.jp/p.html?icebarn) |
 | <ul><li>- [ ] アイスローム / Aisurom / Icelom </li></ul>| 128 | [Janko](https://www.janko.at/Raetsel/Aisurom/index.htm) | [Icelom](http://pzv.jp/p.html?icelom) |
 | <ul><li>- [ ] アイスローム2 / Aisurom 2 / Icelom2 </li></ul>| 129 | None | No |
@@ -23,6 +24,7 @@
 
 * 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
 | Title | Link | Description | Author |
+| - | - | - | - |
 | <ul><li>- [ ] Coded , Cipher , Crypto </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/004.a.htm) | The numbers are replaced by letters; the same letters stand for the same numbers; different letters for different numbers. The assignment of the numbers to the letters can be found out. | [ Grant Fikes ] |
 | <ul><li>- [ ] Toroid , Toroidal </li></ul>| None | The upper and lower as well as the left and right edges of the diagram are stitched together; the diagram therefore resembles the surface of a tire. |
 | <ul><li>- [ ] Hexagonal </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/020.a.htm) | The diagram is a hexagonal grid; a lamp shines in all six possible directions; the numbers in the black fields indicate how many lamps are on the six neighboring fields; | [ Palmer Mebane ] |
@@ -38,6 +40,7 @@
 
 * アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
 | Title | Link | Description | Author |
+| - | - | - | - |
 | <ul><li>- [ ] Arukone² </li></ul>| [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines". &nbsp If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.] &nbsp This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally. & [The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | Not cited |
 | <ul><li>- [ ] Arukone³ </li></ul>| [Janko](https://www.janko.at/Raetsel/Arukone-3/index.htm) | has another additional rule that is borrowed from Nurikabe: "A line must not cover a 2x2 area." Arukone changes this additional rule so seriously that one can actually speak of an independent type of puzzle. New solution techniques are added; others no longer work. | Not cited |
 | <ul><li>- [ ] Turning Points </li></ul>| None | There must be a line through each field. Between two numbers N, the path has to bend exactly N times by 90 °. | [ Thomas Snyder , No. 92] |
@@ -45,6 +48,7 @@
 
 * バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
 | Title | Link | Description | Author |
+| - | - | - | - |
 | <ul><li>- [ ] Cave </li></ul>| None | Inside the circular path there must be no area of ​​2x2 fields or larger. | [ Thinking ] |
 | <ul><li>- [ ] Toriod , Toroidal , Torus </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/072.a.htm) | The upper and lower edge as well as the left and right edge of the diagram are stitched together; the diagram therefore resembles the surface of a tire. | [ Palmer Mebane ] |
 | <ul><li>- [ ] Terraces </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/073.a.htm) | Two circular routes must be drawn in the diagram, one of which must be completely contained in the other. | [ Palmer Mebane ] |
@@ -56,6 +60,7 @@
 
 * フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
 | Title | Link | Description | Author |
+| - | - | - | - |
 | <ul><li>- [ ] Fillomino + Skyscrapers </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/070.a.htm) | A number at the edge of the diagram indicates how many areas you see when you look into the diagram at the relevant point and take each number as the height of the building. | [ Grant Fikes ] |
 | <ul><li>- [ ] Fillomino + Nurikabe </li></ul>| None | Some fields are marked with a circle. No area may contain more than one field with a circle. All areas with circles correspond to white Nurikabe areas; all other fields correspond to black Nurikabe fields. | [ Palmer Mebane ] |
 | <ul><li>- [ ] Fillomino + Killer Sudoku </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/067.a.htm) | Some areas are shown in the diagram. For each of these areas the sum of the numbers of all fields in this area is given. The given total areas are independent of the Fillomino areas. | [ Palmer Mebane ] |
@@ -86,6 +91,7 @@
 
 * Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
 | Title | Link | Description | Author |
+| - | - | - | - |
 | <ul><li>- [ ] Heyawacky </li></ul>| None | The original rules only provide for rectangular areas; at Heyawacky, the areas can be shaped as desired. Since there are no other rule changes, Heyawacky is integrated into Heyawake. | Not cited |
 | <ul><li>- [ ] AYE-Heya (∀ 人 ∃ＨＥＹＡ) or "human" (人) </li></ul>| [Janko](https://www.janko.at/Raetsel/AYE-Heya/index.htm) | The black fields must be arranged symmetrically in each area with respect to the center of the area. The strange name plays with the mathematical symbols "for everyone" ( ∀ ) and "it exists" ( ∃ ) as well as the Kanji for "human" (人): "There is a room for every human being". | Not cited |
 | <ul><li>- [ ] Symmetry </li></ul>| [Janko](https://www.janko.at/Raetsel/Varianten/041.a.htm) | Some areas do not contain numbers but one of the letters A or S. In S areas, the black fields must be arranged symmetrically with respect to the center of the area; In A areas, the black squares must not be arranged symmetrically with respect to the center of the area. | [ Grant Fikes ] |
