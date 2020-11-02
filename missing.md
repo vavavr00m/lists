@@ -58,9 +58,9 @@ Stat | Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯�
 | Stat | Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - | - |
 | ⬜️ | 🇺🇸: Cave | None | Inside the circular path there must be no area of ​​2x2 fields or larger. | [ Thinking ] | [RQT'D] | [RQT'D] |
-| ⬜️ | 🇺🇸: Toriod , Toroidal , Torus | [Janko](https://www.janko.at/Raetsel/Varianten/072.a.htm) | The upper and lower edge as well as the left and right edge of the diagram are stitched together; the diagram therefore resembles the surface of a tire. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
+| ⬜️ | 🇺🇸: Toriod / Toroidal / Torus | [Janko](https://www.janko.at/Raetsel/Varianten/072.a.htm) | The upper and lower edge as well as the left and right edge of the diagram are stitched together; the diagram therefore resembles the surface of a tire. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
 | ⬜️ | 🇺🇸: Terraces | [Janko](https://www.janko.at/Raetsel/Varianten/073.a.htm) | Two circular routes must be drawn in the diagram, one of which must be completely contained in the other. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
-| ⬜️ | 🇺🇸: Columns , crates | [Janko](https://www.janko.at/Raetsel/Varianten/071.a.htm) | Some fields contain columns within the circular path that block the view. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
+| ⬜️ | 🇺🇸: Columns / crates | [Janko](https://www.janko.at/Raetsel/Varianten/071.a.htm) | Some fields contain columns within the circular path that block the view. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
 | ⬜️ | 🇺🇸: Diagonal | [Janko](https://www.janko.at/Raetsel/Varianten/074.a.htm) | The numbers indicate the visibility of the diagonal fields, not that of the orthogonal fields. | [ Prasanna Seshadri ] | [RQT'D] | [RQT'D] |
 | ⬜️ | 🇺🇸: Multiplicative | [Janko](https://www.janko.at/Raetsel/Varianten/075.a.htm) | A number indicates the product of the horizontally visible fields and the vertically visible fields within the circular route. | [ Grant Fikes ] | [RQT'D] | [RQT'D] |
 | ⬜️ | 🇺🇸: Multiplicative Antisymmetric | [Janko](https://www.janko.at/Raetsel/Varianten/076.a.htm) | Of every two numbers arranged point-symmetrically, one is additive, the other multiplicative. | [ Brian Chen ] | [RQT'D] | [RQT'D] |
