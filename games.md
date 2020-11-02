@@ -7,7 +7,8 @@ Sources:
 * [連続発破 保管庫](http://indi.s58.xrea.com/)
 * Nikoli ([EN](https://www.nikoli.co.jp/en/puzzles/index.html)) / ([JP](https://www.nikoli.co.jp/ja/puzzles/))
 * Wikipedia.org ([EN](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles)) ([JP](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%AB%E9%80%9A%E4%BF%A1%E3%83%8B%E3%82%B3%E3%83%AA%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E4%B8%80%E8%A6%A7))
-<br></br>
+<br />
+
 ## Nikoli Co., Ltd. (Japanese: 株式会社ニコリ, Hepburn: Kabushiki-gaisha, Nikori)
 | Title | Nikoli Puzzle Communication No. | Links | pzprv3
 | - | - | - | - |
@@ -23,6 +24,7 @@ Sources:
 | ⬜️ へやぼん / Heyabon / Heya-bon | 107 | [Janko](http://indi.s58.xrea.com/bonsan/) / [連続発破 保管庫](http://indi.s58.xrea.com/bonsan/) | [Heya-bon](http://pzv.jp/p.html?heyabon)
 | ⬜️ ボサノワ / Bosanowa / Bossa Nova / Bossanova | 119 | [Janko](https://www.janko.at/Raetsel/Bosanowa/index.htm) | [Bosanowa](http://pzv.jp/p.html?bosanowa) |
 | ⬜️ ヘルゴルフ / Herugolf / Hell Golf / Hell's Golf (formerly called プロゴルファー○ / Puro Gorufa / Pro Golfer / Professional Golfer) | 142 | [Nikoli JP](https://www.nikoli.co.jp/ja/puzzles/herugolf/) / [Nikoli EN](https://www.nikoli.co.jp/en/puzzles/herugolf.html) / [Janko](https://www.janko.at/Raetsel/Herugolf/index.htm) | [Herugolf](http://pzv.jp/p.html?herugolf)
+<br />
 
 #### 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
 | Title | Link | Description | Author |
@@ -39,16 +41,16 @@ Sources:
 | ⬜️ Row Totals | [Janko](https://www.janko.at/Raetsel/Varianten/024.a.htm) | At the edge of the diagram it is indicated for some rows or columns how many lamps are in the relevant row or column. | [ Anuraag Sahay ]
 | ⬜️ True-False-Pairs | [Janko](https://www.janko.at/Raetsel/Varianten/025.a.htm) | Two number fields are orthogonally adjacent, thus forming dominos - but only one of the two numbers is correct; the other number is wrong and must be replaced with a black field or a lamp. | [ Prasanna Seshadri ]
 | ⬜️ Twins , double | [Janko](https://www.janko.at/Raetsel/Varianten/026.a.htm) | each lamp has to illuminate exactly one other lamp. | [ Palmer Mebane ]
-
+<br />
 
 #### アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
 | Title | Link | Description | Author |
 | - | - | - | - |
-| ⬜️ Arukone² | [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines". <br /> If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.] <br /> This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally. <br /> [The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | ❎
+| ⬜️ Arukone² | [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines".  If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.]  This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally.  [The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | ❎
 | ⬜️ Arukone³ | [Janko](https://www.janko.at/Raetsel/Arukone-3/index.htm) | has another additional rule that is borrowed from Nurikabe: "A line must not cover a 2x2 area." Arukone changes this additional rule so seriously that one can actually speak of an independent type of puzzle. New solution techniques are added; others no longer work. | ❎
 | ⬜️ Turning Points | None | There must be a line through each field. Between two numbers N, the path has to bend exactly N times by 90 °. | [ Thomas Snyder , No. 92]
 | ⬜️ Arukone + Masyu | None | Some fields contain white or black circles. A line must run through all circular fields. In a field with a white circle, the line must not turn; in a space with a black circle it must turn. | ❎
-
+<br />
 
 #### バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
 | Title | Link | Description | Author |
@@ -61,6 +63,7 @@ Sources:
 | ⬜️ Multiplicative | [Janko](https://www.janko.at/Raetsel/Varianten/075.a.htm) | A number indicates the product of the horizontally visible fields and the vertically visible fields within the circular route. | [ Grant Fikes ]
 | ⬜️ Multiplicative Antisymmetric | [Janko](https://www.janko.at/Raetsel/Varianten/076.a.htm) | Of every two numbers arranged point-symmetrically, one is additive, the other multiplicative. | [ Brian Chen ]
 | ✅ Inside-outside, inside-out | [Janko](https://www.janko.at/Raetsel/Varianten/077.a.htm) | Some numbers are inside the circular route, some outside. Numbers outside the circular route indicate how many fields you can see in total outside the circular route if you look to N, S, E and W from the number field. | [ Thomas Snyder ]
+<br />
 
 #### フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
 | Title | Link | Description | Author |
@@ -92,6 +95,7 @@ Sources:
 | ⬜️ Walls | [Janko](https://www.janko.at/Raetsel/Varianten/068.a.htm) | Some area boundaries are already given. | [ Grant Fikes and Palmer Mebane ] |
 | ⬜️ Warp | [Janko](https://www.janko.at/Raetsel/Varianten/037.a.htm) | Every two edge fields are pinned together; the attachment is given by lines outside the diagram. | [ Chaotic IAK ]
 | ⬜️ Gemini , Twins | [Janko](https://www.janko.at/Raetsel/Varianten/064.a.htm) | An area size occurs either exactly twice or not at all. | [ Palmer Mebane ]
+<br />
 
 #### へ や わ け / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
 | Title | Link | Description | Author |
