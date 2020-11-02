@@ -28,7 +28,7 @@ Sources:
 <br />
 
 #### 美術館 / Akari Variants ([Janko](https://www.janko.at/Raetsel/Akari/index.htm))
-| Title | Link | Description | Author | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
 | ⬜️ Coded , Cipher , Crypto | [Janko](https://www.janko.at/Raetsel/Varianten/004.a.htm) | The numbers are replaced by letters; the same letters stand for the same numbers; different letters for different numbers. The assignment of the numbers to the letters can be found out. | [ Grant Fikes ] | [RQT'D] | [RQT'D] |
 | ⬜️ Toroid , Toroidal | None | The upper and lower as well as the left and right edges of the diagram are stitched together; the diagram therefore resembles the surface of a tire. | ❎ | [RQT'D] | [RQT'D] |
@@ -45,7 +45,7 @@ Sources:
 <br />
 
 #### アルコネ / Arukone Variants ([Janko](https://www.janko.at/Raetsel/Arukone/index.htm))
-| Title | Link | Description | Author | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
 | ⬜️ Arukone² | [Janko](https://www.janko.at/Raetsel/Arukone-2/index.htm) | Has one additional rule compared to Arukone: "All fields must be used by lines".<br /><br />If you look at the Arukone puzzles, you can see that Arukone always uses all fields of lines. This is due to the fact that puzzles with empty spaces usually have several solutions. [The requirement that a task have only one solution is an unwritten convention in the puzzle scene.]<br /><br />This has led many puzzle authors to add the sentence "All fields must be used by lines" in the set of rules, mistakenly assuming that this only helps the solvers and does not otherwise change anything. But this is not true: If a puzzle author designs a puzzle and has this additional rule in mind, then the character of Arukone can change fundamentally.<br /><br />[The problem with Arukone is to find any crossing-free lines between the pairs of numbers. With Arukone² it can be very easy to find such lines, with some or many fields remaining empty. The challenge then is to artificially lengthen the lines so that all fields are used. This can lead to a completely different alignment than the first approach.] | ❎ | [RQT'D] | [RQT'D] |
 | ⬜️ Arukone³ | [Janko](https://www.janko.at/Raetsel/Arukone-3/index.htm) | has another additional rule that is borrowed from Nurikabe: "A line must not cover a 2x2 area." Arukone changes this additional rule so seriously that one can actually speak of an independent type of puzzle. New solution techniques are added; others no longer work. | ❎ | [RQT'D] | [RQT'D] |
@@ -54,7 +54,7 @@ Sources:
 <br />
 
 #### バッグ / Corral Variants ([Janko](https://www.janko.at/Raetsel/Corral/index.htm))
-| Title | Link | Description | Author | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
 | ⬜️ Cave | None | Inside the circular path there must be no area of ​​2x2 fields or larger. | [ Thinking ] | [RQT'D] | [RQT'D] |
 | ⬜️ Toriod , Toroidal , Torus | [Janko](https://www.janko.at/Raetsel/Varianten/072.a.htm) | The upper and lower edge as well as the left and right edge of the diagram are stitched together; the diagram therefore resembles the surface of a tire. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
@@ -67,7 +67,7 @@ Sources:
 <br />
 
 #### フィルオミノ / Fillomino hybrids & variants ([Janko](https://www.janko.at/Raetsel/Fillomino/index.htm))
-| Title | Link | Description | Author | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
 | ⬜️ Fillomino + Skyscrapers | [Janko](https://www.janko.at/Raetsel/Varianten/070.a.htm) | A number at the edge of the diagram indicates how many areas you see when you look into the diagram at the relevant point and take each number as the height of the building. | [ Grant Fikes ] | [RQT'D] | [RQT'D] |
 | ⬜️ Fillomino + Nurikabe | None | Some fields are marked with a circle. No area may contain more than one field with a circle. All areas with circles correspond to white Nurikabe areas; all other fields correspond to black Nurikabe fields. | [ Palmer Mebane ] | [RQT'D] | [RQT'D] |
@@ -99,13 +99,13 @@ Sources:
 <br />
 
 #### ブロックパズル / Burokku variant ([Janko](https://www.janko.at/Raetsel/Burokku/index.htm))
-| Title | Link | Description | Author | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
 | ⬜️ No Title | None | Instead of letters, numbers or any other symbols can also be used; Kanji (Chinese characters) are also used in Japan. | ❎ | [RQT'D] | [RQT'D] |
 <br />
 
 #### へやわけ / Heyawake variants ([Janko](https://www.janko.at/Raetsel/Heyawake/index.htm))
-| Title | Link | Description | Author | [✝️+A 🇺🇸] | [✝️+A 🇯🇵] |
+| Title | Link | Description | Author | ✝️+A 🇺🇸 | ✝️+A 🇯🇵 |
 | - | - | - | - | - | - |
 | ⬜️ Heyawacky | None | The original rules only provide for rectangular areas; at Heyawacky, the areas can be shaped as desired. Since there are no other rule changes, Heyawacky is integrated into Heyawake. | ❎ | [RQT'D] | [RQT'D] |
 | ⬜️ AYE-Heya (∀ 人 ∃ＨＥＹＡ) or "human" (人) | [Janko](https://www.janko.at/Raetsel/AYE-Heya/index.htm) | The black fields must be arranged symmetrically in each area with respect to the center of the area. The strange name plays with the mathematical symbols "for everyone" ( ∀ ) and "it exists" ( ∃ ) as well as the Kanji for "human" (人): "There is a room for every human being". | ❎ | [RQT'D] | [RQT'D] |
