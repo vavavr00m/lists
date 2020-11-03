@@ -15,6 +15,7 @@
 * [Privacy Tools List](https://privacytoolslist.com/)
 * [PRISM Break](https://prism-break.org/en/)
 * [Droid-Break](https://droid-break.info/)
+* [How to join private trackers](https://uploadir.com/u/khd576y4) ([WBM](https://web.archive.org/web/20200929111605/https://uploadir.com/u/khd576y4))
 
 # resources
 
