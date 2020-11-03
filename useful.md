@@ -284,3 +284,8 @@ CHAR(202)," "),
 ```
 
 <br />
+
+#### [Filter with REGEXMATCH in Google sheet to filter out containing text in cells](https://stackoverflow.com/a/58284353)
+```
+=IF(TEXTJOIN( , 1, C3:C)<>"", FILTER(A2:A, REGEXMATCH(LOWER(A2:A), TEXTJOIN("|", 1, LOWER(C3:C)))), "no input")
+```
