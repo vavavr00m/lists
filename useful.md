@@ -67,3 +67,220 @@ TEXTJOIN("/ ",TRUE,
 ```
 
 <br />
+
+#### [Removing everything but emojis in javascript for google sheets script](https://stackoverflow.com/questions/48755842/removing-everything-but-emojis-in-javascript-for-google-sheets-script)
+```
+=REGEXREPLACE(cell or range,"[[:print:]]","")
+```
+
+<br />
+
+#### [Find and Replace emojis in Google Sheets](https://stackoverflow.com/questions/43501740/find-and-replace-emojis-in-google-sheets)
+```
+=ARRAYFORMULA(REGEXREPLACE(range,"[\x{1F300}-\x{1F64F}]|[\x{2702}-\x{27B0}]|[\x{1F68}-\x{1F6C}]|[\x{1F30}-\x{1F70}]|[\x{2600}-\x{26ff}]|[\x{D83C}-\x{DBFF}\x{DC00}-\x{DFFF}]",""))
+```
+
+<br />
+
+#### [How Search and Find Emojis on Sheets](https://stackoverflow.com/questions/53883089/how-search-and-find-emojis-on-sheets)
+```
+=ARRAYFORMULA(REGEXREPLACE(range,"[^[:ascii:]]",))
+```
+
+<br />
+
+#### TEXTJOIN only Emojis from a range
+```
+=REGEXREPLACE(TEXTJOIN("",0,range),"[[:print:]]","")
+```
+or
+```
+=REGEXREPLACE(TEXTJOIN("",0,range),"[[:ascii:]]","")
+```
+
+<br />
+
+#### EN Alphanumeric only - remove ascii/emoji / non-English characters
+```
+=REGEXREPLACE(
+LOWER(CLEAN(TRIM(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
+cell,
+CHAR(127)," "),
+CHAR(129)," "),
+CHAR(141)," "),
+CHAR(143)," "),
+CHAR(144)," "),
+CHAR(157)," "),
+CHAR(160)," "),
+CHAR(202)," "),
+"!"," "),
+"@"," "),
+"#"," "),
+"$"," "),
+"%"," "),
+"^"," "),
+"&"," "),
+"*"," "),
+"("," "),
+")"," "),
+"?"," "),
+"/"," "),
+"‐"," "),
+"−"," "),
+"_"," "),
+"+"," "),
+"="," "),
+"{"," "),
+"["," "),
+"}"," "),
+"]"," "),
+"|"," "),
+"\"," "),
+":"," "),
+";"," "),
+""""," "),
+"<"," "),
+">"," "),
+","," "),
+"."," "),
+"⟨"," "),
+"⟩"," "),
+"、"," "),
+" ‒ "," "),
+"‒"," "),
+"–"," "),
+"—"," "),
+"―"," "),
+"…"," "),
+"⋯"," "),
+"᠁"," "),
+"ฯ"," "),
+"‹"," "),
+"›"," "),
+"«"," "),
+"»"," "),
+"⧸"," "),
+"⁄"," "),
+"·"," "),
+"‱"," "),
+"•"," "),
+"†"," "),
+"‡"," "),
+"⹋"," "),
+"‘"," "),
+"’"," "),
+"“"," "),
+"”"," "),
+"°"," "),
+"〃"," "),
+"¡"," "),
+"¿"," "),
+"※"," "),
+"×"," "),
+"•"," "),
+"№"," "),
+"÷"," "),
+"º"," "),
+"ª"," "),
+"‰"," "),
+"¶"," "),
+"±"," "),
+"∓"," "),
+"′"," "),
+"″"," "),
+"‴"," "),
+"§"," "),
+"~"," "),
+"‖"," "),
+"¦"," "),
+"©"," "),
+"🄯"," "),
+"℗"," "),
+"®"," "),
+"℠"," "),
+"™"," "),
+"¤"," "),
+"؋"," "),
+"​₳"," "),
+"฿"," "),
+"₿"," "),
+"₵"," "),
+"¢"," "),
+"₡"," "),
+"₢"," "),
+"₠"," "),
+"​₫"," "),
+"​₻"," "),
+"​₯"," "),
+"​֏"," "),
+"₠"," "),
+"​€"," "),
+"ƒ"," "),
+"​₣"," "),
+"​₶"," "),
+"​₷"," "),
+"₲"," "),
+"₴"," "),
+"₭"," "),
+"₺"," "),
+"​₾"," "),
+"​₼"," "),
+"​ℳ"," "),
+"​ℛℳ"," "),
+"​​₥"," "),
+"​₦"," "),
+"​₧"," "),
+"​₱"," "),
+"​₰"," "),
+"​₴"," "),
+"​£"," "),
+"元"," "),
+"​圆"," "),
+"​圓"," "),
+"﷼ "," "),
+"​៛"," "),
+"₽"," "),
+"​​₹"," "),
+"₨"," "),
+"​₪"," "),
+"৳"," "),
+"₸"," "),
+"₮"," "),
+"​₩"," "),
+"¥"," "),
+"​​円"," "),
+"৲"," "),
+"৹"," "),
+"৻"," "),
+"𐆚"," "),
+"𐆖"," "),
+"𐆙"," "),
+"𐆗"," "),
+"𐆘"," "),
+"߾"," "),
+"߿"," "),
+"𞲰"," "),
+"⁂"," "),
+"❧"," "),
+"☞"," "),
+"‽"," "),
+"⸮"," "),
+"◊"," "),
+"⁀"," "),
+"،"," ")
+)))
+,"[^[:ascii:]]",)
+```
+
+<br />
