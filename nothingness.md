@@ -27,75 +27,75 @@
 <br /> ⌛ [pfblockerng.xlsx](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8QuQcZSM-8N493sgW_JdedMQSO5Fa94K9m6KWc2jguc2lAdVXpj7uEw8ELefbKuIHP6WVyFjK_Kqr/pubhtml?gid=1109697854&single=true) 
 <br /> ✔️ [jkrejcha's AdmiraList](https://github.com/jkrejcha/AdmiraList) 
 
-### facebook
+facebook
 <br /> ✔️ [Blocking Facebook Messenger](https://support.opendns.com/hc/en-us/community/posts/220025967-Blocking-Facebook-Messenger) 
 
-### youtube
+youtube
 <br /> ✔️ [How to block Youtube entirely from a device?](https://support.google.com/youtube/thread/14607026?hl=en) 
 <br /> ✔️ [Blocking Youtube for the Kids on ALL devices, as well as other undesirable content…](https://www.d7xtech.com/blocking-youtube-for-the-kids-on-all-devices-as-well-as-other-undesirable-content/) 
 <br /> ✔️ [View YouTube Videos With YouTube's IP Address](https://www.lifewire.com/ip-address-of-youtube-818157) 
-<br /> ✔️ [How to BLOCK YOUTUBE without blocking other sites?](https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites) </ br>
+<br /> ✔️ [How to BLOCK YOUTUBE without blocking other sites?](https://community.sophos.com/xg-firewall/f/discussions/83944/how-to-block-youtube-without-blocking-other-sites)
 
-### smarttv
+smarttv
 <br /> ✔️ [Perflyst's Smart-TV Blocklist for Pi-hole](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) 
 
-### tiktok
+tiktok
 <br /> ✔️ [How to block TikTok app on PTCL ADSL WIFI router using IP addresses?](https://grumpygeekwrites.wordpress.com/2019/08/08/how-to-block-tiktok-app-on-ptcl-adsl-wifi-router-using-ip-addresses/) 
 <br /> ✔️ [How to Block TikTok App on WiFi Network Router? (Easy Steps)](https://www.digitbin.com/block-tiktok-app-router/) 
 <br /> ✔️ [How to block the TikTok app on the router?](https://www.pcwrt.com/2020/08/how-to-block-the-tiktok-app-on-the-router/) 
 <br /> ✔️ [Block Youtube and TikTok App on Smartphones and Tablets](https://www.reddit.com/r/HomeNetworking/comments/b1q2yr/block_youtube_and_tiktok_app_on_smartphones_and/) 
 
-### deception
+deception
 <br /> ✔️ [Melissa Zimdars' False, Misleading, Clickbait-y, and Satirical “News” Sources](https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/) or [Block Clickbait News](https://github.com/profimler/block-clickbait-news) 
 
-### tornodes
+tornodes
 <br /> ✔️ [Tor Node List](https://www.dan.me.uk/torlist/) 
 
-### phorm
+phorm
 <br /> ✔️ [Dephormation](https://www.dephormation.org.uk/?page=2) 
 
-### privatetrackers
+privatetrackers
 <br /> ⌛ [HDVinnie's Private Trackers Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet) 
 
-### publictrackers
+publictrackers
 <br /> ⌛ [ngosang's trackerslist](https://github.com/ngosang/trackerslist) 
 
-### sns
+sns
 <br /> ⌛ [21 Top Social Media Sites to Consider for Your Brand](https://buffer.com/library/social-media-sites/) 
 
-### 💬
+💬
 <br /> ⌛ [Wikipedia: List of chat websites](https://en.wikipedia.org/wiki/List_of_chat_websites) 
 
-### 👫
+👫
 <br /> ⌛ [The best online dating sites for geeks, nerds, sci-fi buffs, and more](https://mashable.com/roundup/best-dating-sites-for-geeks-nerds/) 
 <br /> ⌛ [The best dating sites and apps](https://www.telegraph.co.uk/women/sex/the-20-best-online-dating-websites/) 
 
-### proxy/anonymizers
+proxy/anonymizers
 <br /> ⌛ [ProxyDB](http://proxydb.net/) 
 <br /> ⌛ [clarketm's proxy-list](https://github.com/clarketm/proxy-list) 
 
-### vpn
+vpn
 <br /> ⌛ [VPNGate](https://www.vpngate.net/en/) & [mirrors](https://www.vpngate.net/en/sites.aspx) 
 
 ## keywords
 
-### gender
+gender
 <br /> ✔️ [The Complete List of All Genders](https://www.wattpad.com/341462536-complete-list-of-genders-the-complete-list-of-all) 
 
-### mania/obsession
+mania/obsession
 <br /> ✔️ [Word List: Definitions of Mania Words and Obsessions](http://phrontistery.info/mania.html) 
 
-### love/kinks/fetishes/paraphilia/~philia
+love/kinks/fetishes/paraphilia/~philia
 <br /> ✔️ [Word List: Definitions of Words for Love, Fondness and Preference](http://phrontistery.info/love.html) 
 <br /> ✔️ [the mega sex list](https://github.com/clemclemmm/TheMegaSexList) 
 <br /> ✔️ [List of Kinks and Fetishes](https://badgirlsbible.com/list-of-kinks-and-fetishes) or [Archive.org](https://web.archive.org/web/20200930090545/https://badgirlsbible.com/list-of-kinks-and-fetishes) 
 <br /> ✔️ [The most ADVANCED list of kinks and fetishes](https://www.makemoneyadultcontent.com/list-of-kinks-and-fetishes/) 
 <br /> ✔️ [List of Kinks: Definitions of The Most Common & Popular Kinks (100+)](https://www.kinktest.org/list-of-kinks-the-definitions-of-most-commonpopular-kinks.html) 
 
-### rhetorics
+rhetorics
 <br /> ⌛ [Silva Rhetoricae](http://rhetoric.byu.edu/) 
 
-### profanities
+profanities
 <br /> ⌛ Facebook 
 <br /> ⌛ Instagram 
 <br /> ⌛ [Google](https://github.com/RobertJGabriel/Google-profanity-words) 
@@ -105,10 +105,10 @@
 <br /> ⌛ Tumblr 
 <br /> ⌛ LinkedIN 
 
-### link shorteners
+link shorteners
 * no list found yet 
 
-### regex
+regex
 <br /> ✅ https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list 
 <br /> ✅ https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/ 
 <br /> ✅ https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/ 
@@ -316,7 +316,7 @@ LF good FOSS alternative:
   Document-related
   <br /> ⬜️ [ABBYY FineReader PDF](https://pdf.abbyy.com/) (Commercial) or [Adobe Acrobat DC Pro Continuous Track](https://acrobat.adobe.com/sea/en/acrobat/acrobat-pro.html) (Commercial)
   <br /> ⬜️ ~~[Microsoft Office](https://www.office.com) (Commercial)~~ > [LibreOffice](https://www.libreoffice.org) ([Source](https://gerrit.libreoffice.org/))
-  <br /> ⬜️ [Typora](https://typora.io/) ❓ <br /> 📃 
+  <br /> ⬜️ [Typora](https://typora.io/) ❓📃 
 
   Customization
   <br /> ⬜️ [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)
@@ -474,7 +474,7 @@ LF good Windows alternative:
 <br /> ⬜️ [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
 <br /> ⬜️ [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
   
-### subscriptions
+ subscriptions
 
 hosts:
 * [4skinSkywalker's Anti Porn Hosts File](https://github.com/4skinSkywalker/anti-porn-hosts-file) ([Raw](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt))
@@ -507,13 +507,13 @@ Others:
 * CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
 * AdmiralJS ([Source](https://github.com/anon182739/admiraljs))
 
-### Legend
-<br /> ❓ = (?) = unknown source
+Legend
+❓ = (?) = unknown source
 <br /> ⌛ = pending task
 <br /> ✔️ = done
 <br /> ⬜️ = - [ ] = interested
 <br /> ✅ = - [x] = owned
 <br /> 📃 = description
-<br /> 🦊 = Firefox
-<br /> 💬 = chat
-<br /> 👫 = dating
+🦊 = Firefox
+💬 = chat
+👫 = dating
