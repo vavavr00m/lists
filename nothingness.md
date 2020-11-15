@@ -474,7 +474,7 @@ LF good Windows alternative:
 <br /> ⬜️ [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
 <br /> ⬜️ [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
   
- subscriptions
+subscriptions
 
 hosts:
 * [4skinSkywalker's Anti Porn Hosts File](https://github.com/4skinSkywalker/anti-porn-hosts-file) ([Raw](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt))
@@ -508,12 +508,12 @@ Others:
 * AdmiralJS ([Source](https://github.com/anon182739/admiraljs))
 
 Legend
-❓ = (?) = unknown source
+<br /> ❓ = (?) = unknown source
 <br /> ⌛ = pending task
 <br /> ✔️ = done
 <br /> ⬜️ = - [ ] = interested
 <br /> ✅ = - [x] = owned
 <br /> 📃 = description
-🦊 = Firefox
-💬 = chat
-👫 = dating
+<br /> 🦊 = Firefox
+<br /> 💬 = chat
+<br /> 👫 = dating
