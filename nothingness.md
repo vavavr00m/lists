@@ -3,6 +3,7 @@
 
 * [What every Browser knows about you](https://webkay.robinlinus.com/)
 * [The ultimate Online Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/)
+  * [Data Collection Techniques](https://www.whonix.org/wiki/Data_Collection_Techniques)
   * [CSS Exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
   * [Test Popup Blocker](https://webbrowsertools.com/popup-blocker/)
   * [ClearURLs Test Page](https://test.clearurls.xyz/)
