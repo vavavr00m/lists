@@ -260,6 +260,7 @@ Windows
 * [SubtitleEdit](https://www.nikse.dk/SubtitleEdit/) ([Source](https://github.com/SubtitleEdit/subtitleedit))
 * FanControl ([Source](https://github.com/Rem0o/FanControl.Releases))
 * [Types](https://ystr.github.io/types/) ([Source](https://ystr.github.io/types/Types.7z))
+* [Locale Emulator](https://pooi.moe/Locale-Emulator/) ([Source](https://github.com/xupefei/Locale-Emulator))
 
 Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
