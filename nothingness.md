@@ -195,7 +195,7 @@ Windows
 * [WSUS Offline Update](https://www.wsusoffline.net/) ([Source](https://svn.wsusoffline.net/svn/wsusoffline/)) or [ABC Update](https://abc-update.com/ABC-update/) (Free)
 * [TronScript](https://www.reddit.com/r/TronScript/) ([Script is FOSS](https://github.com/bmrf/tron) but is composed of closed & open source)
 * [Kodi](https://kodi.tv/) ([Source](https://github.com/xbmc/xbmc))
-* [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Original Source](https://github.com/ytdl-org/youtube-dl), DMCA'd) ([GL fork by Superleaf1995](https://gitlab.com/Superleaf1995/youtube-dl)) ([GH fork by l1ving](https://github.com/l1ving/youtube-dl))
+* [YouTube-DL](http://ytdl-org.github.io/youtube-dl/) ([Source](https://github.com/ytdl-org/youtube-dl))
 * Persepolis ([Source](https://github.com/persepolisdm/persepolis))
 * [ExifTool](https://exiftool.org/) ([Source](https://github.com/exiftool/exiftool)) + [ExifCleaner](https://exifcleaner.com/) ([Source](https://github.com/szTheory/exifcleaner))
 * dottorrent-gui ([Source](https://github.com/kz26/dottorrent-gui))
@@ -211,7 +211,6 @@ Windows
 * [QuickLook](https://pooi.moe/QuickLook/) ([Source](https://github.com/QL-Win/QuickLook))
 * [Ryochan7's fork of DS4Windows](http://ds4windows.com/) ([Source](https://github.com/Ryochan7/DS4Windows))
 * [Rainmeter](https://www.rainmeter.net/) ([Source](https://github.com/rainmeter/rainmeter))
-* [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
 * [BleachBit](https://www.bleachbit.org/) ([Source](https://github.com/bleachbit/bleachbit)) or [Eraser](https://eraser.heidi.ie/) ([Source](https://sourceforge.net/projects/eraser/))
 * [xLights](https://xlights.org/) ([Source](https://github.com/smeighan/xLights)) or [Vixen Lights](http://www.vixenlights.com/) ([Source](https://github.com/VixenLights/Vixen))
 * [G'MIC](https://gmic.eu/) ([Source](https://github.com/dtschump/gmic))
@@ -223,7 +222,6 @@ Windows
 * [RawTherapee](https://rawtherapee.com/) ([Source](https://github.com/Beep6581/RawTherapee))
 * [Snap2HTML](https://www.rlvision.com/snap2html/about.php) ([Source](https://github.com/rlv-dan/Snap2HTML))
 * [QuasselIRC](https://quassel-irc.org/) ([Source](https://github.com/quassel/quassel))
-* EarTrumpet ([Source](https://github.com/File-New-Project/EarTrumpet))
 * [7z](https://www.7-zip.org/) ([Non-official Source](https://github.com/kornelski/7z))
 * [Anki](https://apps.ankiweb.net/) ([Source](https://github.com/ankitects/anki))
 * Cerebro ([Source](https://github.com/KELiON/cerebro)) or [Wox](http://www.wox.one) ([Source](https://github.com/Wox-launcher/Wox))
@@ -239,7 +237,6 @@ Windows
 * [Shotcut](https://www.shotcut.org/) ([Source](https://github.com/mltframework/shotcut))
 * [Sigil](https://sigil-ebook.com/) ([Source](https://github.com/Sigil-Ebook/Sigil/))
 * [Stellarium](https://stellarium.org/) ([Source](https://github.com/Stellarium/stellarium/))
-* [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
 * [Taiga](https://taiga.moe/) ([Source](https://github.com/erengy/taiga))
 * [Searx](https://searx.me/) ([Source](https://github.com/searx/searx)) + SearX-Qt ([Source](https://notabug.org/CYBERDEViL/searx-qt)) + [YaCy](https://yacy.net/) ([Source](https://github.com/yacy/yacy_search_server))
 * [Zotero](https://www.zotero.org/) ([Source](https://github.com/zotero/zotero))
@@ -290,6 +287,30 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
+  Streaming Setup
+  <br /> ⬜️ [Krisp](https://krisp.ai/) (Freemium)
+  <br /> ⬜️ [Open Joystick Display](http://kernelzechs.com/open-joystick-display/) ([Source, Discontinued](https://github.com/KernelZechs/open-joystick-display))
+  <br /> ⬜️ [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
+  <br /> ⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
+  <br /> ⬜️ [Touch Portal](https://www.touch-portal.com/) (Freemium)
+  <br /> ⬜️ [Room EQ Wizard](http://www.roomeqwizard.com/) (?)
+  <br /> ⬜️ [Snap Camera](https://snapcamera.snapchat.com/) (Free)
+  <br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://store.steampowered.com/app/274920/FaceRig/) (Commercial) or [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror)) or [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture)) or [VirtualCast](https://store.steampowered.com/app/947890/VirtualCast/) (Free)
+  <br /> ⬜️ [CyberLink YouCam 9](https://www.cyberlink.com/products/youcam/features_en_US.html) (Commercial) or [ManyCam](https://manycam.com/) (Freemium, crashes FaceRig)
+  * [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
+  * Equalizer APO ([Source](https://sourceforge.net/projects/peace-equalizer-apo-extension/)) & Peace ([Source](https://sourceforge.net/projects/peace-equalizer-apo-extension/))
+  * [Open Broadcaster Software - OBS Studio](https://obsproject.com/) ([Source](https://github.com/obsproject/obs-studio))
+    * [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) ([Source](https://github.com/WarmUpTill/SceneSwitcher))
+    * [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/) ([Source](https://github.com/Xaymar/obs-streamfx))
+    * [OBS Transition Matrix](https://obsproject.com/forum/resources/obs-transition-matrix.751/) ([Source](https://github.com/admshao/obs-transition-matrix))
+    * [OBS Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) ([Source](https://github.com/Fenrirthviti/obs-virtual-cam))
+    * [Source Switcher](https://github.com/exeldro/obs-source-switcher) ([Source](https://github.com/exeldro/obs-source-switcher))
+    * [Tuna](https://obsproject.com/forum/resources/tuna.843/) ([Source](https://github.com/univrsal/tuna))
+    * [Virtual Cam Filter](https://obsproject.com/forum/resources/virtual-cam-filter.1142/) ([Source](https://github.com/exeldro/obs-virtual-cam-filter))
+    * [VNC Source](https://obsproject.com/forum/resources/vnc-source.1000/) ([Source](https://github.com/norihiro/obs-vnc))
+  * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
+  * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
+
 LF good FOSS alternative:
       
   Reading
@@ -299,8 +320,10 @@ LF good FOSS alternative:
   <br /> ✅ [LaunchBox](https://www.launchbox-app.com/) (Freemium) > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend)) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
   
   Game-related
-  <br /> ⬜️ [TyranoBuilder Visual Novel Studio](https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/) (Commercial)
-
+  <br /> ✅ [TyranoBuilder Visual Novel Studio](https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/) (Commercial)
+  <br /> ✅ [Visual Novel Maker + Live2D DLC](https://store.steampowered.com/app/495480/Visual_Novel_Maker/)
+  <br /> ✅ [001 Game Creator](https://store.steampowered.com/app/347400/001_Game_Creator/) (Commercial)
+  
   SysAdmin
   <br /> ⬜️ [BatchPatch](https://batchpatch.com/) (Commercial)
   <br /> ⬜️ [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
@@ -368,10 +391,7 @@ LF good FOSS alternative:
   <br /> ⬜️ [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: ([1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)) ([2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm))
 
   Audio-related
-  <br /> ⬜️ [Krisp](https://krisp.ai/) (Freemium)
   <br /> ⬜️ [MusicBee](https://www.getmusicbee.com/) (Free Personal)
-  <br /> ⬜️ [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
-  <br /> ⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
 
   Graphics-related
   <br /> ⬜️ [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
@@ -439,6 +459,9 @@ LF good FOSS alternative:
   Games
   <br /> ⬜️ ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ > [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
   <br /> ✅ [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
+  <br /> ✅ [Enter The Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/) (Commercial)
+  <br /> ✅ [Ikaruga](https://store.steampowered.com/app/253750/Ikaruga/) (Commercial)
+  <br /> ✅ [Sine Mora Ex](https://store.steampowered.com/app/606730/Sine_Mora_EX/) (Commercial)
   <br /> ✅ [Super Mario Maker 2 for Switch](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/) (Commercial)
   <br /> ✅ [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) (Commercial) + 42 DLCs
   <br /> ✅ [Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/) (Commercial)
