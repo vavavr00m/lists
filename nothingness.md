@@ -293,11 +293,20 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
   <br /> ⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware)
   <br /> ⬜️ [Touch Portal](https://www.touch-portal.com/) (Freemium)
+    * [Voicemeeter Pickel+](https://www.christophecvb.com/touch-portal/plugins/voicemeeter/)
+    * [LifX](https://www.christophecvb.com/touch-portal/plugins/lifx/)
+    * [MusicBee](https://www.christophecvb.com/touch-portal/plugins/musicbee/)
+    * [OBS Extended](https://www.christophecvb.com/touch-portal/plugins/obs-extended/) or [Streamlabs](https://www.christophecvb.com/touch-portal/plugins/streamlabs/)
+    * [SoundBox](https://www.christophecvb.com/touch-portal/plugins/soundbox/)
+    * [Soundpad](https://www.christophecvb.com/touch-portal/plugins/soundpad/)
+    * [Weather](https://www.christophecvb.com/touch-portal/plugins/weather/)
   <br /> ⬜️ [Room EQ Wizard](http://www.roomeqwizard.com/) (?)
   <br /> ⬜️ [Snap Camera](https://snapcamera.snapchat.com/) (Free)
   <br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://store.steampowered.com/app/274920/FaceRig/) (Commercial) or [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror)) or [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture)) or [VirtualCast](https://store.steampowered.com/app/947890/VirtualCast/) (Free)
   <br /> ⬜️ [CyberLink YouCam 9](https://www.cyberlink.com/products/youcam/features_en_US.html) (Commercial) or [ManyCam](https://manycam.com/) (Freemium, crashes FaceRig)
-  * [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
+  <br /> ⬜️ [Droid Cam](https://www.dev47apps.com/)
+  <br /> ⬜️ [Irium](https://iriun.com/)
+* [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
   * Equalizer APO ([Source](https://sourceforge.net/projects/peace-equalizer-apo-extension/)) & Peace ([Source](https://sourceforge.net/projects/peace-equalizer-apo-extension/))
   * [Open Broadcaster Software - OBS Studio](https://obsproject.com/) ([Source](https://github.com/obsproject/obs-studio))
     * [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) ([Source](https://github.com/WarmUpTill/SceneSwitcher))
@@ -308,8 +317,14 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
     * [Tuna](https://obsproject.com/forum/resources/tuna.843/) ([Source](https://github.com/univrsal/tuna))
     * [Virtual Cam Filter](https://obsproject.com/forum/resources/virtual-cam-filter.1142/) ([Source](https://github.com/exeldro/obs-virtual-cam-filter))
     * [VNC Source](https://obsproject.com/forum/resources/vnc-source.1000/) ([Source](https://github.com/norihiro/obs-vnc))
+    * [OBS Ninja](https://obs.ninja/)
   * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
   * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
+  
+  Streaming non-software:
+  <br /> ⬜️ [Loupedeck CT and Travel Case](https://loupedeck.com/en/accessories/loupedeck-ct-and-travel-case-bundle)
+  <br /> ⬜️ [HTC Vive Cosmos](https://www.vive.com/eu/product/vive-cosmos/) or [Steam Valve Index VR Kit](https://store.steampowered.com/valveindex)
+  <br /> ⬜️ motion capture suit
 
 LF good FOSS alternative:
       
