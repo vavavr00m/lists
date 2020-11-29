@@ -318,6 +318,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
     * [Dynamic Delay](https://obsproject.com/forum/resources/dynamic-delay.1035/) ([Source](https://github.com/exeldro/obs-dynamic-delay))
     * [Freeze Filter](https://obsproject.com/forum/resources/freeze-filter.950/) ([Source](https://github.com/exeldro/obs-freeze-filter))
     * [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/) ([Source](https://github.com/Xaymar/obs-streamfx))
+    * [LioranBoard Stream Deck/Animator](https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/)
     * [Mini Padder](https://obsproject.com/forum/resources/mini-padder.944/) ([Source](https://github.com/Dinir/mini-padder))
     * [Move Transition](https://obsproject.com/forum/resources/move-transition.913/) ([Source](https://github.com/exeldro/obs-move-transition))
     * [NohBoard](https://obsproject.com/forum/threads/nohboard.12637/) ([Source](https://github.com/ThoNohT/NohBoard))
