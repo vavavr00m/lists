@@ -311,6 +311,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   * [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
   <br /> ⬜️ [Soundpad](https://www.leppsoft.com/soundpad/en/home/) (Commercial) [Steam](https://store.steampowered.com/app/629520/Soundpad/) (Commercial)
   <br /> ⬜️ SoundBox (?)
+  <br /> ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Commercial)
   * Equalizer APO ([Source](https://sourceforge.net/projects/peace-equalizer-apo-extension/)) (?) & Peace ([Source](https://sourceforge.net/projects/peace-equalizer-apo-extension/))
   * [Open Broadcaster Software - OBS Studio](https://obsproject.com/) ([Source](https://github.com/obsproject/obs-studio))
     * [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) ([Source](https://github.com/WarmUpTill/SceneSwitcher))
@@ -371,7 +372,6 @@ LF good FOSS alternative:
   <br /> ⬜️ [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
   <br /> ⬜️ [moo0 Right Clicker Pro](https://www.moo0.com/software/RightClicker/) (Commercial)
   <br /> ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
-  <br /> ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Freemium)
   <br /> ⬜️ [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
 
   File sharing/syncing
