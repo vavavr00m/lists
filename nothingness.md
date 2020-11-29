@@ -290,7 +290,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   Streaming Setup
   <br /> ⬜️ [Krisp](https://krisp.ai/) (Freemium)
   <br /> ⬜️ [Open Joystick Display](http://kernelzechs.com/open-joystick-display/) ([Source, Discontinued](https://github.com/KernelZechs/open-joystick-display))
-  <br /> ⬜️ [Virtual Audio Cable](https://vac.muzychenko.net/en/index.htm) (Commercial) or [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
+  <br /> ⬜️ [Virtual Audio Cable](https://vac.muzychenko.net/en/index.htm) (Commercial) & [VAC Helper](https://obsproject.com/forum/resources/vac-helper-virtual-audio-cable-macro-maker.88/) (Free) or [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
   <br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter))
   <br /> ⬜️ [Touch Portal](https://www.touch-portal.com/) (Freemium) [PlayStore](https://play.google.com/store/apps/details?id=rils.apps.touchportal) (Freemium)
     * [Voicemeeter Pickel+](https://www.christophecvb.com/touch-portal/plugins/voicemeeter/) (Free)
