@@ -292,7 +292,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [Open Joystick Display](http://kernelzechs.com/open-joystick-display/) ([Source, Discontinued](https://github.com/KernelZechs/open-joystick-display))
   <br /> ⬜️ [Virtual Audio Cable](https://vac.muzychenko.net/en/index.htm) (Commercial) or [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
   <br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter))
-  <br /> ⬜️ [Touch Portal](https://www.touch-portal.com/) (Freemium)
+  <br /> ⬜️ [Touch Portal](https://www.touch-portal.com/) (Freemium) [PlayStore](https://play.google.com/store/apps/details?id=rils.apps.touchportal) (Freemium)
     * [Voicemeeter Pickel+](https://www.christophecvb.com/touch-portal/plugins/voicemeeter/) (Free)
     * [LifX](https://www.christophecvb.com/touch-portal/plugins/lifx/) (Free)
     * [MusicBee](https://www.christophecvb.com/touch-portal/plugins/musicbee/) (Free)
@@ -307,7 +307,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [DroidCamX](https://www.dev47apps.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx) (Commercial / Ad-supported free version available) & DroidCam OBS [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam) (Freemium)
   <br /> ⬜️ [Iriun 4K Webcam for PC and Mac](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam) (Freemium) & 	
 [Iriun VR headset](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.iriun.vr.openvr) (Free)
-  <br /> ⬜️ [Voicemod](https://www.voicemod.net/) (Freemium)
+  <br /> ✅ [Voicemod](https://www.voicemod.net/) (Freemium)
   * [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
   <br /> ⬜️ [Soundpad](https://www.leppsoft.com/soundpad/en/home/) (Commercial) [Steam](https://store.steampowered.com/app/629520/Soundpad/) (Commercial)
   <br /> ⬜️ SoundBox (?)
