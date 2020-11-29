@@ -321,16 +321,19 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
     * [Mini Padder](https://obsproject.com/forum/resources/mini-padder.944/) ([Source](https://github.com/Dinir/mini-padder))
     * [Move Transition](https://obsproject.com/forum/resources/move-transition.913/) ([Source](https://github.com/exeldro/obs-move-transition))
     * [NohBoard](https://obsproject.com/forum/threads/nohboard.12637/) ([Source](https://github.com/ThoNohT/NohBoard))
-    * [OBS Settings Manager](https://obsproject.com/forum/resources/obs-settings-manager.496/) ([Source](https://github.com/exeldro/obs-freeze-filter))
+    * [OBS Settings Manager](https://obsproject.com/forum/resources/obs-settings-manager.496/) ([Source](https://github.com/razorlikes/OBS_Settings_Manager))
     * [OBS Transition Matrix](https://obsproject.com/forum/resources/obs-transition-matrix.751/) ([Source](https://github.com/admshao/obs-transition-matrix))
     * [OBS Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) ([Source](https://github.com/Fenrirthviti/obs-virtual-cam))
+    * [PiloteOBS](https://obsproject.com/forum/resources/piloteobs-exe.838/) ([Source](https://github.com/RuiDosSantos/ObsPilote))
+    * [Rachni](https://obsproject.com/forum/resources/rachni-private-streaming-platform-front-end.439/) ([Source](https://github.com/Fenrirthviti/stream-site))
+    * [Recursion Effect](https://obsproject.com/forum/resources/recursion-effect.1008/) ([Source](https://github.com/exeldro/obs-recursion-effect))
     * [Source Switcher](https://github.com/exeldro/obs-source-switcher) ([Source](https://github.com/exeldro/obs-source-switcher))
     * [Tuna](https://obsproject.com/forum/resources/tuna.843/) ([Source](https://github.com/univrsal/tuna))
     * [Virtual Cam Filter](https://obsproject.com/forum/resources/virtual-cam-filter.1142/) ([Source](https://github.com/exeldro/obs-virtual-cam-filter))
     * [VNC Source](https://obsproject.com/forum/resources/vnc-source.1000/) ([Source](https://github.com/norihiro/obs-vnc))
   * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
   * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
-  
+    
   Streaming non-software:
   <br /> ⬜️ [Loupedeck CT and Travel Case](https://loupedeck.com/en/accessories/loupedeck-ct-and-travel-case-bundle)
   <br /> ⬜️ [HTC Vive Cosmos](https://www.vive.com/eu/product/vive-cosmos/) or [Steam Valve Index VR Kit](https://store.steampowered.com/valveindex)
