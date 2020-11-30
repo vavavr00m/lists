@@ -294,12 +294,12 @@ Streaming Setup
 <br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or [Dante Via](https://www.audinate.com/products/software/dante-via) (Commercial)~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter)) or 
 <br /> ⬜️ [Room EQ Wizard](http://www.roomeqwizard.com/) (?)
 <br /> ⬜️ [Snap Camera](https://snapcamera.snapchat.com/) (Free)
-<br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://store.steampowered.com/app/274920/FaceRig/) (Commercial) or [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror)) or [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture)) or [VirtualCast](https://store.steampowered.com/app/947890/VirtualCast/) (Free)
+<br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://store.steampowered.com/app/274920/FaceRig/) (Commercial) or [Luppet](https://luppet.appspot.com/) (Commercial) or [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror)) or [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture)) or [VirtualCast](https://store.steampowered.com/app/947890/VirtualCast/) (Free)
 <br /> ⬜️ [CyberLink YouCam 9](https://www.cyberlink.com/products/youcam/features_en_US.html) (Commercial) or [ManyCam](https://manycam.com/) (Freemium, crashes FaceRig)
 <br /> ⬜️ [DroidCamX](https://www.dev47apps.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx) (Commercial / Ad-supported free version available) & DroidCam OBS [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam) (Freemium) or [OBS Ninja](https://obs.ninja/) (Browser-based)
 <br /> ⬜️ [Iriun 4K Webcam for PC and Mac](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam) (Freemium) & 	
 [Iriun VR headset](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.iriun.vr.openvr) (Free)
-<br /> ✅ [Voicemod](https://www.voicemod.net/) (Freemium)
+<br /> ✅ [Voicemod](https://www.voicemod.net/) (Freemium) or [Reaper](https://www.reaper.fm/) (Commercial) or [ReaPlugs](https://www.reaper.fm/reaplugs/) (Free)
 <br /> ⬜️ [Soundpad](https://www.leppsoft.com/soundpad/en/home/) (Commercial) [Steam](https://store.steampowered.com/app/629520/Soundpad/) (Commercial)
 <br /> ⬜️ SoundBox (?)
 <br /> ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Commercial)
