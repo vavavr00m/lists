@@ -333,6 +333,7 @@ Streaming Setup
   * [OBS Thrift API](https://obsproject.com/forum/resources/obs-thrift-api.1003/) ([Source](https://github.com/pashkal/obs-video-scheduler))
   * [OBS Transition Matrix](https://obsproject.com/forum/resources/obs-transition-matrix.751/) ([Source](https://github.com/admshao/obs-transition-matrix))
   * [OBS Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) ([Source](https://github.com/Fenrirthviti/obs-virtual-cam))
+  * [obs-websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) ([Source](https://github.com/Palakis/obs-websocket))
   * [OpenVR input plugin](https://obsproject.com/forum/resources/openvr-input-plugin.534/) ([Source](https://github.com/baffler/OBS-OpenVR-Input-Plugin))
   * [PiloteOBS](https://obsproject.com/forum/resources/piloteobs-exe.838/) ([Source](https://github.com/RuiDosSantos/ObsPilote))
   * [Rachni](https://obsproject.com/forum/resources/rachni-private-streaming-platform-front-end.439/) ([Source](https://github.com/Fenrirthviti/stream-site))
