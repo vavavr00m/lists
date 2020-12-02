@@ -328,6 +328,7 @@ Streaming Setup
   * [Multiple RTMP outputs plugin](https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/) ([Source](https://github.com/sorayuki/obs-multi-rtmp)) or [OBS Settings Manager](https://obsproject.com/forum/resources/obs-settings-manager.496/) ([Source](https://github.com/razorlikes/OBS_Settings_Manager))
   * [Input Overlay](https://obsproject.com/forum/resources/input-overlay.552/) ([Source](https://github.com/univrsal/input-overlay)) or [NohBoard](https://obsproject.com/forum/threads/nohboard.12637/) ([Source](https://github.com/ThoNohT/NohBoard))
   * [OBS Kinect (with faux green screen)](https://obsproject.com/forum/resources/obs-kinect-with-faux-green-screen.897/) ([Source](https://github.com/SirLynix/obs-kinect))
+  * [obs-ndi](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) ([Source](https://github.com/Palakis/obs-ndi))
   * [OBS-RTSPServer](https://obsproject.com/forum/resources/obs-rtspserver.1037/) ([Source](https://github.com/iamscottxu/obs-rtspserver/))
   * [OBS Shaderfilter](https://obsproject.com/forum/resources/obs-shaderfilter.775/) ([Source](https://github.com/Oncorporation/obs-shaderfilter/)) or [Custom Effect](https://obsproject.com/forum/resources/custom-effect.871/) ([Source](https://github.com/firepolo/CustomEffects))
   * [OBS Thrift API](https://obsproject.com/forum/resources/obs-thrift-api.1003/) ([Source](https://github.com/pashkal/obs-video-scheduler))
