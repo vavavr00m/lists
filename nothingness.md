@@ -365,14 +365,16 @@ Streaming Setup
 <br /> ⬜️ [Luppet](https://luppet.appspot.com/) (Commercial)
 <br /> ⬜️ [PrprLive](https://prprlive.peacha.net/) [Steam](https://store.steampowered.com/app/1279610/PrprLive/) (Free w/ Commercial DLCs)
 <br /> ⬜️ [SUVA - StreamUrVirtualAvatar](https://guribo.itch.io/suva) (Commercial)
-<br /> ⬜️ [VDraw](https://sites.google.com/view/vdraw/) (Trialware & Commercial)
+<br /> ⬜️ [VDraw](https://sites.google.com/view/vdraw/) [Booth](https://booth.pm/en/items/939389) (Trialware) / [Booth - Ogulabo] (https://ogulabo.booth.pm/items/940071) (Commercial)
 <br /> ⬜️ [VirtualCast](https://virtualcast.jp/) [Steam](https://store.steampowered.com/app/947890/VirtualCast/) (Free) / [Oculus Quest](https://www.oculus.com/experiences/quest/4174249979259348/) (Free)
+<br /> ⬜️ [VirtualMotionCapture](https://vmc.info/) [Booth](https://booth.pm/en/items/999760) ([Source](https://github.com/sh-akira/VirtualMotionCapture))
 <br /> ⬜️ [VUP](https://www.vlivemax.com/) [Steam](https://store.steampowered.com/app/1207050/VUPVTuber_Maker_Animation_MMDLive2D__facial_capture/) (Freemium)
 <br /> ⬜️ [VRoid Studio](https://vroid.com/en/studio) (Freemium)
+<br /> ⬜️ [VRoid VRM Wear Changer](https://booth.pm/ja/items/1278062) (Donationware)
 <br /> ⬜️ [VSeeFace](https://www.vseeface.icu/) (Free)
 <br /> ⬜️ [Tracking World](http://deatrathias.net/TW/) (Free)
 <br /> ⬜️ [Wakaru](http://wakaru.eyeyokotta.com/) [Steam](https://store.steampowered.com/app/870820/Wakaru_ver_beta/) (Free)
-* [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror))
+* [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) [Booth](https://booth.pm/ja/items/1272298) (Donationware) / ([Source](https://github.com/malaybaku/VMagicMirror))
 * [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture))
   Mobile:
 <br /> ⬜️ [Custom Cast] [PlayStore](https://play.google.com/store/apps/details?id=jp.customcast.cc2) [AppStore](https://apps.apple.com/us/app/custom-cast/id1436588949) (Freemium)
@@ -380,7 +382,7 @@ Streaming Setup
 <br /> ⬜️ [Vroid Studio](https://vroid.com/en/studio/) [PlayStore](https://play.google.com/store/apps/details?id=net.pixiv.vroid.android) (Freemium) / [AppStore](https://apps.apple.com/jp/app/id1469346321) (Freemium)
 <br /> ⬜️ [VTube Studio](https://denchi.itch.io/vtube-studio) [PlayStore](https://play.google.com/store/apps/details?id=com.denchi.vtubestudio) [AppStore](https://apps.apple.com/us/app/vtube-studio/id1511435444) (Freemium)
 <br /> ⬜️ [Puppemoji](https://www.puppemoji.com/) [AppStore](https://itunes.apple.com/us/app/puppemoji/id1356037355) (Free)
-* [Waidayo](https://booth.pm/en/items/1779185) ([Source](https://github.com/nmchan/waidayo)) / [AppStore](https://apps.apple.com/us/app/waidayo/id1513166077) (Free)
+* Waidayo ([Source](https://github.com/nmchan/waidayo)) / [AppStore](https://apps.apple.com/us/app/waidayo/id1513166077) (Free) / [Booth](https://booth.pm/ja/items/1779185) (Donationware)
 
   Twitch-specific
 * [WooferBot](https://wooferbot.com/) [2](https://obsproject.com/forum/resources/wooferbot.858/) ([Source](https://github.com/tomaae/WooferBot))
