@@ -294,7 +294,6 @@ Streaming Setup
 <br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or [Dante Via](https://www.audinate.com/products/software/dante-via) (Commercial)~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter)) or 
 <br /> ⬜️ [Room EQ Wizard](http://www.roomeqwizard.com/) (?)
 <br /> ⬜️ [Snap Camera](https://snapcamera.snapchat.com/) (Free)
-<br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://store.steampowered.com/app/274920/FaceRig/) (Commercial) or [Luppet](https://luppet.appspot.com/) (Commercial) or [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror)) or [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture)) or [VirtualCast](https://store.steampowered.com/app/947890/VirtualCast/) (Free)
 <br /> ⬜️ [CyberLink YouCam 9](https://www.cyberlink.com/products/youcam/features_en_US.html) (Commercial) or [ManyCam](https://manycam.com/) (Freemium, crashes FaceRig)
 <br /> ⬜️ [DroidCamX](https://www.dev47apps.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx) (Commercial / Ad-supported free version available) & DroidCam OBS [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam) (Freemium) or [OBS Ninja](https://obs.ninja/) (Browser-based)
 <br /> ⬜️ [Iriun 4K Webcam for PC and Mac](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam) (Freemium) & 	
@@ -352,6 +351,28 @@ Streaming Setup
 * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
 * [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
+
+  Vtube-specific
+  Windows:
+<br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://store.steampowered.com/app/274920/FaceRig/) (Commercial)
+<br /> ⬜️ [Live2D Cubism](https://www.live2d.com/en/) (Freemium)
+<br /> ⬜️ [Live2DViewerEX](http://live2d.pavostudio.com/doc/en-us/) [Steam](https://store.steampowered.com/app/616720/Live2DViewerEX/) (Commercial) / [PlayStore](https://play.google.com/store/apps/details?id=com.pavostudio.live2dviewerex) (Ad-supported free version)
+<br /> ⬜️ [Live3D VTuber Maker](https://live3d.io/vtuber_maker) [Steam](https://store.steampowered.com/app/1368950/VTuber_Maker/) (Free)
+<br /> ⬜️ [Live3D VTuber Editor](https://live3d.io/) (Coming soon)
+<br /> ⬜️ [Luppet](https://luppet.appspot.com/) (Commercial)
+<br /> ⬜️ [PrprLive](https://prprlive.peacha.net/) (Steam) (Free w/ Commercial DLCs)
+<br /> ⬜️ [VirtualCast](https://store.steampowered.com/app/947890/VirtualCast/) (Free)
+<br /> ⬜️ [VRoid Studio](https://vroid.com/en/studio) (Freemium)
+<br /> ⬜️ [VSeeFace](https://www.vseeface.icu/) (Free)
+<br /> ⬜️ [Wakaru](http://wakaru.eyeyokotta.com/) [Steam](https://store.steampowered.com/app/870820/Wakaru_ver_beta/) (Free)
+* [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Source](https://github.com/malaybaku/VMagicMirror))
+* [VirtualMotionCapture](https://vmc.info/) ([Source](https://github.com/sh-akira/VirtualMotionCapture))
+  Mobile:
+<br /> ⬜️ [Custom Cast] [PlayStore](https://play.google.com/store/apps/details?id=jp.customcast.cc2) [AppStore](https://apps.apple.com/us/app/custom-cast/id1436588949) (Freemium)
+<br /> ⬜️ [VKatsu](http://vkatsu.jp/) [Steam](https://store.steampowered.com/app/856620/V__VKatsu/) (Free) / [PlayStore](https://play.google.com/store/apps/details?id=jp.ivr.vkatsu) (Free) / [AppStore](https://itunes.apple.com/jp/app/v%E3%82%AB%E3%83%84/id1429338134) (Free)
+<br /> ⬜️ [VTube Studio](https://denchi.itch.io/vtube-studio) [PlayStore](https://play.google.com/store/apps/details?id=com.denchi.vtubestudio) [AppStore](https://apps.apple.com/us/app/vtube-studio/id1511435444) (Freemium)
+<br /> ⬜️ [Puppemoji](https://www.puppemoji.com/) [AppStore](https://itunes.apple.com/us/app/puppemoji/id1356037355) (Free)
+
 
   Twitch-specific
 * [WooferBot](https://wooferbot.com/) [2](https://obsproject.com/forum/resources/wooferbot.858/) ([Source](https://github.com/tomaae/WooferBot))
