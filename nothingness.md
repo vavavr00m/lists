@@ -383,7 +383,7 @@ Streaming Setup
 <br /> ⬜️ [Puppemoji](https://www.puppemoji.com/) ([AppStore](https://itunes.apple.com/us/app/puppemoji/id1356037355)) (Free)
 * Waidayo ([Source](https://github.com/nmchan/waidayo)) / ([AppStore](https://apps.apple.com/us/app/waidayo/id1513166077)) (Free) / ([Booth](https://booth.pm/ja/items/1779185)) (Donationware)
 <br />
-<br />  Twitch-specific
+  Twitch-specific
 * [WooferBot](https://wooferbot.com/) [2](https://obsproject.com/forum/resources/wooferbot.858/) ([Source](https://github.com/tomaae/WooferBot))
 * [Vicaption Camera — Enhance your live streams](https://obsproject.com/forum/resources/vicaption-camera-%E2%80%94-enhance-your-live-streams.459/) (?)
 <br />
@@ -391,7 +391,7 @@ Streaming Setup
 <br /> ⬜️ [Loupedeck CT and Travel Case](https://loupedeck.com/en/accessories/loupedeck-ct-and-travel-case-bundle)
 <br /> ⬜️ [HTC Vive Cosmos](https://www.vive.com/eu/product/vive-cosmos/) or [Steam Valve Index VR Kit](https://store.steampowered.com/valveindex)
 <br /> ⬜️ motion capture suit
-
+<br />
 LF good FOSS alternative:
       
   Reading
