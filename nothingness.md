@@ -117,7 +117,7 @@ regex
 
 ## tools
 
-Chrome Extensions
+### Chrome Extensions
 * [ClearURLS](https://clearurls.xyz/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)) ([Source](https://gitlab.com/KevinRoebert/ClearUrls))
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) ([Chrome Web Store](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo)) ([Source](https://github.com/mlgualtieri/CSS-Exfil-Protection))
 * [Decentraleyes](https://decentraleyes.org/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)) ([Source](https://git.synz.io/Synzvato/decentraleyes)) or [LocalCDN](https://www.localcdn.org/) ([Unofficial Chrome Web Store](https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd)) ([Source](https://codeberg.org/nobody/LocalCDN))
@@ -139,7 +139,7 @@ Chrome Extensions
 * Web Archives ([Chrome Web Store](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)) ([Source](https://github.com/dessant/web-archives))
 * [Webpage Screenshot](https://1ce.org/1click-webpage-screenshot/overview) ([Chrome Web Store](https://chrome.google.com/webstore/detail/webpage-screenshot-entire/akgpcdalpfphjmfifkmfbpdmgdmeeaeo)) ([Source](https://github.com/1click-extensions/1click-webpage-screenshot))
 
-LF good FOSS alternative:
+### LF good FOSS alternative:
 <br /> ⬜️ [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free) 
 <br /> ⬜️ CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial) 
 <br /> ⬜️ [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free) 
@@ -148,7 +148,7 @@ LF good FOSS alternative:
 <br /> ⬜️ [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free) 
 <br /> ⬜️ [Simple Blocker](https://simpleblocker.com/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)) (Free) 
 
-LF good Chrome alternative:
+### LF good Chrome alternative:
  <br /> ⬜️ Forget Me Not ([🦊](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/)) ([Source](https://github.com/Lusito/forget-me-not))
  <br /> ⬜️ Temporary Containers ([🦊](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)) ([Source](https://github.com/stoically/temporary-containers))
  <br /> ⬜️ Conex ([🦊](https://addons.mozilla.org/en-US/firefox/addon/conex/)) ([Source](https://github.com/kesselborn/conex))
@@ -156,7 +156,7 @@ LF good Chrome alternative:
  <br /> ⬜️ Firefox Multi-Account Containers ([🦊](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)) ([Source](https://github.com/mozilla/multi-account-containers)) + Facebook Container ([🦊](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)) ([Source](https://github.com/mozilla/contain-facebook))
  <br /> ⬜️ [Snowflake](https://trac.torproject.org/projects/tor/wiki/doc/Snowflake) ([🦊](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/)) ([Source](https://gitweb.torproject.org/pluggable-transports/snowflake.git))
 
-Windows
+### Windows
 * ControlUWP ([Source](https://github.com/builtbybel/control-uwp))
 * [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) ([Source](https://github.com/builtbybel/privatezilla)) + [Bloatbox](https://www.builtbybel.com/ms-apps/bloatbox) ([Source](https://github.com/builtbybel/bloatbox)) or [SharpApp](https://www.mirinsoft.com/ms-apps/sharpapp) ([Source](https://github.com/builtbybel/sharpapp)) or [privacy.sexy](https://privacy.sexy/) ([Source](https://github.com/undergroundwires/privacy.sexy)) / Read: ([1](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/))
 * [Hard Configurator](https://hard-configurator.com) ([Source](https://github.com/AndyFul/Hard_Configurator))
@@ -259,7 +259,7 @@ Windows
 * [Types](https://ystr.github.io/types/) ([Source](https://ystr.github.io/types/Types.7z))
 * [Locale Emulator](https://pooi.moe/Locale-Emulator/) ([Source](https://github.com/xupefei/Locale-Emulator))
 
-Self-hosted
+#### Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
 * [Organizr](https://organizr.app) ([Source](https://github.com/causefx/Organizr))
@@ -287,7 +287,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
 
-Streaming Setup
+#### Streaming Setup
 <br /> ⬜️ [Krisp](https://krisp.ai/) (Freemium)
 <br /> ⬜️ [Open Joystick Display](http://kernelzechs.com/open-joystick-display/) ([Source, Discontinued](https://github.com/KernelZechs/open-joystick-display))
 <br /> ⬜️ [Virtual Audio Cable](https://vac.muzychenko.net/en/index.htm) (Commercial) & [VAC Helper](https://obsproject.com/forum/resources/vac-helper-virtual-audio-cable-macro-maker.88/) (Free) or [Dante Virtual Soundcard](https://www.audinate.com/products/software/dante-virtual-soundcard) (Commercial) or [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
@@ -352,8 +352,9 @@ Streaming Setup
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
 * [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
 
-  Vtube-specific (Article(s): [1](https://web.archive.org/web/*/https://medium.com/@hyprsense/how-to-become-a-virtual-youtuber-influencer-7074b852fb9) [2](https://web.archive.org/web/*/https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources))
-  Windows:
+##### Vtube-specific (Article(s): ([1](https://web.archive.org/web/*/https://medium.com/@hyprsense/how-to-become-a-virtual-youtuber-influencer-7074b852fb9)) ([2](https://web.archive.org/web/*/https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources))
+
+###### Windows:
 <br /> ⬜️ [3tene](http://en.3tene.com/) ([Steam](https://store.steampowered.com/app/871170/3tene/))
 <br /> ✅ [FaceRig + Live2D module + 9 avatar DLCs](https://facerig.com) ([Steam](https://store.steampowered.com/app/274920/FaceRig/)) (Commercial)
 <br /> ⬜️ [Hitogata](https://sites.google.com/site/vhitogata/) (Free)
@@ -375,37 +376,38 @@ Streaming Setup
 <br /> ⬜️ [Wakaru](http://wakaru.eyeyokotta.com/) ([Steam](https://store.steampowered.com/app/870820/Wakaru_ver_beta/)) (Free)
 * [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) ([Booth](https://booth.pm/ja/items/1272298)) (Donationware) / ([Source](https://github.com/malaybaku/VMagicMirror))
 * [VirtualMotionCapture](https://vmc.info/) ([Booth](https://booth.pm/ja/items/999760)) (Donationware) / ([Source](https://github.com/sh-akira/VirtualMotionCapture))
-<br />  Mobile:
+
+###### Mobile:
 <br /> ⬜️ Custom Cast ([PlayStore](https://play.google.com/store/apps/details?id=jp.customcast.cc2)) ([AppStore](https://apps.apple.com/us/app/custom-cast/id1436588949)) (Freemium)
 <br /> ⬜️ [VKatsu](http://vkatsu.jp/) ([Steam](https://store.steampowered.com/app/856620/V__VKatsu/)) (Free) / ([PlayStore](https://play.google.com/store/apps/details?id=jp.ivr.vkatsu)) (Free) / ([AppStore](https://itunes.apple.com/jp/app/v%E3%82%AB%E3%83%84/id1429338134)) (Free)
 <br /> ⬜️ [Vroid Studio](https://vroid.com/en/studio/) ([PlayStore](https://play.google.com/store/apps/details?id=net.pixiv.vroid.android)) (Freemium) / ([AppStore](https://apps.apple.com/jp/app/id1469346321)) (Freemium)
 <br /> ⬜️ [VTube Studio](https://denchi.itch.io/vtube-studio) ([PlayStore](https://play.google.com/store/apps/details?id=com.denchi.vtubestudio)) / ([AppStore](https://apps.apple.com/us/app/vtube-studio/id1511435444)) (Freemium)
 <br /> ⬜️ [Puppemoji](https://www.puppemoji.com/) ([AppStore](https://itunes.apple.com/us/app/puppemoji/id1356037355)) (Free)
 * Waidayo ([Source](https://github.com/nmchan/waidayo)) / ([AppStore](https://apps.apple.com/us/app/waidayo/id1513166077)) (Free) / ([Booth](https://booth.pm/ja/items/1779185)) (Donationware)
-<br />
-  Twitch-specific
-* [WooferBot](https://wooferbot.com/) [2](https://obsproject.com/forum/resources/wooferbot.858/) ([Source](https://github.com/tomaae/WooferBot))
+
+###### Twitch-specific:
+* [WooferBot](https://wooferbot.com) [2](https://obsproject.com/forum/resources/wooferbot.858) ([Source](https://github.com/tomaae/WooferBot))
 * [Vicaption Camera — Enhance your live streams](https://obsproject.com/forum/resources/vicaption-camera-%E2%80%94-enhance-your-live-streams.459/) (?)
-<br />
-<br />  Streaming non-software:
+
+###### Streaming non-software:
 <br /> ⬜️ [Loupedeck CT and Travel Case](https://loupedeck.com/en/accessories/loupedeck-ct-and-travel-case-bundle)
-<br /> ⬜️ [HTC Vive Cosmos](https://www.vive.com/eu/product/vive-cosmos/) or [Steam Valve Index VR Kit](https://store.steampowered.com/valveindex)
+<br /> ⬜️ [HTC Vive Cosmos](https://www.vive.com/eu/product/vive-cosmos) or [Steam Valve Index VR Kit](https://store.steampowered.com/valveindex)
 <br /> ⬜️ motion capture suit
-<br />
-LF good FOSS alternative:
-      
-  Reading
+
+#### LF good FOSS alternative:
+
+##### Reading
   <br /> ⬜️ [HDoujin Downloader](https://doujindownloader.com/) ([Modules Source](https://github.com/HDoujinDownloader/HDoujin-Downloader)) (Freemium)
 
-  Emulation
+##### Emulation
   <br /> ✅ [LaunchBox](https://www.launchbox-app.com/) (Freemium) > [Playnite](https://playnite.link/) ([Source](https://github.com/JosefNemec/Playnite/)) / [Pegasus](https://pegasus-frontend.org/) ([Source](https://github.com/mmatyas/pegasus-frontend)) / [BizHawk (for TAS)](http://tasvideos.org/Bizhawk.html) ([Source](https://github.com/TASVideos/BizHawk))
-  
-  Game-related
+
+##### Game-related
   <br /> ✅ [TyranoBuilder Visual Novel Studio](https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/) (Commercial)
   <br /> ✅ [Visual Novel Maker + Live2D DLC](https://store.steampowered.com/app/495480/Visual_Novel_Maker/)
   <br /> ✅ [001 Game Creator](https://store.steampowered.com/app/347400/001_Game_Creator/) (Commercial)
   
-  SysAdmin
+##### SysAdmin
   <br /> ⬜️ [BatchPatch](https://batchpatch.com/) (Commercial)
   <br /> ⬜️ [Devolutions Remote Desktop Enterprise](https://remotedesktopmanager.com/) (Commercial)
   <br /> ⬜️ [Devolutions Password Hub Platium](https://password.devolutions.net/) (Commercial) or [Devolutions Password Server Platinum](https://server.devolutions.net/) (Commercial)
@@ -413,18 +415,18 @@ LF good FOSS alternative:
   <br /> ⬜️ [SolarWinds Network Performance Monitor](https://www.solarwinds.com/network-performance-monitor) (Commercial)
   <br /> ⬜️ [VisualCron](https://www.visualcron.com/) (Commercial)
 
-  Map & Navigation-related
+##### Map & Navigation-related
   <br /> ⬜️ [Universal Maps Downloader](http://www.allmapsoft.com/umd/index.html) (Commercial)
 
-  Font-related
+##### Font-related
   <br /> ⬜️ [Universal Type Server](https://www.extensis.com/universal-type-server) (Commercial)
 
-  Document-related
+##### Document-related
   <br /> ⬜️ [ABBYY FineReader PDF](https://pdf.abbyy.com/) (Commercial) or [Adobe Acrobat DC Pro Continuous Track](https://acrobat.adobe.com/sea/en/acrobat/acrobat-pro.html) (Commercial)
   <br /> ⬜️ ~~[Microsoft Office](https://www.office.com) (Commercial)~~ > [LibreOffice](https://www.libreoffice.org) ([Source](https://gerrit.libreoffice.org/))
   <br /> ⬜️ [Typora](https://typora.io/) ❓📃 
 
-  Customization
+##### Customization
   <br /> ⬜️ [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)
   <br /> ⬜️ [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
   <br /> ⬜️ [Iristech Iris](https://iristech.co/iris/) (Commercial)
@@ -435,18 +437,18 @@ LF good FOSS alternative:
   <br /> ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
   <br /> ⬜️ [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
 
-  File sharing/syncing
+##### File sharing/syncing
   <br /> ⬜️ [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
   <br /> ⬜️ [SyncBackPro](https://www.2brightsparks.com/syncback/sbpro.html) (Freemium)
 
-  Communication
+##### Communication
   <br /> ⬜️ [Zoom](https://zoom.us/) (Freemium)
 
-  Marketing
+##### Marketing
   <br /> ⬜️ [Keyword Researcher Pro](https://clevergizmos.com/keyword-researcher/) (Commercial)
   <br /> ⬜️ [Visual SEO](https://visual-seo.com/) (Freemium) or [Netpeak Spider](https://netpeaksoftware.com/spider) (Commercial) or [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) (Commercial)
   
-  Automation/Batch/Productivity
+##### Automation/Batch/Productivity
   <br /> ⬜️ [Actual Window Manager](https://www.actualtools.com/windowmanager/) (Commercial)
   <br /> ⬜️ [Advanced Renamer](https://www.advancedrenamer.com/) (Free for Personal) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) (Free Personal)
   <br /> ⬜️ [ClickUp](https://clickup.com/) (Freemium SaaS)
@@ -457,7 +459,7 @@ LF good FOSS alternative:
   <br /> ⬜️ [Sharp World Clock](https://www.sharpworldclock.com/) (Commercial)
   <br /> ⬜️ [Perfect Keyboard](https://www.pitrinec.com/products/perfect-keyboard) (Freemium)
  
-  Security & Privacy-related
+##### Security & Privacy-related
   <br /> ⬜️ [AppGuard](https://www.blueridgenetworks.com/appguard/) (Commercial)
   <br /> ⬜️ [Bitvise SSH Server](https://www.bitvise.com/ssh-server) (Free Personal)
   <br /> ⬜️ [Bitvise SSH Client](https://www.bitvise.com/ssh-client) (Free Personal)
@@ -470,10 +472,10 @@ LF good FOSS alternative:
   <br /> ⬜️ [NoVirusThanks™ OSArmor](https://www.osarmor.com) (Free)
   <br /> ⬜️ [SysHardener](https://www.novirusthanks.org/products/syshardener/) (Freemium) / Read: ([1](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm)) ([2](https://www.techsupportalert.com/content/free-windows-desktop-software-security-list-system-hardening-and-protection.htm))
 
-  Audio-related
+##### Audio-related
   <br /> ⬜️ [MusicBee](https://www.getmusicbee.com/) (Free Personal)
 
-  Graphics-related
+##### Graphics-related
   <br /> ⬜️ [3D LUT Creator](https://3dlutcreator.com/) (Commercial)
   <br /> ⬜️ ~~[Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) (Commercial)~~ > [Inkscape](https://inkscape.org/) ([Source](https://github.com/inkscape/inkscape))
   <br /> ⬜️ [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) (Commercial)
@@ -510,25 +512,25 @@ LF good FOSS alternative:
   <br /> ⬜️ [Tamasoft Pop-Up Card Designer PRO](http://www.tamasoft.co.jp/craft/popupcard-pro_en/) (Commercial)
   <br /> ⬜️ ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
 
-  Story Sequencing
+##### Story Sequencing
   <br /> ⬜️ [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
   <br /> ⬜️ [Causality Story Sequencer](https://www.hollywoodcamerawork.com/causality.html) (Commercial)
   <br /> ⬜️ [Toon Boom's Storyboard Pro](https://www.toonboom.com/products/storyboardpro) (Commercial)
 
-  Video-related
+##### Video-related
   <br /> ⬜️ [LRTimelapse Pro](https://lrtimelapse.com/) (Commercial)
   
-  Disc-related
+##### Disc-related
   <br /> ⬜️ [DVDFab All-in-One](https://www.dvdfab.cn/all-in-one.htm)
   
-  Presentation-related
+##### Presentation-related
   <br /> ⬜️ [RenewedVision ProPresenter](https://renewedvision.com/propresenter/) (Commercial)
   
-  Helpers
+##### Helpers
   <br /> ⬜️ ColorSchemer Studio (Discontinued)
   <br /> ⬜️ [LockHunter](https://lockhunter.com/) (Free)
 
-  Exam/Test/Puzzle/Course Maker/Generator
+##### Exam/Test/Puzzle/Course Maker/Generator
   <br /> ⬜️ [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
   <br /> ✅ [Cross+A](https://cross-a-plus.com/) (Commercial) / pzpr.js ([Source](https://github.com/sabo2/pzprjs/blob/master/docs/SupportedPuzzles.md)) & PUZ-PRE v3 ([Source](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
   <br /> ⬜️ [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
@@ -536,7 +538,7 @@ LF good FOSS alternative:
   <br /> ⬜️ [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
   <br /> ⬜️ [Schoolhouse Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
 
-  Games
+##### Games
   <br /> ⬜️ ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ > [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
   <br /> ✅ [Black Killer Queen](https://store.steampowered.com/app/663670/Killer_Queen_Black/) (Commercial)
   <br /> ✅ [Enter The Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/) (Commercial)
@@ -551,7 +553,7 @@ LF good FOSS alternative:
   * Sokoban YASC ([Source](https://sourceforge.net/projects/sokobanyasc/))
   * JSoko ([Source](https://sourceforge.net/projects/jsokoapplet/))
 
-  Addins/Add-ins/Plugins/Plug-ins
+##### Addins/Add-ins/Plugins/Plug-ins
   <br /> ⬜️ [Ablebits Ultimate Suite for Excel](https://www.ablebits.com/excel-suite/) (Commercial)
   <br /> ⬜️ [ExtendOffice Kutools for Excel](https://www.extendoffice.com/product/kutools-for-excel.html) (Commercial)
   <br /> ⬜️ [MathType by Wiris](http://www.wiris.com/mathtype) (Commercial)
@@ -568,10 +570,10 @@ LF good FOSS alternative:
     <br /> ⬜️ [AutoPortfolio Plug-in](http://www.evermap.com/autoportfolio.asp) (Commercial)
     <br /> ⬜️ [AutoDocSearch Plug-in](http://www.evermap.com/autodocsearch.asp) (Commercial)
 
-  [TBA]
+##### TBA
   <br /> ⬜️ [Esko Suite Server](https://www.esko.com/en/news-archive/2012/new-in-suite12) (Commercial)
 
-LF good Windows alternative:
+#### LF good Windows alternative:
 <br /> ⬜️ [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
 <br /> ✅ [Light DJ](https://lightdjapp.com/) (Commercial)
 <br /> ⬜️ ~~[Lightkey](https://www.lightkeyapp.com/en/) (Commercial)~~ > [QLC+](https://www.qlcplus.org/) ([Source](https://github.com/mcallegari/qlcplus)) or [DMXControl](https://www.dmxcontrol.org/en/) [GH org page](https://github.com/DMXControl)) / Read: ([1](https://www.reddit.com/r/lightingdesign/comments/48oqj6/i_need_a_good_usable_dmx_interface_for_my_macbook/))
@@ -579,9 +581,9 @@ LF good Windows alternative:
 <br /> ⬜️ [RenewedVision ProVideoServer (PVS)](https://renewedvision.com/provideoserver/) (Commercial)
 <br /> ⬜️ [RenewedVision ProPresenter Scoreboard](https://renewedvision.com/propresenter-scoreboard/) (Commercial) 
   
-subscriptions
+### subscriptions
 
-hosts:
+#### hosts:
 * [4skinSkywalker's Anti Porn Hosts File](https://github.com/4skinSkywalker/anti-porn-hosts-file) ([Raw](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt))
 * [Clefspeare13's pornhosts](https://github.com/Clefspeare13/pornhosts) ([Raw](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/strict/0.0.0.0/hosts))
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds/) ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt))
@@ -596,17 +598,17 @@ hosts:
 * [Shubam's Mobile Ads Block](https://gitlab.com/Shub_/mobile-ads-block/) ([Raw](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list))
 * [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
-AdBlock-style filters:
+#### AdBlock-style filters:
 * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) ([Raw](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt))
 
-AdGuard Home:
+#### AdGuard Home:
 * [Perflyst and Dandelion Sprout's Smart-TV Blocklist for AdGuard Home](https://github.com/Perflyst/PiHoleBlocklist) ([Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt))
 * [hl2guide's Filterlist for AdGuard](https://github.com/hl2guide/Filterlist-for-AdGuard) ([Raw](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt))
 
-RegEx filters:
+#### RegEx filters:
 * none yet
 
-Others:
+#### Others:
 * [carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
 * arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
 * CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
