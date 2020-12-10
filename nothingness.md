@@ -299,7 +299,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 <br /> ⬜️ [DroidCamX](https://www.dev47apps.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx) (Commercial / Ad-supported free version available) & DroidCam OBS [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam) (Freemium) or [OBS Ninja](https://obs.ninja/) (Browser-based)
 <br /> ⬜️ [Iriun 4K Webcam for PC and Mac](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam) (Freemium) & 	
 [Iriun VR headset](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.iriun.vr.openvr) (Free)
-<br /> ✅ [Voicemod](https://www.voicemod.net/) (Freemium) or [Reaper](https://www.reaper.fm/) (Commercial) or [ReaPlugs](https://www.reaper.fm/reaplugs/) (Free) or [](https://obsproject.com/forum/resources/vst-plugins.848/) ([Source](https://github.com/pkviet/obs-studio/releases))
+<br /> ✅ [Voicemod](https://www.voicemod.net/) (Freemium) or [AV Voice Changer Software Diamond](https://www.audio4fun.com/voice-changer.htm) (Commercial)
+<br /> ⬜️ [Reaper](https://www.reaper.fm/) (Commercial) or [ReaPlugs](https://www.reaper.fm/reaplugs/) (Free) or [](https://obsproject.com/forum/resources/vst-plugins.848/) ([Source](https://github.com/pkviet/obs-studio/releases))
 <br /> ⬜️ [Soundpad](https://www.leppsoft.com/soundpad/en/home/) (Commercial) [Steam](https://store.steampowered.com/app/629520/Soundpad/) (Commercial)
 <br /> ⬜️ SoundBox (?)
 <br /> ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Commercial)
