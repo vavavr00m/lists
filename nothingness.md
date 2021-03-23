@@ -295,6 +295,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 <br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or [Dante Via](https://www.audinate.com/products/software/dante-via) (Commercial)~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter)) or 
 <br /> ⬜️ [Room EQ Wizard](http://www.roomeqwizard.com/) (?)
 <br /> ⬜️ [Snap Camera](https://snapcamera.snapchat.com/) (Free)
+<br /> ⬜️ [AudioXout](https://chrome.google.com/webstore/detail/audioxout/eajkfkgkmngjbpckhidaichjnjiljbbl/) (Free) or [AudioPick](https://rain-fighters.github.io/AudioPick/) )[Chrome](https://chrome.google.com/webstore/detail/audiopick/gfhcppdamigjkficnjnhmnljljhagaha)) ([Source](https://github.com/rain-fighters/AudioPick))
 <br /> ⬜️ [CyberLink YouCam 9](https://www.cyberlink.com/products/youcam/features_en_US.html) (Commercial) or [ManyCam](https://manycam.com/) (Freemium, crashes FaceRig)
 <br /> ⬜️ [DroidCamX](https://www.dev47apps.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx) (Commercial / Ad-supported free version available) & DroidCam OBS [PlayStore](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam) (Freemium) or [OBS Ninja](https://obs.ninja/) (Browser-based)
 <br /> ⬜️ [Iriun 4K Webcam for PC and Mac](https://iriun.com/) [PlayStore](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam) (Freemium) & 	
