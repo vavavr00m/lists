@@ -292,7 +292,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 <br /> ⬜️ [Open Joystick Display](http://kernelzechs.com/open-joystick-display/) ([Source, Discontinued](https://github.com/KernelZechs/open-joystick-display))
 <br /> ~~⬜️ [Cantabile Performer](https://www.cantabilesoftware.com/) (Commercial) or~~ [Carla](https://kx.studio/carla) ([Source](https://github.com/falkTX/Carla))
 <br /> ⬜️ [Virtual Audio Cable](https://vac.muzychenko.net/en/index.htm) (Commercial) & [VAC Helper](https://obsproject.com/forum/resources/vac-helper-virtual-audio-cable-macro-maker.88/) (Free) or [Dante Virtual Soundcard](https://www.audinate.com/products/software/dante-virtual-soundcard) (Commercial) or [VB-CABLE](https://vb-audio.com/Cable/index.htm) (Donationware)
-<br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or [Dante Via](https://www.audinate.com/products/software/dante-via) (Commercial)~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter)) or 
+<br /> ~~⬜️ [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) (Donationware) or [Dante Via](https://www.audinate.com/products/software/dante-via) (Commercial) or [Hindenburg Journalist Pro](https://hindenburg.com/products/hindenburg-journalist-pro) (Commercial) or [Spreaker Studio](https://www.spreaker.com/podcast-recording-software) (Commercial) ~~ [Synchronous Audio Router](http://sar.audio/) ([Source](https://github.com/eiz/SynchronousAudioRouter))
 <br /> ⬜️ [Room EQ Wizard](http://www.roomeqwizard.com/) (?)
 <br /> ⬜️ [Snap Camera](https://snapcamera.snapchat.com/) (Free)
 <br /> ⬜️ [AudioXout](https://chrome.google.com/webstore/detail/audioxout/eajkfkgkmngjbpckhidaichjnjiljbbl/)) (Free) or [AudioPick](https://rain-fighters.github.io/AudioPick/)  ([Chrome](https://chrome.google.com/webstore/detail/audiopick/gfhcppdamigjkficnjnhmnljljhagaha)) ([Source](https://github.com/rain-fighters/AudioPick))
@@ -353,7 +353,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   * [Picture in Picture Instant Replay](https://obsproject.com/forum/resources/picture-in-picture-instant-replay.746/) ([Source](https://github.com/tomaae/obs-instant-replay))
 * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
-* [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid))
+* [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid)) or [Volume²](https://github.com/irzyxa/Volume2) (Free)
 
 ##### Vtube-specific (Article(s): ([1](https://web.archive.org/web/*/https://medium.com/@hyprsense/how-to-become-a-virtual-youtuber-influencer-7074b852fb9)) ([2](https://web.archive.org/web/*/https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources))
 
