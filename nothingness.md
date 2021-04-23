@@ -353,7 +353,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   * [Picture in Picture Instant Replay](https://obsproject.com/forum/resources/picture-in-picture-instant-replay.746/) ([Source](https://github.com/tomaae/obs-instant-replay))
 * [Streamlink](https://streamlink.github.io/) ([Source](https://github.com/streamlink/streamlink))
 * [Mixxx](https://mixxx.org/) ([Source](https://github.com/mixxxdj/mixxx))
-* [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid)) or [Volume²](https://github.com/irzyxa/Volume2) (Free)
+* [EarTrumpet](https://eartrumpet.app/) ([Source](https://github.com/File-New-Project/EarTrumpet)) or [Webcamoid](https://webcamoid.github.io/) ([Source](https://github.com/webcamoid/webcamoid)) or [Volume²](https://irzyxa.blogspot.com/) ([Partial Source](https://github.com/irzyxa/Volume2))
+* [Power Mixer](https://www.actualsolution.com/power-mixer/) (Commercial)
 
 ##### Vtube-specific (Article(s): ([1](https://web.archive.org/web/*/https://medium.com/@hyprsense/how-to-become-a-virtual-youtuber-influencer-7074b852fb9)) ([2](https://web.archive.org/web/*/https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources))
 
