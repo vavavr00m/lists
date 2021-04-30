@@ -515,6 +515,10 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [Tamasoft Pepakura Designer](https://tamasoft.co.jp/pepakura-en/) (Commercial)
   <br /> ⬜️ [Tamasoft Pop-Up Card Designer PRO](http://www.tamasoft.co.jp/craft/popupcard-pro_en/) (Commercial)
   <br /> ⬜️ ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
+  
+##### Lighting-related
+  <br /> ⬜️  [JackNet RGB Sync](https://rgbsync.com/) (Commercial)
+  <br /> ⬜️  [RGBeat](https://rgbeat.net/) (Commercial)
 
 ##### Story Sequencing
   <br /> ⬜️ [Aeon Timeline](https://www.aeontimeline.com) (Commercial)
