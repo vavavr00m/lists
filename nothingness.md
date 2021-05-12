@@ -517,7 +517,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
   
 ##### Lighting-related
-  <br /> ⬜️  [JackNet RGB Sync](https://rgbsync.com/) (Commercial)
+  <br /> ⬜️  [Artemis](https://artemis-rgb.com/) ([Source](https://github.com/Artemis-RGB/Artemis)) or OpenRGB ([Source](https://gitlab.com/CalcProgrammer1/OpenRGB)) or [Project Aurora](https://www.project-aurora.com/) ([Source](https://github.com/antonpup/Aurora)) [JackNet RGB Sync](https://rgbsync.com/) (Commercial)
   <br /> ⬜️  [RGBeat](https://rgbeat.net/) (Commercial)
 
 ##### Story Sequencing
@@ -637,7 +637,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * CCMaker
 * Adobe Acrobat Pro DC [x86](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html) [x64](https://helpx.adobe.com/acrobat/kb/download-64-bit-installer.html) (Commercial)
 * Adobe GenP
-* [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or WinRAR (Trialware)
+* [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or [WinRAR](https://rarlab.com) (Trialware)
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
 * qBittorrent themes
   * https://github.com/jagannatharjun/qbt-theme/
@@ -648,6 +648,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   * [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) ([Source](https://github.com/clauseggers/Playfair-Display))
   * [Raleway](https://fonts.google.com/specimen/Raleway)
   * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+* [VLC](https://www.videolan.org/) ([Source](https://github.com/videolan/vlc))
 
 Legend
 <br /> ❓ = (?) = unknown source
