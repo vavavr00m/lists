@@ -517,7 +517,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ ~~[Toom Boom's Harmony Premium](https://www.toonboom.com/harmony-animation-software) (Commercial)~~ > [OpenToonz](https://opentoonz.github.io/e/index.html) ([Source](https://github.com/opentoonz/opentoonz)) or [OpenToonz Morevna Edition](https://morevnaproject.org/opentoonz/) ([Source](https://github.com/morevnaproject-org/opentoonz))
   
 ##### Lighting-related
-  <br /> ⬜️  [Artemis](https://artemis-rgb.com/) ([Source](https://github.com/Artemis-RGB/Artemis)) or OpenRGB ([Source](https://gitlab.com/CalcProgrammer1/OpenRGB)) or [Project Aurora](https://www.project-aurora.com/) ([Source](https://github.com/antonpup/Aurora)) [JackNet RGB Sync](https://rgbsync.com/) (Commercial)
+  <br /> ⬜️  [Artemis](https://artemis-rgb.com/) ([Source](https://github.com/Artemis-RGB/Artemis)) or OpenRGB ([Source](https://gitlab.com/CalcProgrammer1/OpenRGB)) or [Project Aurora](https://www.project-aurora.com/) ([Source](https://github.com/antonpup/Aurora)) or [SignalRGB](https://www.whirlwindfx.com/pages/signalrgb) (Commercial w/ limited free version available) or [JackNet RGB Sync](https://rgbsync.com/) (Commercial)
   <br /> ⬜️  [RGBeat](https://rgbeat.net/) (Commercial)
 
 ##### Story Sequencing
