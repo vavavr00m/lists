@@ -625,6 +625,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 
 #### When things go south:
 * Universal MediaCreationTool wrapper for all MCT Windows 10 versions ([Source](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15))
+* [KMS_VL_ALL - Smart Activation Script](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/) ([Source](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj))
 * [NTLite](https://www.ntlite.com/) (Commercial)
 * [Rufus](https://rufus.ie/en_US/) ([Source](https://github.com/pbatard/rufus)) or [WinToUSB](https://www.easyuefi.com/wintousb/index.html) (Commercial with limited free version available)
 * [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
@@ -634,9 +635,15 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * Adobe GenP
 * [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or WinRAR (Trialware)
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
-* [qBittorrent themes](https://github.com/jagannatharjun/qbt-theme/)
+* qBittorrent themes
+  * https://github.com/jagannatharjun/qbt-theme/
+  * https://gitlab.com/qbittorrent-black-theme/client
 * [JDownloader](https://jdownloader.org/) (Freeware)
 * any browser
+* fonts
+  * [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) ([Source](https://github.com/clauseggers/Playfair-Display))
+  * [Raleway](https://fonts.google.com/specimen/Raleway)
+  * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 Legend
 <br /> ❓ = (?) = unknown source
