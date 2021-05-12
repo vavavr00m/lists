@@ -623,6 +623,19 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * CHEF-KOCH's NSABlocklist ([Source](https://github.com/Atavic/NSABlocklist))
 * AdmiralJS ([Source](https://github.com/anon182739/admiraljs))
 
+#### When things go south:
+* Universal MediaCreationTool wrapper for all MCT Windows 10 versions ([Source](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15))
+* [Rufus](https://rufus.ie/en_US/) ([Source](https://github.com/pbatard/rufus)) or [WinToUSB](https://www.easyuefi.com/wintousb/index.html) (Commercial with limited free version available)
+* [Office Tool Plus](https://otp.landian.vip/en-us/) ([Source](https://github.com/YerongAI/Office-Tool))
+* CCMaker
+* Adobe Acrobat Pro DC (Commercial)
+* Adobe GenP
+* [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or WinRAR (Trialware)
+* [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
+* [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
+* [JDownloader](https://jdownloader.org/) (Freeware)
+* any browser
+
 Legend
 <br /> ❓ = (?) = unknown source
 <br /> ⌛ = pending task
