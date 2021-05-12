@@ -625,14 +625,16 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 
 #### When things go south:
 * Universal MediaCreationTool wrapper for all MCT Windows 10 versions ([Source](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15))
+* [NTLite](https://www.ntlite.com/) (Commercial)
 * [Rufus](https://rufus.ie/en_US/) ([Source](https://github.com/pbatard/rufus)) or [WinToUSB](https://www.easyuefi.com/wintousb/index.html) (Commercial with limited free version available)
+* [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
 * [Office Tool Plus](https://otp.landian.vip/en-us/) ([Source](https://github.com/YerongAI/Office-Tool))
 * CCMaker
-* Adobe Acrobat Pro DC (Commercial)
+* Adobe Acrobat Pro DC [x86](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html) [x64](https://helpx.adobe.com/acrobat/kb/download-64-bit-installer.html) (Commercial)
 * Adobe GenP
 * [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or WinRAR (Trialware)
-* [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
+* [qBittorrent themes](https://github.com/jagannatharjun/qbt-theme/)
 * [JDownloader](https://jdownloader.org/) (Freeware)
 * any browser
 
