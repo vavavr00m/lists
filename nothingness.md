@@ -215,6 +215,7 @@ regex
 * [xLights](https://xlights.org/) ([Source](https://github.com/smeighan/xLights)) or [Vixen Lights](http://www.vixenlights.com/) ([Source](https://github.com/VixenLights/Vixen))
 * [G'MIC](https://gmic.eu/) ([Source](https://github.com/dtschump/gmic))
 * [Path Copy Copy](https://pathcopycopy.github.io/) ([Source](https://github.com/clechasseur/pathcopycopy))
+* SVG Viewer Extension for Windows Explorer ([Source](https://github.com/tibold/svg-explorer-extension))
 * [Quod Libet](https://quodlibet.readthedocs.io/en/latest/) ([Source](https://github.com/quodlibet/quodlibet))
 * [fsum frontend](http://fsumfe.sourceforge.net) ([Source](https://sourceforge.net/projects/fsumfe/))
 * [Citation Styles Language](https://citationstyles.org/) ([Source](https://github.com/citation-style-language/styles))
@@ -648,6 +649,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   * [Raleway](https://fonts.google.com/specimen/Raleway)
   * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * [VLC](https://www.videolan.org/) ([Source](https://github.com/videolan/vlc))
+* [Path Copy Copy](https://pathcopycopy.github.io/) ([Source](https://github.com/clechasseur/pathcopycopy))
+* SVG Viewer Extension for Windows Explorer ([Source](https://github.com/tibold/svg-explorer-extension))
 
 Legend
 <br /> ❓ = (?) = unknown source
