@@ -164,7 +164,7 @@ regex
 * Run By SmartScreen ([Source](https://github.com/AndyFul/Run-By-Smartscreen))
 * Watson ([Source](https://github.com/rasta-mouse/Watson)) / Read: ([1](https://medium.com/@markmotig/some-windows-hardening-with-free-tools-65bdddfcb3cd))
 * [AdGuard Family](https://adguard.com/en/license.html) (Freemium Open Source?)
-* [Certify](https://certifytheweb.com/) ([Freemium Open Source](https://github.com/webprofusion/certify)) or [lego](https://go-acme.github.io/lego/) ([Source](https://github.com/go-acme/lego)) / [acmetool]9(https://hlandau.github.io/acmetool/) ([Source](https://github.com/hlandau/acmetool))
+* [Certify](https://certifytheweb.com/) ([Freemium Open Source](https://github.com/webprofusion/certify)) or [lego](https://go-acme.github.io/lego/) ([Source](https://github.com/go-acme/lego)) / [acmetool](https://hlandau.github.io/acmetool/) ([Source](https://github.com/hlandau/acmetool))
 * [Technitium DNS Server](https://technitium.com/dns/) ([Source](https://github.com/TechnitiumSoftware/DnsServer)) or [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ([Source](https://github.com/AdguardTeam/AdGuardHome))
 * ProxySU ([Source](https://github.com/proxysu/windows))
 * [v2fly](https://www.v2fly.org/en_US/) ([Source](https://github.com/v2fly/v2ray-core))
@@ -215,6 +215,8 @@ regex
 * [xLights](https://xlights.org/) ([Source](https://github.com/smeighan/xLights)) or [Vixen Lights](http://www.vixenlights.com/) ([Source](https://github.com/VixenLights/Vixen))
 * [G'MIC](https://gmic.eu/) ([Source](https://github.com/dtschump/gmic))
 * [Path Copy Copy](https://pathcopycopy.github.io/) ([Source](https://github.com/clechasseur/pathcopycopy))
+* [MysticThumbs](https://mysticcoder.net/mysticthumbs.html) (Commercial)
+* [Icaros](https://shark007.net/tools.html) ([Forum](https://shark007.net/forum/Forum-Icaros-Development)) (Free)
 * SVG Viewer Extension for Windows Explorer ([Source](https://github.com/tibold/svg-explorer-extension))
 * [Quod Libet](https://quodlibet.readthedocs.io/en/latest/) ([Source](https://github.com/quodlibet/quodlibet))
 * [fsum frontend](http://fsumfe.sourceforge.net) ([Source](https://sourceforge.net/projects/fsumfe/))
@@ -439,7 +441,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [KbdEdit](http://www.kbdedit.com/) (Commercial)
   <br /> ⬜️ [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) (Free)
   <br /> ⬜️ [moo0 Right Clicker Pro](https://www.moo0.com/software/RightClicker/) (Commercial)
-  <br /> ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Freeware)
+  <br /> ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Free)
   <br /> ⬜️ [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
 
 ##### File sharing/syncing
