@@ -642,7 +642,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
   * https://github.com/jagannatharjun/qbt-theme/
   * https://gitlab.com/qbittorrent-black-theme/client
-* [JDownloader](https://jdownloader.org/) (Freeware)
+* [JDownloader](https://jdownloader.org/) (Free)
 * any browser
 * fonts
   * [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) ([Source](https://github.com/clauseggers/Playfair-Display))
@@ -651,6 +651,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * [VLC](https://www.videolan.org/) ([Source](https://github.com/videolan/vlc))
 * [Path Copy Copy](https://pathcopycopy.github.io/) ([Source](https://github.com/clechasseur/pathcopycopy))
 * SVG Viewer Extension for Windows Explorer ([Source](https://github.com/tibold/svg-explorer-extension))
+* [MysticThumbs](https://mysticcoder.net/mysticthumbs.html) (Commercial)
+* [Icaros](https://shark007.net/tools.html) ([Forum](https://shark007.net/forum/Forum-Icaros-Development)) (Free)
 
 Legend
 <br /> ❓ = (?) = unknown source
