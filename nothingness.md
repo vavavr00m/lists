@@ -658,6 +658,15 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * [MysticThumbs](https://mysticcoder.net/mysticthumbs.html) (Commercial)
 * [Icaros](https://shark007.net/tools.html) ([Forum](https://shark007.net/forum/Forum-Icaros-Development)) (Free)
 
+Deleters:
+
+  Facebook
+  * https://gist.github.com/nicprov/8e41e844cf7c0aa63952ec0708407309
+
+  Reddit
+  * Shreddit ([Source](https://github.com/pythonInRelay/Shreddit))
+  * Shreddit ([Source](https://github.com/nicprov/Shreddit))
+
 Legend
 <br /> ❓ = (?) = unknown source
 <br /> ⌛ = pending task
