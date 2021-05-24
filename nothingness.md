@@ -271,6 +271,7 @@ regex
 * SickChill ([Source](https://github.com/SickChill/SickChill))
 * Jackett ([Source](https://github.com/Jackett/Jackett/))
 * NZBHydra 2 ([Source](https://github.com/theotherp/nzbhydra2))
+* Prowlarr ([Source](https://github.com/Prowlarr/Prowlarr))
 * [Radarr](https://radarr.video) ([Source](https://github.com/Radarr/Radarr))
 * [Bazarr](https://www.bazarr.media) ([Source](https://github.com/morpheus65535/bazarr))
 * [Lidarr](https://lidarr.audio/) ([Source](https://github.com/Lidarr/Lidarr))
