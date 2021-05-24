@@ -265,7 +265,7 @@ regex
 #### Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
 * [Stikked](https://paste.scratchbook.ch/) ([Source](https://github.com/claudehohl/Stikked))
-* [Organizr](https://organizr.app) ([Source](https://github.com/causefx/Organizr))
+* [Organizr](https://organizr.app) ([Source](https://github.com/causefx/Organizr)) or Homer ([Source](https://github.com/bastienwirtz/homer)) + Homer Icons ([Source](https://github.com/NX211/homer-icons))
 * theme.park ([Source](https://github.com/gilbN/theme.park))
 * [Jellyfin](https://jellyfin.org/) ([Source](https://github.com/jellyfin/jellyfin))
 * SickChill ([Source](https://github.com/SickChill/SickChill))
@@ -290,6 +290,7 @@ regex
 Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](https://www.reddit.com/r/usenet/comments/jha124/i_made_a_website_to_keep_track_of_all_the_arr/))
 * rTorrent-PS ([Source](https://github.com/pyroscope/rtorrent-ps))
 * Meute ([Source](https://github.com/michielbdejong/meute))
+* Mealie ([Source](https://github.com/hay-kot/mealie))
 
 #### Streaming Setup
 <br /> ⬜️ [Krisp](https://krisp.ai/) (Freemium)
