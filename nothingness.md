@@ -592,6 +592,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 ##### TBA
   <br /> ⬜️ [Esko Suite Server](https://www.esko.com/en/news-archive/2012/new-in-suite12) (Commercial)
   <br /> ⬜️ [ModernCSV](https://www.moderncsv.com/) (Commercial)
+  <br /> ⬜️ [PC Info Pro](https://www.cobratek.net/apps/pc-info-pro) (Commercial)
 
 #### LF good Windows alternative:
 <br /> ⬜️ [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
