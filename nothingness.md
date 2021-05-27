@@ -180,7 +180,8 @@ regex
 * Sandboxie-Plus ([Source](https://github.com/sandboxie-plus/Sandboxie))
 * [Syncthing](https://syncthing.net/) ([Source](https://github.com/syncthing/syncthing))
 * [Node-Red](https://nodered.org/) ([Source](https://github.com/node-red/node-red))
-* [Atom](https://atom.io/) ([Source](https://github.com/atom/atom)) or [Notepad++](https://notepad-plus-plus.org/) ([Source](https://github.com/notepad-plus-plus/notepad-plus-plus))
+* [Atom](https://atom.io/) ([Source](https://github.com/atom/atom)) or [Notepad++](https://notepad-plus-plus.org/) ([Source](https://github.com/notepad-plus-plus/notepad-plus-plus)) or [QOwnNotes](https://www.qownnotes.org/) ([Source](https://github.com/pbek/QOwnNotes))
+* [ToDoList](http://www.abstractspoon.com/)
 * [Pulover's Macro Creator](https://www.macrocreator.com/) ([Source](https://github.com/Pulover/PuloversMacroCreator))
 * [Terminus](https://eugeny.github.io/terminus/) ([Source](https://github.com/Eugeny/terminus)) or [cmder](https://cmder.net/) ([Source](https://github.com/cmderdev/cmder))
 * [Keyman](https://keyman.com/) ([Source](https://github.com/keymanapp/keyman))
@@ -261,6 +262,7 @@ regex
 * FanControl ([Source](https://github.com/Rem0o/FanControl.Releases))
 * [Types](https://ystr.github.io/types/) ([Source](https://ystr.github.io/types/Types.7z))
 * [Locale Emulator](https://pooi.moe/Locale-Emulator/) ([Source](https://github.com/xupefei/Locale-Emulator))
+* [Qalculate](https://qalculate.github.io/) ([Source](https://github.com/Qalculate/libqalculate))
 
 #### Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
@@ -586,6 +588,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 
 ##### TBA
   <br /> ⬜️ [Esko Suite Server](https://www.esko.com/en/news-archive/2012/new-in-suite12) (Commercial)
+  <br /> ⬜️ [ModernCSV](https://www.moderncsv.com/) (Commercial)
 
 #### LF good Windows alternative:
 <br /> ⬜️ [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-overview/) (Commercial)
@@ -640,6 +643,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * [Rufus](https://rufus.ie/en_US/) ([Source](https://github.com/pbatard/rufus)) or [WinToUSB](https://www.easyuefi.com/wintousb/index.html) (Commercial with limited free version available)
 * [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
 * [Office Tool Plus](https://otp.landian.vip/en-us/) ([Source](https://github.com/YerongAI/Office-Tool))
+* [Registry Shortcuts](http://www.evilapp.com/product_pages/regshortcuts.html) (Free)
+* [StorURL](https://www.haztek-software.com/applications/storurl)
 * Adobe
   * CCMaker + [GenP](https://www.reddit.com/r/GenP/comments/ktxsxk/genp_guide_installation_and_cleanup/) + CCStopper ([Source](https://github.com/E-Soda/CCStopper)) or CC Clean Launcher ([Source](https://github.com/brian6932/CC-Clean-Launcher)) + HuTu Family Homescreen Fix
     * Captivate
