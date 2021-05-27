@@ -641,7 +641,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
 * [Office Tool Plus](https://otp.landian.vip/en-us/) ([Source](https://github.com/YerongAI/Office-Tool))
 * Adobe
-  * CCMaker + [GenP](https://www.reddit.com/r/GenP/) + [CCStopper] ([Source](https://github.com/E-Soda/CCStopper)) or CC Clean Launcher ([Source](https://github.com/brian6932/CC-Clean-Launcher))
+  * CCMaker + [GenP](https://www.reddit.com/r/GenP/comments/ktxsxk/genp_guide_installation_and_cleanup/) + [CCStopper] ([Source](https://github.com/E-Soda/CCStopper)) or CC Clean Launcher ([Source](https://github.com/brian6932/CC-Clean-Launcher)) + HuTu Family Homescreen Fix
     * Captivate
     * Illustrator
     * Photoshop
