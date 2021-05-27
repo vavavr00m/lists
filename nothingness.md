@@ -263,6 +263,7 @@ regex
 * [Types](https://ystr.github.io/types/) ([Source](https://ystr.github.io/types/Types.7z))
 * [Locale Emulator](https://pooi.moe/Locale-Emulator/) ([Source](https://github.com/xupefei/Locale-Emulator))
 * [Qalculate](https://qalculate.github.io/) ([Source](https://github.com/Qalculate/libqalculate))
+* Staxrip ([Source](https://github.com/staxrip/staxrip)
 
 #### Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
