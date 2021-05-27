@@ -448,6 +448,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [moo0 Right Clicker Pro](https://www.moo0.com/software/RightClicker/) (Commercial)
   <br /> ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Free)
   <br /> ⬜️ [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
+  <br /> ⬜️ [icoFX](https://icofx.ro/) (Commercial)
+  <br /> ⬜️ [FolderMarker](https://foldermarker.com/en/) (Commercial)
 
 ##### File sharing/syncing
   <br /> ⬜️ [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
