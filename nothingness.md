@@ -629,20 +629,25 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * AdmiralJS ([Source](https://github.com/anon182739/admiraljs))
 
 #### When things go south:
+* [Ketarin](http://ketarin.canneverbe.com/) ([Source](https://github.com/canneverbe/Ketarin))
 * Universal MediaCreationTool wrapper for all MCT Windows 10 versions ([Source](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15))
 * [KMS_VL_ALL - Smart Activation Script](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/) ([Source](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj))
   * elevated CMD to remove keys:
     * slmgr /upk - remove your license key
     * slmgr /cpky - delete license from registry
   * [Office 'Your license isn't genuine' banner fix](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/page-173#post-1653090)
-* [NTLite](https://www.ntlite.com/) (Commercial)
+ * [NTLite](https://www.ntlite.com/) (Commercial)
 * [Rufus](https://rufus.ie/en_US/) ([Source](https://github.com/pbatard/rufus)) or [WinToUSB](https://www.easyuefi.com/wintousb/index.html) (Commercial with limited free version available)
 * [GParted](https://gparted.org/) ([Source](https://sourceforge.net/projects/gparted/))
 * [Office Tool Plus](https://otp.landian.vip/en-us/) ([Source](https://github.com/YerongAI/Office-Tool))
-* CCMaker
-* Adobe Acrobat Pro DC [x86](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html) [x64](https://helpx.adobe.com/acrobat/kb/download-64-bit-installer.html) (Commercial)
-* Adobe GenP
-* [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or [WinRAR](https://rarlab.com) (Trialware)
+* Adobe
+  * CCMaker + [GenP](https://www.reddit.com/r/GenP/) + [CCStopper] ([Source](https://github.com/E-Soda/CCStopper))
+    * Captivate
+    * Illustrator
+    * Photoshop
+    * Premiere Pro
+  * Acrobat Pro DC [x86](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html) [x64](https://helpx.adobe.com/acrobat/kb/download-64-bit-installer.html) (Commercial)  
+* [7zip](https://www.7-zip.org/) ([Source](https://sourceforge.net/projects/sevenzip/)) or [WinRAR](https://rarlab.com) (Trialware) 
 * [qBittorrent](https://www.qbittorrent.org/) ([Source](https://github.com/qbittorrent/qBittorrent))
   * https://github.com/jagannatharjun/qbt-theme/
   * https://gitlab.com/qbittorrent-black-theme/client
