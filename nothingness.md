@@ -439,7 +439,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [Typora](https://typora.io/) ❓📃 
 
 ##### Customization
-  <br /> ⬜️ [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)
+  ~~<br /> ⬜️ [Binary Fortress DisplayFusion](https://www.displayfusion.com/) (Freemium) or [BioniX Wallpaper Changer](http://www.bionixwallpaper.com/) (Free)~~ [Chameleon](https://ianmtz.com/Chameleon) ([Source](https://github.com/ianmartinez/Chameleon))
   <br /> ⬜️ [BrokenURL](http://brokenevent.com/projects/brokenurl) (Free)
   <br /> ⬜️ [Iristech Iris](https://iristech.co/iris/) (Commercial)
   <br /> ⬜️ [Iristech Vision](https://iristech.co/vision/) (Commercial)
