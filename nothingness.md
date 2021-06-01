@@ -671,6 +671,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * SVG Viewer Extension for Windows Explorer ([Source](https://github.com/tibold/svg-explorer-extension))
 * [MysticThumbs](https://mysticcoder.net/mysticthumbs.html) (Commercial)
 * [Icaros](https://shark007.net/tools.html) ([Forum](https://shark007.net/forum/Forum-Icaros-Development)) (Free)
+* Voicemeeter Potato ([Source](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17))
 
 Deleters:
 
