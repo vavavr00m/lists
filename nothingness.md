@@ -632,6 +632,10 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 #### RegEx filters:
 * none yet
 
+### Email validators
+* JMail ([Source](https://github.com/RohanNagar/jmail))
+* cjaoude's regex email validator ([Source](https://gist.github.com/cjaoude/fd9910626629b53c4d25))
+
 #### Others:
 * [carzian](https://www.reddit.com/user/carzian/)'s python script that sets multiple block lists - [Adguard Home - Batch Block List Made Easy](https://www.reddit.com/r/Adguard/comments/isfjz3/adguard_home_batch_block_list_made_easy/) ([Pastebin](https://pastebin.com/i1d4xNAY))
 * arkenfox's user.js ([Source](https://github.com/arkenfox/user.js))
