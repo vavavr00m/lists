@@ -547,6 +547,9 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 ##### Helpers
   <br /> ⬜️ ColorSchemer Studio (Discontinued)
   <br /> ⬜️ [LockHunter](https://lockhunter.com/) (Free)
+  <br /> ⬜️ [Time Clock](https://jyl-software.com/en/Timeclock/) (Commercial with limited free version available)
+  <br /> ⬜️ [Supplier Orders](https://jyl-software.com/en/Supplierorder/) (Commercial with limited free version available)
+  <br /> ⬜️ [Visitor](https://jyl-software.com/en/Visitor/) (Commercial with limited free version available)
 
 ##### Exam/Test/Puzzle/Course Maker/Generator
   <br /> ⬜️ [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
