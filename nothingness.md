@@ -523,6 +523,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [JixiPix Spektrel Art](https://jixipix.com/spektrel-art/details.html) (Commercial)
   <br /> ⬜️ [JixiPix Chromatic Edges](https://jixipix.com/chromatic-edges/details.html) (Commercial)
   <br /> ⬜️ [JixiPix Watercolor Studio](https://jixipix.com/watercolor-studio/details.html) (Commercial)
+  <br /> ⬜️ [MAGIX Photostory Deluxe](https://www.magix.com/int/photo-graphic/photostory/) (Commercial)
   <br /> ⬜️ [Pixarra TwistedBrush Pro Studio](https://www.pixarra.com/pro_studio.html) (Commercial)
   <br /> ⬜️ ~~[Substance Alchemy by Adobe](https://www.substance3d.com/products/substance-alchemist/) (Commercial)~~ > [Blender](https://www.blender.org/) ([Source](https://github.com/blender/blender))
   <br /> ⬜️ ~~[Substance Painter by Adobe](https://www.substance3d.com/products/substance-painter/) (Commercial)~~ > [ArmorPaint](https://armorpaint.org/) ([Source](https://github.com/armory3d/armorpaint)) / [Blender](https://www.blender.org/)
