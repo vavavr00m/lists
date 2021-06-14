@@ -264,6 +264,7 @@ regex
 * [Locale Emulator](https://pooi.moe/Locale-Emulator/) ([Source](https://github.com/xupefei/Locale-Emulator))
 * [Qalculate](https://qalculate.github.io/) ([Source](https://github.com/Qalculate/libqalculate))
 * Staxrip ([Source](https://github.com/staxrip/staxrip)
+* [TaskbarX](https://chrisandriessen.nl/taskbarx) ([Source](https://github.com/ChrisAnd1998/TaskbarX))
 
 #### Self-hosted
 * [ArchiveBox](https://archivebox.io/) ([Source](https://github.com/pirate/ArchiveBox))
