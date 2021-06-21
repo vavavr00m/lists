@@ -565,6 +565,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
   <br /> ⬜️ [Schoolhouse Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
   <br /> ⬜️ [Worksheet Crafter Premium](https://getschoolcraft.com/en/) (Commercial)
+  <br /> ⬜️ [Gradekeeper](https://www.gradekeeper.com/index.html) (Commercial)
 
 ##### Games
   <br /> ⬜️ ~~[Solsuite](http://www.solsuite.com) (Commercial)~~ > [PySolFC](https://pysolfc.sourceforge.io) ([Source](https://github.com/shlomif/PySolFC))
