@@ -564,6 +564,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [Schoolhouse Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
   <br /> ⬜️ [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
   <br /> ⬜️ [Schoolhouse Vocabulary Worksheet Factory Pro](https://www.schoolhousetech.com/vocabulary/) (Commercial)
+  <br /> ⬜️ [VaxaSoftware Maths  +  Physics  +  Chemistry Worksheet generator](http://www.vaxasoftware.com/pc/czzz.html) (Commercial)
   <br /> ⬜️ [Worksheet Crafter Premium](https://getschoolcraft.com/en/) (Commercial)
   <br /> ⬜️ [Gradekeeper](https://www.gradekeeper.com/index.html) (Commercial)
 
