@@ -313,7 +313,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 <br /> ⬜️ [Reaper](https://www.reaper.fm/) (Commercial) or [ReaPlugs](https://www.reaper.fm/reaplugs/) (Free) or [](https://obsproject.com/forum/resources/vst-plugins.848/) ([Source](https://github.com/pkviet/obs-studio/releases))
 <br /> ⬜️ [Soundpad](https://www.leppsoft.com/soundpad/en/home/) (Commercial) [Steam](https://store.steampowered.com/app/629520/Soundpad/) (Commercial)
 <br /> ⬜️ SoundBox (?)
-<br /> ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Commercial)
+<br /> ⬜️ [QiPress](http://www.aalapshah.in/qipress) (Commercial) or [Keypress OSD](https://keypressosd.com/) (Commercial)
 <br /> ⬜️ [Touch Portal](https://www.touch-portal.com/) (Freemium) [PlayStore](https://play.google.com/store/apps/details?id=rils.apps.touchportal) (Freemium)
   * [Voicemeeter Pickel+](https://www.christophecvb.com/touch-portal/plugins/voicemeeter/) (Free)
   * [LifX](https://www.christophecvb.com/touch-portal/plugins/lifx/) (Free)
