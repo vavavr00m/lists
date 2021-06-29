@@ -699,6 +699,11 @@ Deleters:
   * Shreddit ([Source](https://github.com/pythonInRelay/Shreddit))
   * Shreddit ([Source](https://github.com/nicprov/Shreddit))
 
+Exporters:
+
+  WhatsApp
+  * WhatsApp Export Viewer ([Source](https://github.com/MrMelon54/WhatsAppExportViewer))
+
 Legend
 <br /> ❓ = (?) = unknown source
 <br /> ⌛ = pending task
