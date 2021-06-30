@@ -618,8 +618,9 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 
 #### hosts:
 * [4skinSkywalker's Anti Porn Hosts File](https://github.com/4skinSkywalker/anti-porn-hosts-file) ([Raw](https://raw.githubusercontent.com/4skinSkywalker/anti-porn-hosts-file/master/HOSTS.txt))
+* [ADios](https://alexrabbit.github.io/ADios/) ([Raw](https://raw.githubusercontent.com/AlexRabbit/ADios/master/ADBLOCK/subscription))
 * [Clefspeare13's pornhosts](https://github.com/Clefspeare13/pornhosts) ([Raw](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/strict/0.0.0.0/hosts))
-* [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds/) ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt))
+* * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds/) ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt))
   * GoodbyeAds YouTube Adblock Extension ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt))
   * GoodbyeAds LeEco Adblock Extension ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt))
   * GoodbyeAds-Spotify-AdBlock ([Raw](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt))
@@ -632,6 +633,7 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 * [The Blocklist Project](https://github.com/blocklistproject/Lists)
 
 #### AdBlock-style filters:
+* [Fuck Fuckadblock](https://github.com/bogachenko/fuckfuckadblock) ([Raw](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt))
 * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) ([Raw](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt))
 
 #### AdGuard Home:
