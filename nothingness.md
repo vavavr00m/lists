@@ -450,7 +450,8 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
   <br /> ⬜️ [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) (Free)
   <br /> ⬜️ [WizKey](https://antibody-software.com/web/software/software/wizkey-makes-it-easy-to-type-accented-and-other-special-unicode-characters/) (Commercial)
   <br /> ⬜️ [icoFX](https://icofx.ro/) (Commercial)
-  <br /> ⬜️ [FolderMarker](https://foldermarker.com/en/) (Commercial)
+  <br /> ⬜️ [Folder Marker Pro](https://foldermarker.com/en/) (Commercial)
+  <br /> ⬜️ [FileMarker.NET Pro](https://filemarker.net/file-marker-pro.php) (Commercial)
 
 ##### File sharing/syncing
   <br /> ⬜️ [CrushFTP](https://www.crushftp.com/index.html) (Commercial)
