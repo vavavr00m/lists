@@ -13,7 +13,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# https://github.com/jkrejcha/AdmiraList as of 20200918
+# https://github.com/jkrejcha/AdmiraList as of 20201117
 
 0.0.0.0 2znp09oa.com
 0.0.0.0 4jnzhl0d0.com
@@ -715,6 +715,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sablesmile.com
 0.0.0.0 sailsuit.com
 0.0.0.0 samestretch.com
+0.0.0.0 satisfycork.com
 0.0.0.0 satisfyingshow.com
 0.0.0.0 savoryorange.com
 0.0.0.0 saysidewalk.com
